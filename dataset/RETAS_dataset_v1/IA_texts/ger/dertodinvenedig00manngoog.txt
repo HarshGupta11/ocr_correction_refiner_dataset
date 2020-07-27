@@ -1,0 +1,4918 @@
+Google 
+
+
+
+This is a digital copy of a book that was prcscrvod for gcncrations on library shclvcs bcforc it was carcfully scannod by Google as pari of a projcct 
+
+to make the world's books discoverablc online. 
+
+It has survived long enough for the Copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+
+to Copyright or whose legal Copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+
+are our gateways to the past, representing a wealth of history, cultuie and knowledge that's often difficult to discover. 
+
+Marks, notations and other maiginalia present in the original volume will appear in this flle - a reminder of this book's long journcy from the 
+
+publisher to a library and finally to you. 
+
+Usage guidelines 
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken Steps to 
+prcvcnt abuse by commercial parties, including placing lechnical restrictions on automated querying. 
+We also ask that you: 
+
++ Make non-commercial use ofthefiles We designed Google Book Search for use by individuals, and we request that you use these files for 
+personal, non-commercial purposes. 
+
++ Refrain fivm automated querying Do not send automated queries of any sort to Google's System: If you are conducting research on machinc 
+translation, optical character recognition or other areas where access to a laige amount of text is helpful, please contact us. We encouragc the 
+use of public domain materials for these purposes and may be able to help. 
+
++ Maintain attributionTht GoogXt "watermark" you see on each flle is essential for informingpcoplcabout this projcct and hclping them lind 
+additional materials through Google Book Search. Please do not remove it. 
+
++ Keep it legal Whatever your use, remember that you are lesponsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in Copyright varies from country to country, and we can'l offer guidance on whether any speciflc use of 
+any speciflc book is allowed. Please do not assume that a book's appearance in Google Book Search mcans it can bc used in any manner 
+anywhere in the world. Copyright infringement liabili^ can be quite severe. 
+
+Äbout Google Book Search 
+
+Google's mission is to organizc the world's Information and to make it univcrsally accessible and uscful. Google Book Search hclps rcadcrs 
+discover the world's books while hclping authors and publishers rcach ncw audicnccs. You can search through the füll icxi of ihis book on the web 
+
+at |http: //books. google .com/l 
+
+
+
+Google 
+
+
+
+IJber dieses Buch 
+
+Dies ist ein digitales Exemplar eines Buches, das seit Generationen in den Realen der Bibliotheken aufbewahrt wurde, bevor es von Google im 
+Rahmen eines Projekts, mit dem die Bücher dieser Welt online verfugbar gemacht werden sollen, sorgfältig gescannt wurde. 
+Das Buch hat das Uiheberrecht überdauert und kann nun öffentlich zugänglich gemacht werden. Ein öffentlich zugängliches Buch ist ein Buch, 
+das niemals Urheberrechten unterlag oder bei dem die Schutzfrist des Urheberrechts abgelaufen ist. Ob ein Buch öffentlich zugänglich ist, kann 
+von Land zu Land unterschiedlich sein. Öffentlich zugängliche Bücher sind unser Tor zur Vergangenheit und stellen ein geschichtliches, kulturelles 
+und wissenschaftliches Vermögen dar, das häufig nur schwierig zu entdecken ist. 
+
+Gebrauchsspuren, Anmerkungen und andere Randbemerkungen, die im Originalband enthalten sind, finden sich auch in dieser Datei - eine Erin- 
+nerung an die lange Reise, die das Buch vom Verleger zu einer Bibliothek und weiter zu Ihnen hinter sich gebracht hat. 
+
+Nu tzungsrichtlinien 
+
+Google ist stolz, mit Bibliotheken in Partnerschaft lieber Zusammenarbeit öffentlich zugängliches Material zu digitalisieren und einer breiten Masse 
+zugänglich zu machen. Öffentlich zugängliche Bücher gehören der Öffentlichkeit, und wir sind nur ihre Hüter. Nie htsdesto trotz ist diese 
+Arbeit kostspielig. Um diese Ressource weiterhin zur Verfügung stellen zu können, haben wir Schritte unternommen, um den Missbrauch durch 
+kommerzielle Parteien zu veihindem. Dazu gehören technische Einschränkungen für automatisierte Abfragen. 
+Wir bitten Sie um Einhaltung folgender Richtlinien: 
+
++ Nutzung der Dateien zu nichtkommerziellen Zwecken Wir haben Google Buchsuche Tür Endanwender konzipiert und möchten, dass Sie diese 
+Dateien nur für persönliche, nichtkommerzielle Zwecke verwenden. 
+
++ Keine automatisierten Abfragen Senden Sie keine automatisierten Abfragen irgendwelcher Art an das Google-System. Wenn Sie Recherchen 
+über maschinelle Übersetzung, optische Zeichenerkennung oder andere Bereiche durchführen, in denen der Zugang zu Text in großen Mengen 
+nützlich ist, wenden Sie sich bitte an uns. Wir fördern die Nutzung des öffentlich zugänglichen Materials fürdieseZwecke und können Ihnen 
+unter Umständen helfen. 
+
++ Beibehaltung von Google-MarkenelementenDas "Wasserzeichen" von Google, das Sie in jeder Datei finden, ist wichtig zur Information über 
+dieses Projekt und hilft den Anwendern weiteres Material über Google Buchsuche zu finden. Bitte entfernen Sie das Wasserzeichen nicht. 
+
++ Bewegen Sie sich innerhalb der Legalität Unabhängig von Ihrem Verwendungszweck müssen Sie sich Ihrer Verantwortung bewusst sein, 
+sicherzustellen, dass Ihre Nutzung legal ist. Gehen Sie nicht davon aus, dass ein Buch, das nach unserem Dafürhalten für Nutzer in den USA 
+öffentlich zugänglich ist, auch für Nutzer in anderen Ländern öffentlich zugänglich ist. Ob ein Buch noch dem Urheberrecht unterliegt, ist 
+von Land zu Land verschieden. Wir können keine Beratung leisten, ob eine bestimmte Nutzung eines bestimmten Buches gesetzlich zulässig 
+ist. Gehen Sie nicht davon aus, dass das Erscheinen eines Buchs in Google Buchsuche bedeutet, dass es in jeder Form und überall auf der 
+Welt verwendet werden kann. Eine Urheberrechtsverletzung kann schwerwiegende Folgen haben. 
+
+Über Google Buchsuche 
+
+Das Ziel von Google besteht darin, die weltweiten Informationen zu organisieren und allgemein nutzbar und zugänglich zu machen. Google 
+Buchsuche hilft Lesern dabei, die Bücher dieser We lt zu entdecken, und unterstützt Au toren und Verleger dabei, neue Zielgruppcn zu erreichen. 
+Den gesamten Buchtext können Sie im Internet unter |http: //books . google .coiril durchsuchen. 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+THE GIFT OF 
+
+Walter Plnkus 
+
+
+
+
+.i'-'/^ ^ 
+
+
+
+-^A/i. /4 
+
+
+
+Dgilizedb>COOglC 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+i.z.iit,,Coog[c 
+
+
+
+)ii.z.iit>,Cooglc 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+DER TOD IN VENEDIG 
+
+
+
+NOVELLE 
+
+
+
+THOMAS MANN 
+
+
+
+S. FISCHER / VERLAG / BERLIN 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+6-MO 
+
+838 
+M2-8ztn 
+
+
+
+44. bis 51. Auflage 
+
+All« Rechte, inshesondere da- der Überiebung, Torbehnlten 
+
+Copyright bjr S. Fischer, Verl^, Berlin 
+
+
+
+i,z«it>,Coogle 
+
+
+
+DER TOD IN VENEDIG 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+t, Google 
+
+
+
+
+
+
+|0|1S/1^ 
+
+
+
+ERSTES KAPITEL 
+
+Gustav Aschenbach oder von Ascbenbich, wie 
+seit seinem fünfzigsten Geburttit^ imtlich sein 
+Name lautete, hatte an einem Früblings nach mittag 
+des fahres 19 . ., das unserem Kontinent monatelang 
+eine so gefiüird roh ende Miene zeigte, V(Hi snnet 
+Wohnung in der PrinzregentenstraSe zo München 
+aus allein einen weiteren Spaziergang unternommen. 
+Übetreizi von der schwierigen und gefährlichen, eben 
+jetzt eine höchste Behutsamkeit, Umsicht, Kndring- 
+lichkeit und Genauigkeit des Willens erfordernden 
+Arbeit der Vormitt^istunden, hatte der Schriftsteller 
+dem Fortschwingen des produzierenden Triebwerkes 
+in seinem Innern, jenem „moros animi continutu**, 
+worin nach Cicero das Wesen der Beredsamkeit be- 
+nehi, auch nach der Mitiagsmahlzeit nicht Einhalt 
+xn tun vermocht und den enttastenden Schlummer 
+nicht gefunden, der ihm, bei zunehmender Abnutz« 
+barkeit seiner Krifte, einmal untertags so nötig war. 
+So hatte er bald nach dem Tee das Freie gesucht, in 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+der Hofihung, dafi Luft und Bewegung ihn wieder- 
+hersreUen und ihm zu einem ersprießlichen Abend 
+veriielien würden. 
+
+Es war Anfang Mai und, nach naßkalten Wochen, 
+ein fakcher Hochsommer «ngeiUlen. Der Englische 
+Garten, obgleich nur erst zart belaubt, war dumpfig 
+wie im August und in der Nahe der Stadt voller 
+V^en und Spanergänger gewesen. Beim Aumeister, 
+wohin stillere und stillere Wege ihn gefuhrt, hatte 
+Aschcnbuh eine Udne Weile den volkstümlich be- 
+lebten Wirtsgatten überblickt, an dessen Rand einige 
+Droschken und Equip^en hielten, hatte von dort bei 
+rinkender Sonne seinen Heimw^ außerhalb des Parks 
+über die offene Flur genommen und erwartete, da 
+ersieh müde ftihlte und über Föhring Gewitter drohte, 
+am Nördlichen Friedhof die Tram, die ihn in gerader 
+Linie zur Stadt zurückbringen sollte. 
+
+ZufUl^ fand er den Halteplatz und seine Um- 
+gebung von Menschen leer. Weder auf der gepflaster- 
+ten Ungeterstraße, deren Schienengeleise sich einsam 
+gleißend gegen Schwabing erstreckten, noch auf der 
+Ffihringer Chaussee war tun Fuhrwerk zu sehen; 
+hinter den Zlunen der Stnnmeczereien, wo zu Kauf 
+Stehende Kreuze, GedSchtnistafeln und Monumente 
+ein zw«tes, unbehaustes Gräberfeld bilden, regte 
+dch nichts, und das byzantinische Bauwerk der Aa>- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+segnongshalle gegenüber lag schweigend im Abglanz 
+des scheidenden Tages> Ihre Stirnseiie, mit grie- 
+chischen Kreuzen und hieratischen Schildereien in 
+lichten Farben geschmückr.weisTÜberdies symmetrisch 
+angeordnete Inschriften in Goldlettem auf, ausg^ 
+wShlie, das jenseitige Leben betreffende Schriftworte, 
+wie etwa: „Sie gehen ein in die Wohnung Gottes" 
+oder: „Das ewige Licht leuchte ihnen"; und der 
+Wartende hatte während einiger Minuten eine ernste 
+Zerstreuung darin gefunden, die Formeln abzulesen 
+und sein geistiges Auge in ihrer durchscheinenden 
+Mystik rieh verlieren zu lassen, ab et, aus seinen 
+TrSumereien zurückkehrend, im Portikus, oberhalb 
+der beiden apokalyprischen Tiere, welche die Frei- 
+treppe bewachen, einen Mann bemerkte, dessen nicht 
+ganz gewöhnliche Erscheinung seinen Gedanken eine 
+völlig andere Richtung gab. 
+
+Ob er nun aus dem Innern der Halle durch das 
+bronzene Tor hervorgetreten oder von außen unver^ 
+Sehens heran und hinauf gelangt war, blieb ungewiß. 
+Aschenbach, ohne rieh sonderlich in die Frage zu ver- 
+tiefen, neigte zur ersteren Annahme. Mißig hoch- 
+gewachsen, mager, bartlos undauffallend stumpfnasig, 
+gehörte der Mann zum rothaarigen Typ und besaß 
+dessen milchige und sommersprossige Haut. Offen- 
+bar war er durchaus nicht bajuwarischen Schlages: 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+wie denn wenigsieos der breii und gerade gerandet« 
+Basthut, der ihm den Kopf bedeckte, seinem Aus- 
+sehen ein Gepräge des Fremdlündischen und Weit- 
+herkommenden verlieh. Freilich trug er dazu den 
+landesüblichen Rucksack um die Schaltern geschnallt^ 
+einen gelblichen Gurtanzug aus LodenstofF, wie es 
+schien, einen grauen Wetterkragen über dem linken 
+Unterarm, den er in die Wncbe gestützt hielt, und 
+in der Rechten einen mit eiserner Spitze versehenen 
+Stock, welchen er schräg gegen den Boden stemmte 
+and anf dessen Krücke er, bei gekreuzten Füßen, die 
+Hüfte lehnte. Erhobenen Hauptes, so dafl an seinem 
+hager dem losen Sporthemd entwachsenden Halse 
+der Adamsapfel stark und nackt hervortrat, blickte 
+er mit farblosen, roibewimpenen Augen, zwischen 
+denen, sondeihar genug zu seiner kurz aufgeworfe- 
+nen Nase passend, zwei senlu-echte, energische Fur- 
+chen standen, scharf spähend im Weite. So — und 
+vielleicht trug sein erhöhter und erhöhender Stande 
+ort zu diesem Eindruck bei — hatte seine Haltung 
+etwas herrisch Überschauendes, Kühnes oder selbst 
+Wildes; denn sei es, dafi et, geblendet^ g^en die 
+untei^ehende Sonne grimassierte oder dafi es sich 
+um eine dauernde physiognomtsche Entstellung han- 
+delte: seine Lippen schienen zu kurz, sie waren 
+völlig von den Zahnen zurückgezogen, dergestalt, 
+
+
+
+„z^iiuGoogle 
+
+
+
+dafi diese, bis zum Zahnfleisch bloßgelegt, weifi und 
+lang dazwischen hervorbleckten. 
+
+Wohl mt^lich, dafl Aschenbach es bei seiner halb 
+zerstreuten, hilb inquisitiven Musterung des Frem- 
+den an Rücksicht hatte fehlen lassen, denn plötzlich 
+watd et gewahr, dafi iener seinen Blick erwiderte 
+und zwar so kriegerisch, so gerade ins Auge hinein, 
+lo offenkundig gesonnen, die Sache aufi Äußerste 
+zu treiben, und den Blick des andern zum Abzug zu 
+zwingen, dafi Aschenbach, peinlich berührt, sich ab- 
+wandte und einen Gang die Zäune entlang begann, 
+mit dem beiläufigen Entschlufi, des Menschen nicht 
+weiter achtzuhaben. Er hatte ihn in der nächsten 
+Minute vergessen. Mochte nun aber das Wanderer- 
+hafte in der Erscheinung des Fremden auf seine Ein- 
+bildangskraft gewirkt haben oder sonst irgendein 
+physischer oder seelischer Einfluß im Spiele sein: 
+eine selname Ausweitung seines Innern ward ihm 
+ganz überraschend bewufit, eine Art schweifender 
+Unruhe, ein jugendlich durstiges Verlangen in die 
+Ferne, ein GeRihl, so lebhaft, so neu oder doch so 
+langst entwöhnt und verlernt, dafi er, die Hinde auf 
+dem Rücken und den Blick am Boden, genestelt stehen 
+blieb, um die Empfindung aufWesen und Ziel zu prüfen. 
+
+Es war Reiselust, nichts weiter; aber wahrhaft all 
+Anfall auftretend und ins Leidenschaftliche, ja bis 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+zur StnnesHaschung gesteigert. Seine B^erde vrud 
+sehend, seine Einbildungskraft, noch nicht zur Ruhe 
+gekommen seit den Stunden der Arbeit, schuf sich 
+ein Beispiel für alle Wunder und Schrecken der 
+mannigfaltigen Erde, die sie auf einmal sich vorzu- 
+stellen bestrebt war: er sah, sah eine Landschaft, «n 
+tropisches Sumpfgebiet unter dlckdunstigem Himmel, 
+fiiucht, üppig und ungeheuer, ^n« Art Urweltwildnis 
+aus Inseln, Morlsten und Schlamm fahrenden Wasser» 
+armen, — sah aus geilem Farrengewucher, aus Grün- 
+den von fenem, gequollenem und abenteuerUch 
+blühendem Pflanzenwerk haarige PaLnenschäfte nah 
+und ferne emporstreben, sah wunderlich ungesialte 
+Baume ihre Wurzeln durch die Luft in den Boden, 
+in stockende, grünschatrig spiegelnde Fluten vec 
+■enken, wo zwischen schwimmenden Blumen, die 
+milchweiß und grofi wie Schüsseln waren, Vögel von 
+fremder Art, hochschulcr^, mit unförmigen Schnä- 
+beln, im Seichten standen und unbeweglich zur Seite 
+blickten, iah zwischen den knotigen Rohrsammen des 
+Bambusdickichts die Lichter eines kauernden Tigers 
+funkeln — und fühlte sein Herz pochen vor Entsetzen 
+und ritselhaftem Verlangen. Dann wich das Gesicht; 
+und mit einem KoptiKhätteln nahm Aschenbach söne 
+Promenade an den Zäunen der Grabsteinmetzeieien 
+wieder auf. 
+
+
+
+1+ 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Er hatte, zum mindestoi, seit ihm die Minel zu 
+Gebote gewesen waren, die Voneile des Weltverkehrs 
+beliebig zu genieSen, du Reisen nicht anders, denn 
+all eine hygienische Maßregel betrachtet, die gegen 
+Sinn and Nngung dann und wann hatte getroffen 
+werden mässen. Zn bescfaiftigt mit den Angaben, 
+welche «ein Ich und die europiische Seele ihm stellten, 
+XU belastet von der Verpflichtung zur Produktion, 
+der Zerstreuung zu abgeneigt, um zum Liebhaber 
+der bunten Außenwelt zu taugen, hatte er sich durch- 
+aus mit der Anschauung b^nügt, die jedermann, 
+ohne sich weit aus seinem Kreise zu rühren, von der 
+Oberfllche der Erde gewinnen kann, und war nie- 
+mals auch nur versucht gewesen, Europa zu verlassen. 
+Zumal seit sein Leben sich langsam neigte, seit seine 
+Künstlerfurcht, nicht fertig zu werden, — diese Be- 
+soi^nis, die Uhr möchte ^gelaufen sein, bevor er 
+das Seine getan und völlig sich selbst gegeben, nicht 
+mehr als blofie Grille von der Hand zu weisen war, 
+hatte sein Üu&eres Dasein sich :^t ausschlieälich auf 
+die schöne Sndt, die ihm zur Heimat geworden, und 
+auf den rauhen Landsitz beschilnkt, den er sich im 
+Gebirge errichtet und wo er die r^nerischen Sommer 
+verbrachte. 
+
+Auch wurde denn, was ihn da eben so spit und 
+plötzlich angewandelt, sehr bald durch Vernunft und 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+von jung tdf geübte Selbitzncht gemäßigt und richtig 
+gestellt. Er hane beabnchcigt; das Werk, für welches 
+er lebte, bis xu einem gewissen Punkte tu fiftdem, 
+bevor er inis L«nd übersiedelte, und der Gedanke 
+öner Weltbummelei, die ihn auf Monate seiner Ar- 
+beit entführen wärde, schien allzu locker und plan- 
+widrig, er durfte nicht ernstlich in Frage kommen. 
+Und doch wußte er nur za wohl, aus welchem 
+Grunde die Anfechtung (o unversehens hervorge- 
+gangen war. Fluchtdrang war sie, dafi er es sich 
+eingestand, diese Sehnsucht ins Feme und Neue, 
+diese Begierde nach Befreiung, EntbQrdung und Vei> 
+gessen, — der Drang hinweg vom Werke, von der 
+Alltagsstätte eines starren, kalten und leidenschaft- 
+lichen Dienstes. Zwsr liebte er ihn und liebte auch 
+fast schon den entnervenden, sich ti^ch emenem- 
+den Kampf zwischen seinem z&hen und stolzen, so 
+oft erprobten Willen und dieser wachsenden Müdig- 
+keit, von der niemand wissen und die das Produkt 
+auf keine Weise, durch kwn Anzeichen des Ver- 
+sagens und der Laßheit verraten durfte. Aber ver- 
+stindig schien es, den Bogen mcht zu überspannen 
+und ein so lebhaft ausbrechendes Bedürfnis nicht 
+eigensinnig zu ersticken. Er dachte an seine Arbeit, 
+dachte an die Stelle, an der er sie auch beute wieder, 
+wie gestern schon, hatte verlassen müssen und die 
+
+
+
+iS 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+weder geduldiger Pflege noch einem raschen Huid- 
+itreich sich fügen zu wollen schien. Er prüfte sie 
+aufs neue, versuchte die Hemmung zu durchbrechen 
+oder aufzulösen und llefi nüi einem Schauder des 
+Widerwillens vom AngrilF ab. Hier bot sich kerne 
+außerordentliche Schwierigkeit, sondern was ihn 
+llhmie, waren die Skrupeln der Unlust, die sich als 
+eine durch nichts mehr zu befriedigende Ungenüg- 
+tamkeit darstelke. Ungenfigsamkeit freilich hatte 
+schon dem Jüngling als Wesen und innerste Natur 
+des Talentes gegolten, und um ihretwillen hatte er 
+das Gefühl gezugelt und erkältet, weil er wußte, 
+dafi es geneigt ist, sich mit einem fröhlichen Ung^ 
+fiihr und mit einer halben Vollkommenheit zu be- 
+gnügen. Richte sich nun also die geknechtete Emp- 
+findung, indem sie ihn verlieS, indem sie seine Kunst 
+fÜrder zu tragen und zu beflügeln sich weigerte und 
+tOe Lust, alles Entzücken an der Form und am Aus- 
+druck mit sich hinwegnahm? Nicht, daft er Schlechtes 
+herstellte: dies wenigstens war der Vorteil seiner 
+Jahre, daß er sich seiner Meisterschaft jeden Augen- 
+blick in Gelassenheit sicher fühlte. Aber er selbst, 
+irthrend die Nation sie ehrte, er ward ihrer nicht 
+&oh, und es schien ihm, als ermangle sein Werk 
+jener Merkmale feurig spielender Laune, die, ein Ei^ 
+zeuguis derPreude, mehtals iigendeio innerer Gehalt, 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+«n gewichtigerer Vormg, die Freude der genieflen- 
+den Welt bildeten. Er fürchtete ricli vor dem 
+Sommer auf dem Lande, allein in dem kleinen Hause 
+mit der Magd, die ihm dai Essen bereitete, und dem 
+Diener, der es ihm anftnig; fQrchiete sich vor den 
+vertrauten Angesichcen der Berggipfel und -winde, 
+die wiederum teine nnzu&iedene Langsamkeit um- 
+stehen wärden. Und so tat denn eine Einschaltung 
+not, etwas Stegreifdasein, T^edieherei, Femlufr und 
+Zufuhr neuen Blutes, damit der Sommer ero^glich 
+and ergiebig werde. Reisen also, — er war es zu- 
+frieden. Nicht gar weit, nicht gerade bis zu den 
+Tigern. Eine Nacht im Sch[a,fvngen und eine Siesta 
+von drei, vier Wochen an irgendeinem AUeiweltS- 
+ferienplatze im liebenswürdigen Süden . . . 
+
+So dachte er, wihrend der Lünn der dektrischen 
+'Harn die Ungererstraße daher neb näherte, und ein- 
+stehend beichloS er, diesen Abend dem Studium von 
+Kane und KutsboCh zu widmen. Auf der Plattform 
+fiel ihm ein, nach dem Manne im Basthut, dem Ge- 
+nossen dieses immerhin felgereichen Aufenthaltes, 
+Umschaa zu halten. Doch wurde ihm dessen Ver* 
+bleib nicht deutlich, da er weder an sebem vorherigen 
+Standort, noch auf dem weiteren Halteplatz, noch 
+auch im Wagen auslind^ zu machen war. 
+
+
+
+Dg.l.zecit>>COOg[C 
+
+
+
+ZWEITES KAPITEJ. 
+
+'TVer Autor der klaren und mlcht^en Proit- 
+Epopäe vom Leben Friedrichs von Preußen; 
+der geduldige Künstler, der in langem Fleifi den 
+£^renreicben, so vielerlei Menschenschicksal im 
+Schatten einer Idee versammelnden Romanteppich, 
+„Maja" mit Namen, wob; der Schöpfer jener starken 
+Erzählung, die „Ein Elender" überschrieben ist nnd 
+einer ganzen dankbaren Jugend die Mtiglichkeit sitt- 
+licher Entschlossenheit jenseits der tie&ten Erkenne 
+nis zeigte; der Verfasser endlich (und damit sind die 
+Werke seiner Reifezeit kurz bezeichnet) der tnden- 
+schafdichen Abhandlung über „Geist and Kunst", 
+deren ordnende Kraft und anathetiscbe Beredsam- 
+keit ernste Beurteiler vermochte, sie onmitielbar 
+neben Schillers Raiionnement über naive und tenti- 
+fflentalische Dichtung zu stellen: Gustav Aichenbtch 
+also war zu L^ einer Kreisstadt der Provinz Schlesien, 
+als Sohn ones häberen Justizbeamten geboren. Seine 
+Vorfahren waren Offiziere, Richter, Verwaltongs- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+fiuikrionire gewesen, Mlnner, die im Dienste des 
+Königs, des Staates ilir strtfFes, anständig karges 
+Leben gefütirt hatten. Innigere Geistigkeit hane 
+sich einmal, in der Person eines Predigers, unter 
+Urnen verkörpert; rascheres, sinnlicheres Blut war 
+der Familie in der vorigen Generation dutch die 
+Mutter des Dichters, Tochter «nes böhmischen 
+Kapellmeisters, zugekommen. Von ihr stammten die 
+Merkmale fremder Rasse in s«nem Aufiem. Die 
+Vermahlung dienstlich nfichtetner Geurissenhaftig- 
+keit mit dunkleren, feurigeren Impulsen ließ einen 
+Künstler and diesen besonderen Künstler ersteben. 
+Da s«n ganxei Wesen auf Ruhm gestellt war, 
+zeigte er sich, wenn nicht eigentlich frähreif, so 
+doch, 'dank der Entschiedenheit und persönlichen 
+Prägnanz seines Tonfalls, früh für die Öffentlichkeit 
+rrif und geschickt. Beinahe noch Gymnasiast, besaß 
+er einen Namen. Zehn Jahre spater hatte er gelernt, 
+von seinem Schreibtische aus lu repräsentieren, seinen 
+Ruhm zu verwalten, in einem Btieftatz, der kurz sein 
+mußte (denn viele Anspräche dringen auf den Er- 
+folgreichen, den Vertrauenswürdigen ein) gütig und 
+bedeutend zu sein. Der Vierziger hatte, ermattet 
+von den Strapazen und Wechselfallen der eigentlichen 
+Arbeit, alltäglich eine Post zu bewältigen, die Wert- 
+zeichen aus aller Herren Ländern trug. 
+
+
+
+i,z«it>,Coogle 
+
+
+
+Ebetifo weit entfernt vom Banalen wie vom Exzen- 
+trischen, war sein Talent geschaffen, den Glauben 
+des brüten Publikums und die bewundernde, for- 
+dernde Teilnahme der W^erischen zugleich zu ge- 
+winnen. So, schon als Jfingling von allen Seiten auf 
+die Leistung — und zwar die außerordentliche — 
+verpflichtet, hatte er niemals den Müfii^ang, ni^ 
+mals die soi^lose Fahrllssigkeit der Jugend gekannt. 
+Als et um sein (vinfitnddreißigstes Jahr in U^en er- 
+krankte, lußerte ein fmner Beobachter über ihn in 
+Gesellschaft: „Sehen Sie, Aschenbach hat von jeher 
+nur so gelebt" — und der Sprecher schloS die Finger 
+seiner Linken fest zur Faust — ; jemals so" — und 
+er ließ die getffihete Hand bequem von der Lehne 
+des Sessels hingen. Das traf zu; und das Tapfer- 
+SittUche daran war, daß seine Natur von nichts 
+weniger als robuster Vei&ssung und zur ständigen 
+Anspannung nur berufen, nicht eigentlich geboren 
+war. 
+
+Arzdiche Fürsorge hatte den Knaben vom Schnl- 
+besuch ausgeschlossen und auf häuslichen Unterricht 
+gedrungen. Einzeln, ohne Kameradschaft war er 
+auigewachsen und hatte doch zeitig erkennen müssen, 
+dafl er einem Geschlecht angehörte, in dem nicht 
+das Talent, wohl aber die physische Basis eine Selien- 
+hdt war, deren das Talent zu seiner Erfüllung be- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+darf, — einem GescUechte, du früh sein Bestes xa 
+gebea pflegt und in dem du Kömien es selten zu 
+Jahren bringt. Aber sein lieblingswott vrti „Durch- 
+halten", — er s«b in seinem Friedrich-Roman nichts 
+anderes, als die Apotheose dieses Befehlswonet, du 
+ihm als der Inbegriff Indend-tariger Tugend erschien. 
+Auch wünschte er sehnlichst, alt zu werden, denn 
+er hatte von jeher dafür gehalten, dafi wahrhaft gn>&, 
+omfusend, ia wahrhaft ehrenwert nur du Künstler- 
+tum zu nennen sei, dem es beschieden war, auf allen 
+Stufen des Menschlichen charakteristisch fruchtbar 
+zu sein. 
+
+I>a er also die Aufgaben, mit denen sein Talent 
+ihn belud, auf zarten Schultern tragen und weit 
+gehen wollte, so bedurfte er höchlich der Zucht, 
+— und Zucht war ja zum Glück« sein «ngeborenes 
+Erbteil von räierUcher Seite. Mit vierzig, mit fünf- 
+Ug Jahren wie schon in önem Alter, WO andere ver- 
+schwenden, schwärmen, die Ausfuhrung grofier Pllne 
+getrost verschieben, b^ann er seinen TVg beizeiten 
+mit Stürzen kalten Wassers über Bniit und Rücken 
+und brachte dann, ein Paar hoher Wachskerzen in 
+silbernen Leuchtern zu Haupten des Manuskripts, 
+die Krlfte, die er im Schlaf gesammelt, in zwei 
+oder drei inbrünstig gewissenhaften Morgenstun- 
+den der Kunst zum Opfer dar. Et war verzeihlich. 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+ia, es bedeutet« recht eigentlich den Si^ seiner 
+Moralitlt, wenn Unkundige die Mnja-Welt oder die 
+epischen Masient in denen sich Friedrichs Helden- 
+leben entrollte, fär das Erzeugnis gedrungener Kraft 
+und eines langen Atems hielim, während sie viel- 
+mehr in kleinen Tagewerken aus aberhundert Einzel- 
+inspirationen zur GröSe empo^eschichtet und nur 
+darum so durchaus und an jedem Punkte vortreff- 
+lich waren, weil ihr Schöpfer mit einer Willensdauer 
+und Zähigkeit, derjenigen ilhnlidi, die seine Heimat- 
+provinz eroberte, jahrelang unter der Spannung einet 
+und desselben Werkes ausgehalten und an die eigent- 
+liche Herstellung ausschlieSlich seine stärksten und 
+würdigsten Stunden gewandt hatte. 
+
+Damit ein bedeutende* Geistesprodukt auf der 
+Stelleanebreiteund tiefe Wirkung zu üben vermöge, 
+mufi eine geheime Verwandtschaft, ja Überein- 
+stimmung zwischen dem persänlichen Schicksal seines 
+Urhebers und dem allgemdnen des nütlebenden Ge- 
+schlechtes bestehen. Die Menschen wissen nicht, 
+warum sie önem Kunstweike Ruhm bereiten. Weit 
+entfernt von Kennerschaft, glauben sie hundert Vor- 
+zöge daran zu entdecken, um lo viel Teilnahme zu 
+rechiferrigen-, aber der eigentliche Grund ihres Bei- 
+falls ist ein Unwägl>ares, ist Sympathie. Aschenbäch 
+hüte es einmal an wenig sichtbarer Stelle oomittelbar 
+
+
+
+)ii.z.iit>,Goog[c 
+
+
+
+ansgespTochen, daA beinahe alles Grofte, was daitehe, 
+als ein Trotzdem dastehe, trotz Kuminer und Qual, 
+Annnt, Verlassenhrit, Körperschv^cbs, Lastet, L^ 
+denschaft und tausend Hemmnissen zustande ge- 
+kommen sei. Aber das war mehr als «ne Bemerkung, 
+es war eine Erfahrung, war geradezu die Formel 
+seines Lebens und Ruhmes, der Schlüssel zu seinem 
+Werk; und was Wunder also, wenn es auch der sit^ 
+liehe Charakter, die äufiere Gebirde sriner eigemüm- 
+liebsten Figuren war? 
+
+Über den neuen, in mannigfach individuellen Er- 
+scheinungen udederkehrenden Heldentyp, den dieser 
+Schriftsteller bevorzugte, hatte schon frühzeitig dn 
+kluger Zet^liederer geschrieben: dafi et die Kon- 
+zeption „einer intellektuellen und jünglinghaften 
+Minnlichkeit" sei, „die in stolzer Scham die Zahne 
+aufeinanderbeißt und ruhig dasteht, während ihr die 
+Schwerter und Speere durch den Leib gehen." Das 
+war schön, gdstroicb und exakt, trotz seiner schein- 
+bar allzu passivischen Prlgung. Denn Haltung im 
+Schicksal, Anmut in der Qual bedeutet nicht nur tön 
+Dulden; tie ist eine aktive Leistung, nn -positiver 
+Triumph, und die Sebasrian-Gestalt ist das schönste 
+Sinnbild, wenn nicht der Kunst überhaupt, so doch 
+gewiß der in Rede stehenden Kunst. Blickte man 
+hinein in diese erzlhlte Welt, sah man : die elegante 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Selbnbehemchnng, die bU zum letztea AugenMick 
+eine innere Unterlitihlung, den biologischen Verfall 
+vor den Augen der Welt verbii^ ; die gelbe, sinnlich 
+benachceiligte HaSlichlceit, die es vermig, ihn 
+schwelende Brunn zur reinen Flamme zu entfachen, 
+ja, sich zur Herrschaft im Reiche der Schönheit auf- 
+zuschwingen-, die bleiche Ohnmacht, welche aus den 
+glühenden Tiefen des Geistes die Kraft holt, ein 
+gaiues dbermäriges Volk zu Füfien des Kreuzes, zu 
+ihren Fiifien niederzuwerfen; die liebenswürdige 
+Haltung im leeren und strengen Dienste der Form; 
+das fälsche, gefahrliche L^en, die rasch entnervende 
+Sehnsucht und Kunst des geborenen Betrügen; be- 
+trachtete man all dies Schicksal und wieviel gleich- 
+artiges noch, so konnte man zweifeln, ob es äbe^■ 
+haupt einen anderen Heroismus gäbe, als denjenigen 
+der Schwäche. Welches Hddentum aber jedenfalls 
+wlre zeiigemifier als dieses? Gustav Aschenbach 
+war der Dichter all derer, die am Rande der Er> 
+Schöpfung arbeiten, der Überbürdeten, schon Auf- 
+geriebenen, nch noch Aufrechthallenden, all dieser 
+Moralisten der Ldstung, die, schmichtig von Wuchs 
+und sprtide von Mineln, durch Willensverzückung 
+und kluge Verwaltung sich wenigstens eine Zeitlang 
+die Wirkungen der Grfiße abgewinnen. Ihrer sind 
+viele, sie sind die Helden des Zeitalters. Und ne 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+alle erkannten sich wieder in seinem Werk, rie fm- 
+den ^ch bestltigr, erhoben, besungen darin, ne 
+wufiten ihm Dank, «e verkündeten seinen Nunen. 
+
+Er war jung and roh gewesen mit der Zeit und, 
+schlecht beraten von ihr, war er <(frentlich gestrau- 
+chelt, hane Mifigriffe getan, nch blofigestellt, Ver> 
+Stfifie gegen Takt und Besonnenheit begangen in 
+Wort und Werk. Aber er hatte die Würde ge- 
+wonnen, nach welcher, wie er behauptete, jedem 
+grofien Talente ein natürlicher Drang und Stachel 
+eingeboren ist, ja, man kann sagen, daS seine ganze 
+Entwicklung ein bewu&ter und trotziger, alle Hem- 
+mungen des Zweifels und der Ironie zurücklassender 
+Aufstieg zur Wärde gewesen w«r. 
+
+Lebendige, geistig unverbindliche Greifbarfcnt der 
+Gestaltung bildet das Ergötzen der bürgerlichen 
+Massen, aber leidenschaftlich unbedingte ]ugend 
+wird nur durch das ProUematische gefesselt: und 
+Aschenbach war problematisch, war unbedingt ge- 
+wesen wie nur it^endein JQngting. Er hatte dem 
+Geiste geahnt, nüt der Erkenntnis Raubbau ge- 
+trieben, Saitfruchc vermählen, Geheimnisse preis- 
+g^eben, das Talent verdachtigt, die Kunst verraten, 
+— ja, wlhrend seine Bildwerke die gUublg Genießet^ 
+den unterhielten, erhoben, belebten, hatte er, der 
+jugendliche Künstler, die Zwanzigjlhrigendorch seine 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Zynismen fiber das fragwürdige Wesen der Kunst, 
+des Kanstlemims selbst in Atem gehalten. 
+
+Aber es scheint, dafl gegen nichts ein edler und 
+tfichiiger Geist sich rascher, sich gründlicher atv 
+stumpft, als gegen den scharfen und bitteren Reiz 
+der Erkenntnis; und gewiß ist, daß die ichwermütig 
+gewissenhafteste Gründlichkeit des Jünglings Seicht- 
+h«t bedeutet im Vergleich mit dem tiefen Entschlüsse 
+des Meister gewordenen Mannes, das Wissen zu 
+leugnen, es abzulernen, erhobenen Hauptes darüber 
+hinwegzugeben, sofern es den Willen, die Tat, das 
+Gefühl und selbst die Leidenschaft im geringsten zu 
+lihmen, xu entmutigen, zu entwürdigen geeignet ist. 
+We wäre die berühmte Erzählung vom „Elenden" 
+wohl anders zu deuten, denn als Ausbruch des Ekels 
+gegen den unanständigen Fsychologismus der Zeit, 
+verkörpert in der Figur jenes weichen und albernen 
+Halbschnrken, der uch ein Schicksal erschldcht, in- 
+dem er sein Weib, ans Ohnmacht, aus Lasterhaftig- 
+kdt, aus ethischer VellätSt, in die Anne eines Un- 
+binigen treibt und aus Tiefe Nichtswürdigkeiten 
+hieben zu dürfen glaubt? Die Wucht des Wortes, 
+mit welcher hier das Verworfene verworfen wurde, 
+verkündete dieAbkehrvon allem moralischen Zweifel- 
+rinn, von jeder Sympathie nüt dem Abgrund, die 
+Absage an die Laxheit des Mitleidssatzet, dafi alias 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+veritehen tll« verzeihen heifie, und was sich hier 
+vorbereitete, ja ichcin vollzog, wu jenes „Wunder 
+der wiedergeborenen Unbefangenheit", aufweichet 
+ein wen^ später in einem der Dialoge des Autort 
+ausdrücklich und nicht ohne geheimnisvolle Betonung 
+die Rede kam. Seltsame Zusammenhinge! War es 
+eine geistige Folge dieser „Wiedergeburt", dieser 
+neuen WOrde und Strenge, dafi man um dieselbe 
+Zeit ein fast iibennäO^es Erstarken seines Schänheit*- 
+nnnes beobachtete, jene adelige Reinheit, Einfach- 
+h«t und Ebenmiftigkeit der Fonngebong, welche 
+seinen Produkten fortan ein so sinn&Uiges, ja ge- 
+wolltet GepiUge der Meitterlichkeit und Klassizität 
+verlieh? Aber moralische Entschlossenheit jenseits 
+des Wissens, der auflösenden und hemmenden Er- 
+kenntnis, — bedeutet sie nicht wiederum eine Ver- 
+rinfächnn^ eine tittliche Vereinftldgong der Welt 
+and der Seele imd also auch tun Erstariien zum Bö- 
+ten, Verbotenen, zum sittlich Unmöglichen? Und 
+hat Form nicht zweierlei Gencht? Ist sie mcht ritt- 
+lich und unsittlich zi^leich, — rittlich als Et^bnis 
+und Ausdruck der Zucht, unrittlich aber und selbst 
+widerrittlich, sofern rie von Natur nne moralische 
+Gleichgültigkeit in rieh schliefit, ja wesentlich bestrebt 
+ist, das Moralische unter ihr stolzes und unumschiink- 
+tet Szepter zu beugen? 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Wie dem auch lei ! Eine Entwicklung in ein Schick- 
+ttt; und wie sollte nicht di^enige anders verlaufeni 
+die von der Teilnahme, dem Massenzuirauen einet 
+weiten öfFentlichkeit begleitet wird, als jene, die 
+sich ohne den Glanz und die Verbindlichkeiten des 
+Ruhmet vollzieht? Nur ewiges Zigeunercum findet 
+es langweilig und ist zu ipotren geneigt, wenn tön 
+grofies Talent dem libertiniKhen Puppenstande ent- 
+wichst, die Warde des Geistes ausdrucksvoll wahr- 
+zunehmen rieh gewöhnt und die Hofsitten einer 
+Einsamkeit aniümmt, die voll unberatener, hart selb- 
+tOndiger Leiden und Kämpfe war und es zu Macht 
+und Ehren unter den Menschen brachte. Wieviel 
+Spiel, Trotz, Genufi ist übrigens in derSelbngestaltung 
+des Talentes! Etwas Amtlich-Erzieherisches trat mit 
+der Zeil in Gustav Aschenbachs Vorftihrungen ein, 
+sein Stil entriet in späteren Jahren der unmittel- 
+baren Kühnheiten, der subtilen und neuen Ab- 
+schattungen, er wandelte sich int Müstergtiliig-Fest- 
+stehende, GeschlifFen- Herkömmliche, Erhaltende, 
+Formelle, selbst Formelhafte, tmd wie die Über- 
+lieferung es von Ludwig XIV. vrissen will, so ver- 
+bannte der Alternde aus seiner Sprachweise jedes 
+gemnne Wort. Damals geschah es, dafl die Unter- 
+tichtsbehörde ausgewählte Seiten von ihm in die vor- 
+geschriebenen Schul-Lesebücher nbemafam. Es war 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+ihm innerlich gemifl, und er lehnte nicht ab, tli ein 
+deutscher Ffint, soebien zum Throne gelangt, dem 
+Dichter det ^rFriedrich" zu seinem fSnfzigscen Ge- 
+burtstag den persönlichen Adel verlieh. 
+
+Nach e!nlgenjahren det Unruhe, einigen Versuchs- 
+aufenihalten da und dort Höhlte er fHihzeirig Mün- 
+chen zum dauernden Wolmsitz und lebte dort in 
+bfii^erlichem Ehrensiande, wie er dem Geiste in be- 
+sonderen EinzelfiUen zuteil wird. Die Ehe, die er in 
+noch jugendlichem Alter mit «nem Madchen aus 
+gelehrter Familie eingegangen, wurde nach kuizer 
+Glücksfrist durch den Tod getrennt. Eine Tochter, 
+schon Gattin, war ihm geblieben. Einen Sohn hatte 
+fct nie besessen. 
+
+Gustav von Aschenbach war ewas unter Mittel- 
+gröfie, brünett, raiiert Sein Kopf erschien ein wenig 
+zu grofi im Verhiltnis zu der fast zierlichen Ge- 
+stalt. Sein rückwlrts gebürstetes Haar, am Scheitel 
+gelichtet) an den Schlafen sehr voll und stark ergraut, 
+umrahmte eine hohe, zerklüftete und gleichsam nai> 
+bige Stirn. Der Bügel einet Goldbrille mit randlosen 
+GUsem schnitt in die Wurzel der gedrungenen, edel 
+gebogenen Nase ein. Der Mund war groß, oft schlaff, 
+oft plötzlich schmal und gespannt) die Wuigenpartie 
+mager und gefurcht, das wohlausgebildete Kinn weich 
+gespalten. Bedeutende Schicksale schienen über diei 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+mnn leidend leltwärts geneigte Haupt hinwegge- 
+gangen zu lein, and doch war die Kunst ei gewesen, 
+die hier jene physiognomische Durchbildung äbei^ 
+nommen hatte, welche sonst das Werk eines schweren, 
+bewegten Lebens ist. Hinter dieser Stirn waren die 
+blitzenden Repliken des Gesprächs zwischen Voltaire 
+und dem Könige über den Krieg geboten; diese 
+Augen, müde und tief durch die Gläser blickend, 
+hanen das blutige Inferno der Lazarette des Sieben- 
+jührigen Kriegesgesehen. Auch persönlich genommen 
+ist ja die Kunst ein erhöhtes Leben. Sie begluckt 
+tiefer, sie verzehrt rascher. Sie grübt in das Antlitz 
+ihres Dieners die Sputen im^inürer und geistiger 
+Abenteuer, und sie eizeugt, selbst bei klösterUcher 
+Stille des äuSeren Daseins, auf die Dauer eine Ver- 
+wöhntheit, Überfeinerung, Müdigkeit und Neugier 
+der Nerven, wie ein Leben voll ausschweifender Lei- 
+denschaften und Genüsse sie kaum hervorzubringen 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+DRITTES KAPITEL 
+
+Ikifehrere Geschäfte weltÜcber und titeruischer 
+Nunr hielten den Reiselujtigen noch etwa 
+zwei Wochen nach jenem Spaziergang in Münchea 
+zurück. Er gab endlich Auftrag, sein Landhaus binnen 
+vier Wochen xom Einzüge instandzusenen und reiste 
+an einem Tage zwischen Mine und Ende des Mai 
+mit dem Nachtzuge nach Trien, wo er nur vienind- 
+xwantig Stunden verweilte und lieh am nichstfblgen- 
+den Morgen nach Pola einschiffte. 
+
+Was er suchte, war das Fremdartige und Bezug- 
+lose, welches jedoch rasch zu erreichen wäre, und so 
+nahm er Aufenthalt auf einer seit einigen Jahren 
+gerühmten Insel der Adria, onfiBm der istrischen 
+Kfiste gelegen, niii firbig zerlumptem, in wild- 
+fremden Lauten redendem Landvolk und schön zer- 
+rissenen Klippenpartien dort, wo da* Meer offen 
+war. Allein Regen und schwere Luft, eine klein- 
+welilicbe, geschlossen fisterreichitche Hotelgesell- 
+■chaft und der Mangel jene* ruhevoll innigen Ver- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+idltnifses zum Meere, das nur ^ lanfrer, tandiget 
+Strand gewihrt, verdrossen ihn, liefien ihn nicht das 
+Bewufitsetn gewinnen, den Ort seiner Besdmmung 
+getroffen zu haben; ein Zug seines Innern, ihm war 
+noch nicht deutUch, wohin, beunruhigte ihn, er 
+Stadierce Schif^erbindungen, er blickte suchend 
+umher, und auf einmal, zi^leich überraschend und 
+setbstverstiUidlich, stand ihm sein Ziel voi Augen. 
+Wenn man Aber Nacht das Unvergleichliche, das 
+märchenhaft Abweichende zu erreichen wünschte, 
+' wohin ging man? Aber das war klar. Was soUie er 
+hier? Er war fehlgegangen. Dorthin hatte er reisen 
+wollen. Er sitomte nichts den irrigen Aufenthalt zu 
+kündigen. Anderthalb Wochen nach seiner Ankunft 
+auf der Insel tn^ ein geschwindes Motorboot ihn 
+und sein Gepäck in dunstiger Frähe 6bet die Wasser 
+in den Kriegshafen zurück, und er ging dort nur an 
+Land, um sogleich über «nen Brettersteg das feuchte 
+Verdeck eines Schiffes xu beschreiten, das anter 
+Dampf zur Fahrt nach Venedig lag. 
+
+Es war ein betagtes Fahrzeug italiemscher Naiio- 
+nalitlt, veraltet, ruAig und düster. In einer hdhlen- 
+artigen, künstlich erleuchteten Koje des inneren 
+Raumes, wohin Aschenbach sofort nach Betreten des 
+Schiffes von einem buckligen und unreinlichen Map 
+crosen mit grinsender Höflichkeit genötigt wurde, 
+
+I " 
+
+
+
+i,z«it>,Coogle 
+
+
+
+uS hinter einem Tische, den Hut Khief in der Stim 
+und einen Zigarenenstummel im Mundwinliel, ein 
+megenbiitiger Mann von der Phyüognomie eines 
+altmodischen ^kusdirekton, der mit grimassen- 
+haft leichtem Geschäftsgebaren die Personalien der 
+Retsenden aufnahm und ihnen die Fahncheine aus- 
+stellte, i^ach Venedig l" wiederholte er Ascben- 
+bachs Ansuchen, indem er den Arm reckte und die 
+Feder in den breiigen Resonhalt eines schrSg ge- 
+neigten Tintenfasses stiefi. „Nach Venedig erster 
+Klasse! Sie sind bedient, mein Herr." Und er schrieb 
+große Krähenfüße, streute aus einer Bächse blauen 
+Sand auf die Schrift, lieS ihn in rine tönerne Schale 
+ablaufen, faltete das Papier mit gelben und knochigen 
+Fingern and sclirieb auß neue, „tm glücklich ge- 
+wähltes Reiseziell" schwatzte er unterdessen. „Ah, 
+Vened^! Eine herrliche Stadt! Eine Stadt von un- 
+widerstehlicher Antiehungskrafi fut den Gebildeten, 
+ihrer Geschichte sowohl wie ihrer gegenwartigen 
+Reize wegen!" Die glatte Raschheit seiner Bewe- 
+gungen und das leere Gerede, womit er sie begldtete, 
+hatten etwas Betüubendes und Ablenkendes, etwa 
+als besorgte er, der Reisende möchte in seinem Ent' 
+ichlufl, nach Venedig zu fähren, noch waidcend wei^ 
+deo. Er kassierte eilig und liefi mit Croopiergewandt- 
+heit den Oifferenzbetrag auf den fleckigen Tiichbezug 
+
+14 
+
+
+
+i.z.iit,,Cooglc 
+
+
+
+dei Tisches Allen. „Gute Unterhaltung, mein Herrl" 
+tagte er mit schauspieleriichei Verbeugung. «^ ■>( 
+mit eine Ehre, Sie xu befördern . . . Meine Herrent" 
+rief et sogleich mit erhobenem Arm und tat, ab lei 
+das Geschäft im flottenen Gange, obgleich niemand 
+mehr da war, det nach Abfertigung verlangt hätte. 
+Aschenbach kehrte auf das Verdeck zurück. 
+
+Einen Arm auf die Brüstung gelehnt, betrachtete 
+er das mü&ige Volk, das, der Abfahrt des Schiffes 
+beizuwohnen, am Quai lungerte, und die Passagiere 
+am Bord. Dieienigen der zweiten Klasse kauerten, 
+Männer und Weiber, auf dem Vorderdeck, indem üe 
+Kisten and Bündel als Sitze benutzten. Eine Gruppe 
+junger Leute bildete die Reisegesellschaft des ersten 
+Verdecks, Polesanei Handelsgebilfen, wie es schien, 
+die sich in angeregter Laune zu einem Ausfluge nach 
+Italien vereinigt hatten. Sie machten nicht wenig 
+Aufhebens von sich und ihrem Unternehmen, schwatz- 
+ten, lachten, genossen selbstgefällig das eigene Ge- 
+bardenspiel and riefen den Kameraden, die, Porte- 
+feuilles unterm Arm, in Geschäften die Hafenstrafie 
+entlang gingen and den Feiernden mit dem Stack- 
+eben drohten, über das Gelander gebeugt, zungen- 
+geläuüge Spottreden nach. Einer, in hellgelbem, 
+Sbermodisch geschnittenem Sammeranzug, roter Kra- 
+watte und kühn aufgebogenem Panama, tat nch mit 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+krihendei Stimtne an An^eriumtheit vor allen 
+indem hervor. Kaum aber hane Aschenbach ihn ein 
+wenig genauer int Auge gefaAt, ab er nüt einer Art 
+von Enitenen eilcannte, daß der Jüngling fiütch war. 
+Er wai alt, man konnte nicht zwöfeln. Runzeln um- 
+gaben ihm Augen und Mund. Das matte Karmenn 
+der Wangen war Schminke, das braune Haar unter 
+dem fiubig umwundenen Strohhut Perücke, sdn 
+Hals ver£tllen und sehnig, sein aufgesetztes Schnurr^ 
+birtchen und die I^iege un Kinn gefärbt, sein gelbes 
+und vollzähliges GebiS, das er lachend zeigte, ein 
+bÜltger Ersatz, und seine Hände, mit Siegelringen an 
+beiden Zetgeüngem, waren dieeines Greises. Schauer- 
+Heb angemutet sah Aschenbach ihm und sräier Ge- 
+meinschaft mit den Freunden zu. Wiifiten, bemerkten 
+sie nicht, daß er alt war, daft er zu Unrecht ihre 
+stutzerhafte und bunte Kleidung trug, zu Unrecht 
+rinen der ihren spielte? Selbttveistindlich und ge- 
+wohnheitsmäfiig, wie es schien, duldeten sie ihn in 
+ihrer Mitte, behandelten ihn ab ihresgleichen, er- 
+widerten ohne Wderwillen seine neddschen Rippen- 
+stöße. Wie ging das zu? Aschenbacb bedeckte seine 
+Stirn mit der Hand und schloß die Augen, die heifl 
+waren, da er zu wenig geschlafen hatte. Dun war, 
+ab lasse nicht alles sich ganz gewöhnlich an, ab be- 
+ffim» eine tNium erische Ent&emdui^, eine Entstellung 
+
+
+
+Dg.l.zecit>>COOg[C 
+
+
+
+der Weh imSonderbtre um sich zu greifen, der riel- 
+leicht Einhilt zu tun wire, wenn er tein Gesicht ein 
+wenig verdunkelte und aufi neue um sich schaute. In 
+diesem Ai^enbUck [edoch berührte ihn das Gefühl des 
+Schwimmern, und mit nnvemiioitigem Erschrecken 
+tufsehend, gewahrte er, daß der schwere und düstere 
+Körper des Schiffes sich langsam vom gemauerten 
+Ufer löste. Zollweise, unter dem Vorwärts- und 
+Räckw^rtsarbeiten der Maschine, verbreiterte nch 
+der Streifen schmutzig schillemden Wassers zwischen 
+Quai und Schif&wand, und nach schwerfälligen Ma- 
+növern kehrte der Dampfier seinen Bugspriet dem 
+oiFenen Meere zu. Aschenbach ging nach der Steuer- 
+bordseite hinüber, wo der Bucklige ihm einen li^e- 
+stuhl aufgeschlagen hatte und ein Steward in fleckigem 
+Frack nach seinen Befehlen fragte. 
+
+Der Himmel war grau, der Wind feucht. Hafen 
+und Inseln waren zurückgeblieben, und rasch verlor 
+sich ans dem dunstigen Gesichtskreise alles Land. 
+Flocken von Kohlenstaub gingen, gedunsen vonNässe, 
+auf das gewaschene Deck nieder, das nicht trocknen 
+wollte. Schon nach einer Stunde spannte man ein 
+Segeldach aus, da es zu regnen begann. 
+
+In seinen Mantel geschlossen, ein Buch im Schofie, 
+ruhte der Reisende, und die Stunden verrannen ihm 
+unversehens. Es hatte zu regnen angehört; man 
+
+)7 
+
+L)^i.z.iiuGoog[c 
+
+
+
+•ntfemte du leinene Dich. Der Horizont wir voU- 
+kommen. Unter der trüben Kuppel des Himmels 
+dehnte dch rings die ungeheure Scheibe des fiden 
+Meeres. Aber im leeren, im ungegliederten Räume 
+fehlt unserem Sinn euch das Maß der Ztäx, und wir 
+dämmern im Ungemessenen. Schattenhaft sonder- 
+bare Gestalten, der greise Geck, der Ziegenbart ans 
+dem SchifFsinnem, gingen mit unbestimmten Ge- 
+bärden, mit verwirrten Traumworten durch den Geist 
+des Ruhenden, und er schlief an. 
+
+Um Mittag nötigte man ihn zur Kollation in den 
+konidoranigen Speisesaal hinab, auf den die Türen 
+der Scblafkojen mündeten und wo am Ende des 
+langen Tisches, zu dessen Haupten er speiste, die 
+Handel^ehilfen, elnschliefiltch des Alten, seit zehn 
+Uhr mit dem munteren Kapitin pokulierten. Die 
+Mahlzeit war armselig, und er beendete sie rasch. 
+Es trieb ihn im Freie, nach dem Himmel xu sehen; 
+ob er denn nicht über Venedig sich erhellen wollte. 
+
+Er hatte nicht anders gedacht, als daß dies ge- 
+schehen müsse, denn stets hatte die Stadt ihn im 
+Glänze empfangen. Aber Himmel und Meer blieben 
+trüb und bleiern, zeitweilig ging neblichter Regen 
+nieder, und er fand sich darin, auf dem Wasserw^e 
+ön anderes Venedig zu erreichen, als er, zu Lande 
+sich nüherod, je angetroffen hatte. Er stand am 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Fockmast, den Blidc im Weiten, du Land erwartend. 
+Er gedachte des ichwermütig-enthtisiastuchen Dich- 
+ten, dem vonnals die Kuppeln und Glockentünne 
+seines Tnum« aus diesen Fluten gestiegen waren, 
+er wiederholte im stillen nn!ges von dem, was da- 
+mals an Ehrfurcht, Glück und Trauer zu mafivollem 
+Gesänge geworden, und von schon gestalteter Emp- 
+findung mühelos bewegt, prüfte er sein ernstes und 
+müdes Herz, ob eine neue Begeisterung und Vei^ 
+wirmng, ein spites Abenteuer de* Gefühles dem 
+fährenden Müfl^^ger viellncbt noch vorbehalten 
+sein könne. 
+
+Da nuchte zur Rechten die flache Küste »a£, 
+Hscherboote belebten das Meec, die Büderinsel er> 
+schien, der Dampfer lieb sie zur Linken, glitt vei> 
+langsamten Ganges durch den schmalen Port, der 
+nach ihr benannt ist, und auf der L^une, angesicha 
+bunt armseliger Behausungen, hielt er ganz, da die 
+Barke des Sanitätsdienstes erwartet werden mufite. 
+
+Eine Stunde verging, bis sie erschien. Man war 
+angekommen und war es nicht; man hatte keine Eile 
+und fühlte sich doch von Ungeduld getrieben. Die 
+jungen Polesaner, patriotisch angezogen auch wohl 
+von den militärischen Homsignalen, die aus der 
+Gegend der öffentlichen Girten her über das Wasser 
+klingen, waren auf Deck gekommen und, vom Asti 
+
+19 
+
+
+
+begeistert, brachten iie Lebehoclu tuf die dräben 
+exerzierenden Beis^Ueri tiui. Aber widerlich wur 
+es zu sehen, in welchen Zustand den lufgestutzten 
+Greisen seine fakche Gemeinschaft mit der Jugend 
+gebracht hatte. Sein altes Hirn hane dem Wdne 
+nicht wie die |ugendUch rüstigen standzuhalten ver- 
+mocht, er war klaglich betrunken. Verblödeten 
+Blicks, eine Zigarette zwischen den zitternden 
+ungern, schwankte er, mühsam das Glnchgewicht 
+haltend, auf der Stelle, vom Rausche vorwärts und 
+rückwärts gezogen. Da er beim ersten Schritte ge- 
+fallen wlre, getraute er sich nicht vom Fleck, doch 
+zeigte er dnen jammervollen Übermut, iüelt jeden, 
+der sich ihm niherte, am Knopfe fest, lallte, zwinkerte, 
+kicherte, hob seinen beringten, runzeligen Zeigefinger 
+zu alberner Neckerei und leckte auf abscheulich 
+zweideurige An mit der Zungenspitze die Mund- 
+winkel. Aschenbach sah ihm mit finsteren Brauen zu, 
+und wiederum kam ein Gefühl von Benommenheit 
+ihn an, so, als zeige die Welt eine leichte, doch nicht 
+zu hemmende Neigung, sich ins Sonderbare und 
+Fratzenhafte zu entstellen: ein Gefühl, dem nachzu- 
+hängen freilich die Umstände ihn abhielten, da eben 
+die stampfende Tätigkeit der Maschine auis neue be- 
+gann und das Schiff seine sonahdemZiel unterbrochene 
+Fahrt durch denKanal von SanMatcowieder an&iahm. 
+
+
+
+4» 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+So rah et ihn denn wieder, den etsntinlichstea 
+Landungsplatz, jene blendende Kompotidon phan- 
+tastischen Bauwerks, welche die Republik den thi- 
+furchtigen Blicken nahender Seeiahrer entgegen- 
+stellte: die leichte Herrlichkeit des Palastet und die 
+Senfeerbrttcke, die Säulen mit Lfiw' and Heiligem 
+am Ufer, die prunkend vortretende Flanke des Mät> 
+chentempels, den Durchblick auf Torweg und Riesen- 
+nhr, und anschauend bedachte er, dafi zd Lande, auf 
+dem Bahnhof in Venedig anlangen, einen Palast 
+durch eine Hintertär betreten heifie, und dafi man 
+nicht anders, als wie nun er, als zu Schiffe, als aber 
+das hohe Meer die unwahrscheinlichste det Südte 
+erreichen sollte. 
+
+Die Maschine stoppte, Gondeln dingten herzu, 
+die Fallreepstreppe ward hinabgelassen, Zollbeamte 
+stiegen an Bord tmd walteten obenhin ihres Amtes; 
+die Ansachiffong konnte beginnen. Aschenbach gab 
+zu verstehen, daO er euie Gondel wünsche, die ihn 
+und sein Gepick zur Station jener kleinen Dampfer 
+bringen solle, welche zwischen der Stadt und dem 
+Udo verkehren; denn er gedachte am Meere Woh- 
+nung zu nehmen. Man billigt sein Vorhaben, man 
+schreit seinen \Viinsch zur Wasserflüche hinab, wo 
+die Gondelfiihret im Dialekt miteinander zanken. 
+Er ist noch gehindert, hinabzusteigen, sein Koffer 
+
+41 
+
+Dgilizedt^COOglC 
+
+
+
+hintten ihn, der eben mit Müht&l die leitenrdge 
+Treppe hiiiuiitei|!ezeiTt und geschleppt wird. So 
+deht er tich minutenlang aufierstuide, den Zudring- 
+lichkeiten des schaudeihaften Alten zu enikommen, 
+den die Trunkenhnt dunkel antreibt, dem Fremden 
+Abschiedshonneurs zu machen. „Wir wünschen den 
+glücklichsten Aufenthalt", meckert er unter Kratz- 
+fiifien. „Man empfiehlt sich genägter Erinnerung! 
+Au revoir, eicusez und bon jour. Euer Exzellenz!" 
+S«n Mund wässert, er drückt die Augen zu, er leckt 
+die Mundwinkel, und die geerbte Bartfli^e an seiner 
+Greisenlippe strlnbt sich empor. „Unsere Komplir 
+mente", lallt er, zwei Fingerspitzen un Munde, 
+„unsere Komplimente dem Liebchen, dem alletv 
+liebsten, dem schönsten Liebchen . . ." Und plötzlich 
+flült ihm das fälsche Obergebiß vom Kiefer auf die 
+Unterlippe. Atchenbach konnte entweichen. »Dem 
+Eiebchen, dem feinen Liebchen", hörte et in girren- 
+den, hohlen und behinderten Lauten in seinem Rucken, 
+wifhrend er, am Strickgeländet üch haltend, die Fall- 
+reepstreppe hinabUomm. 
+
+Wer hatte nicht einen flüchtigen Schauder, eine 
+geheime Scheu und Beklommenheit zu bekämpfen 
+gehabt, wenn es zum ersten Male oder nach langer 
+Entwöhnung galt, eine venezianische Gondel zu be- 
+neigen? Das seltsam« Fahrzeug, au* balladesken 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Zäten ganz nnveifnden dberkommen und so eigen- 
+cümlich ichwan, wie sonst unter allen Dingen nur 
+Slrge es sind, — es erinnert tn lautlose und ve^ 
+brecherische Abenteuer in plltschemder Nacht, es 
+erinnert noch mehr an den Tod selbst, an Bahre und 
+düsteres Begängnis und letzte, schweigsame Fahrt. 
+Und hat nun bemerkt, dafi der Sitz einer solchen 
+Baike, dieser sargtchwarx lackierte, mattschwan g^ 
+polsterte Armstuhl, der weichste, üppigste, der ei^ 
+schlafFendste Sitz von der Welt ist? Ascfaenbach 
+ward es gewahr, ab et zu Füfien des Gondoliers, 
+seinem GepSck g^enüber, das am Schnabel reinlich 
+beisammen lag, sich niedergelassen hatte. I^e Ru- 
+derer zankten immer noch; rauh, unverstlndlich, nüt 
+drohenden Gebärden. Aber die besondere Stille der 
+Wasserstadt schien ihre Sdmmen sanft aufzunehmen, 
+zu entkärpem, über der Flut zu zerstreuen. £s wai 
+warm hier im Hafen. Lau angerührt vom Hauch des 
+Scirocco, auf dem nachgiebigen Element in Kissen 
+gelehnt, schloß der Reisende die Aagen im Genüsse 
+öner so ungewohnten als sülzen Lässigkeit. Die 
+Fahrt wird kurz srin, dachte er; möchte sie immer 
+währen! In leisem Schwanken f&blte er sich dem 
+Gedränge, dem Srimmengewirr entgleiten. 
+
+Wie still und stiller es um ihn wurde! Nichts war 
+zu vernehmen, als das FUtschem des Ruders, das 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+hoble AuiscUagen der Wellen g^en den Schiubd 
+der Baike, der neD, tchwarz und an der Spitze helle- 
+bardenutig bewehrt über dem Wasser stand, and 
+noch äa drittet, ein Reden, ein Raunen, — dai 
+Flüstern des Gondolien, der zwischen den Zihnen, 
+sto&wüse, in Lauten, die von der Arbeit seiner Arme 
+gepreßt waren, zu sich selber sprach. Aschenbach 
+Uickte auf^ und mit Inchter Befremdung gewahrte 
+er, dafi um ihn her die Lagune sich weitete und seine 
+Fahrt gegen das offene Meer gerichtet war. Es schien 
+folglich, dafi er nicht allzu sehr ruhen dfirfe, sondern 
+auf den Vollzug seines V^^ens «in wenig bedacht 
+(ün müsse. 
+
+„Zur Dampferstadon also," sagte er mit einer 
+halben Wendung rücinrtrts. Das Raunen verstummte. 
+Er erhielt keine Antwort. 
+
+„Zur Dampferstttion alsol" vriederholte er, indem 
+er sich vollends umwandte und in das Gesicht des 
+Gondoliersemporblickie, der hinter ihm, auf erhöhtem 
+Borde stehend, vor dem fahlen Himmel aufragte. 
+El war ein Mann von nngefJClUger, ja brutaler Physi- 
+ognooüe, seemännisch blau gekleidet, mit riner gelben 
+Schlrpe gq^ürtet und einen formlosen Strohhut, 
+dessen Geflecht rieh au&uUJsen b^ann, verwegen 
+schief auf dem Kopfe. Seine Gesichcsbildung, sein 
+blonder, lockiger Schnurrbart anter der kurz au^e- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+wordenen Nase lieften ihn dutduni nicht italienischen 
+Schlages erscheinen. Ot^leich eher schmächtig 7on 
+Leibesbeschafienheit, so daA man ihn fOi seinen Be- 
+ruf nicht sonderlich geschickt geglaubt hatte, fShrte 
+er das Rudei, bei jedem Schlage den ganzen Körper 
+ansetzend, mit grofiec Energie. Ein paanna) zog er 
+vor Anstrengung die Uppen zurück und entblöflie 
+töne weißen Zihne. Die rtitlichen Brauen ge- 
+runzelt, blickte er aber den Gast hinweg, indem er 
+besrimmten, fast groben Tones erwiderte: 
+
+,^e &hren zum Udo." 
+
+Aschenbach entgegnete; 
+
+„AUerdii^. Aber ich habe die Gondd nur ge- 
+nommen, um mich nach San Marco übersetzen zu 
+lassen. Ich wünsche den Vaporetto zu benutzen." 
+
+„Sie können den Vaporetto nicht benutzen, mein 
+Herr.« 
+
+„Und warum nicht ?" 
+
+„Weil der Vaporetto kein GepSck befördert." 
+
+Das war richtig; Aschenbadi erinnerte rieh. Er 
+schwieg. Aber die schroffe, überhebliche, einem 
+Fremden gegenüber so wenig landesübliche Art des 
+Menschen schien unleidlich. Er sagte: 
+
+„Das ist mrine Sache. Vielleicht will ich mein 
+Gepick in Verwahrung geben. Sie werden um* 
+kehren." 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Et blieb stilL Das Ruder plincherte, du Wisser 
+tchlag dumpf an den Bv^. Und du Reden und Rau- 
+nen begann wieder: Der GondoUei sprach zwischen 
+don Zlhnen mit sich selbst. 
+
+Was war zo ton? Allnn auf der Flut oüt dem 
+sonderbar nnbotmäftigen, unhamlich entschlossenen 
+Menschen, sah der Reisende kein Mittel, seinen 
+WUen durchznsetxen. Wie weich er übrigens ruhen 
+durfte, wenn er sich nicht empörte I Harte er nicht 
+gewünscht, daß die Fahrt lange, daß sie immer 
+dauern möge? Es war das Klügste, den Dingen ihren 
+Lauf zu lassen, und es war hauptsächlich höchst an- 
+genehm. Ein Bann der Trlgheic schien auszugehen 
+von seinem Sitz, von diesem niedrigen, schwarz- 
+gepolsierten Annstuhl, so sanft gewiegt von den 
+RuderschUgen des eigenmlchdgen Gondoliers in 
+seinem Rücken. Die Vorstellung, einem Verbrecher 
+in die Hände geßdlen zu sein, streifte träumerisch 
+Aschenbachs Sinne, — anvermögend seine Gedanken 
+zu tätiger Abwehr aufzurufen. Verdriefilicher schien 
+die Möglichkeit, daß alles auf rimple Geldschneiderei 
+engelegt seL Euie Art von Pflichtgefühl oder Stolz, 
+die Erinnerung gleichsam, dafi man dem vorbeugen 
+müsse, vermochte ihn, sich noch einmal aufzuraffen. 
+Er fragte: 
+
+-Was fordern Sie für die Fahrt ?m 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Und übet ihn tünsehend, uuwortete der Gon* 
+dolier: 
+
+^i« werden bezahlen." 
+
+Es nand fest, was hierauf xniückzi^eb«! war. 
+Aschenbach sagte mechanisch : 
+
+„Ich werde nichts bezahlen, durchaus nichts, wenn 
+S.t mich fahren, wohin ich nidit wilL" 
+
+„Sie woDen nun Ltdo." 
+
+„Aber nicht mit Ihnen." 
+
+„Ich fähre Sie gut." 
+
+Das ist wahr, dachte Aschenbach und spannte sich 
+ab. Das ist wahr, du fährst mich gut. Selbst, wenn 
+du es auf meine Barschaft abgesehen hast and mich 
+hinterrücks mit einem Ruderschlage ins Haus des 
+Aides schickst, wirst du mich gut gefahren haben. 
+
+Allein nichts dei^Ieichen gesdiah. Sogar Gesell- 
+schaft stellte sich an, ein Boot nüt musikalischen 
+Wegelagerern, Männern und Weibern, die zur Gitarre, 
+zur Mandoltne sangen, aufdringlich Bord an Bord 
+mit der Gondel fuhren und die Stille fiber den 
+Wassern mit ihrer gewinniQchtigen Fremdenpoesie 
+erfüllten. Aschenbach warf Geld in den hingehaltenen 
+Hu^ Sie schwiegen dann und fuhren davon. Und 
+das Flüstern des Gondoliers ward wieder rernehm- 
+bar, der stofiwnse und at^erissen mit sich selber 
+^racfa. 
+
+>7 
+
+
+
+i.z.iit,,Cooglc 
+
+
+
+So kam nun denn an, geschaukelt vom Kielwasser 
+önes zur Stadt Ehrenden Dampfers. Zwei Muni- 
+zipalbeamte, die Hände auf dem Rücken, die Ge- 
+nchter der Lagune zugewandt, gingen am Ufer auf 
+and ab. Aschenbach verliefi am Stege die Gondel, 
+untentützt von jenem Alten, der an jedem Lan- 
+dongsplatze Venedigs mit seinem Enterhaken nr 
+Stelle ist; und da es ihm an kleinerem Gdde fehlte, 
+ging er hinüber in da) der Dampferbrücke beoach* 
+harte Hotel, um dort zu wechseln und den Ruderer 
+nach Gutdünken abzulehnen. Er wird in der Halle 
+bedient, er kehrt zurück, er findet srin Reisegut auf 
+«nem Karren am Qpai, und Gondel und Gondolior 
+sind verschwunden. 
+
+„Er hat sich fbr^emacht," s^te der Alte mit dem 
+Enterhaken. „Ein schlechter Mann, ein Mann ohne 
+Konzession, giüdiger Herr. Er ist der einzige Gon- 
+dolier, der keine Konzession besitzt. Die anderen 
+haben hierher telephoniert. Er sah, daß er erwartet 
+wurde. Da hat er sich fortgemacht." 
+
+Aschenbach zuckte die Achseln. 
+
+„Der Herr ist umsonst gefahren," sagte der Alte 
+ond hidt den Hut hin. Aschenbach warf Münze 
+hinein. Er gab Weisung, sein Geplck ins Bsder-Hotel 
+zu bringen und folgte dem Kairen durch die Allee, 
+die weifiblühende Allee,welche, TVvemen, Basare, 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Pensionen zu beiden Snten, quer fibet die Insel zum 
+Strande ISuft. 
+
+Er betrat das weitläufige Hotel von hinten, von der 
+Garten terrasse lui und begab nch durch die große 
+HaUe und die Vorhalle int Office. Da er angemeldet 
+war, wurde er mit diensifertigem Einventandnü 
+empfangen. Ein Manager, rin kleiner, leiser, ichmei- 
+chelnd höriicher Mann mit schwarzem Schnurrbart 
+und in fnnzfirisch geschnittenem Gehrock, begleitete 
+ihn im Lift zum zweiten Stockwerk hinauf und wies 
+ihm sein Zimmer an, einen angenehmen, in Kirsch- 
+holz möblierten Raum, den man mit stark duftenden 
+Blumen geschmückt hatte und dessen hohe Fenster 
+die Aussicht aufs offene Meer gewährten. Er trat 
+an rins davon, nachdem der Angesiellte sich zurück- 
+gezogen, und während man hinter ihm sein Gepick 
+heieinschafFte und im Zimmer unterbrachte, blickte 
+er hinaus auf den nachmittiglich menschenarmen 
+Strand und die unbesonnte See, die Flutzeit hatte 
+und niedrige, gestreckte Wellen in ruhigem Gleicb- 
+oln gegen das Ufer sandte. 
+
+Die Beobachtungen und Begegnitse des Einsam- 
+Stummen sind zugleich verschwommener und ein- 
+dringlicher, als die des Geselligen, seine Gedanken 
+schwerer, wunderlicher und nie ohne einen Anflug 
+von Traurigkeit. Bilder und Wahrnehmungen, die 
+
+Dgilizedt^COOglC 
+
+
+
+mit einem Blick, önera Lachen, einem Urteils- 
+ansniuch leichthin abzatnn wären, beschäftigen ihn 
+über Gebühr, vertiefen sich im Schweigen, werden 
+bedeutsam, Erlebnis, Abenteuer, GefuhL Einsamknt 
+zeitigt dat Ortginale, das gewagt und befremdend 
+Schöne, das Gedicht. Einsamkeit zeitigt aber auch 
+das Verkehrte, das Unverhiltnismifiige, das Absurde 
+und Unerkubte. — So beunruhigten die Erschei- 
+nungen der Herröse, der grlfiliche alte Stutzer mit 
+seinem Gefasel vom Liebchen, der verpönte, um 
+seinen Lohn geprellte Gondolier, noch jetzt das Ge- 
+müt des Reisenden. Ohne der Vernunft Schwierig- 
+keiten zu bieten, ohne eigentlich StofF zum Nach- 
+denken zu geben, waren sie dennoch gnindsonderbar 
+von Natur, wie es ihm schien, und beunruhigend wohl 
+eben durch diesen Widerspruch. Dazwischen griißte 
+er das Meer mit den Augen und emp&nd Freude, 
+Venedig in so I«cht erreichbarer Nähe zu wissen. 
+Er wandte sich endlich, badete stän Gencht, traf 
+g^en das Zimmemädchen einige Anordnungen zur 
+Vervollständigung seiner Bequemlichkeit und liefi 
+nch von dem grüogekleideten Schweizer, der den 
+lAft bediente, ins Erdgeschofi hinunterfahren. 
+
+Er nahm seinen Tee auf der Terrasse der Seeseiie, 
+stieg dann hinab und verfolgte den Promenadenquai 
+eine gute Strecke in der Richtung auf das Hotel 
+
+
+
+r« 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Eiceldor. Als er zurückkehrte, 'schien es schon an 
+der Zeit, sich zur Abendmahlzeit umzukleiden. Er 
+tat es langsam und genau, nach seiner Art, da er bei 
+der Toilette zu arbeiten gewöhnt war, und ^d sich 
+trotzdem ein wenig verfrüht in der Halle ein, wo er 
+einen grofien Teil der Hotet^iste, fremd unterein- 
+uider und in gespielter gegenseitiger Teilnahmslosi^ 
+keit, aber in der gemeinsamen Erwartung des Essens, 
+versamilielt fand. Er nahm eine Zntung vom Tische, 
+Uefi sich in einen Ledersessd nieder und betrachtete 
+die Gesellschaft, die lieh von derjenigen sräies 
+eisten Aufenthaltes in einer ihm angenehmen Weise 
+unterschied. 
+
+Ein weitet, duldsam vieles umfassender Horizont 
+tat sich auf. Gedämpft vermischten sich die Laute 
+der grofien Sprachen. Der weltgfiltige Abendanzi^, 
+eine Uniform der Gesittung, faßte üuSerlich die 
+Spielarten des Menschlichen zu anstljidiger ^hrit 
+zusammen. Man sah die trockene und lange Miene 
+des Amerikaners, die nelgtiedrige russische Familie, 
+englische Damen, deutsche Kinder mit französischen 
+Bonnen. Der slawische Bestandteil schien vorztu 
+herrschen. Gleich in der Nahe ward polnisch ge- 
+sprochen. 
+
+Es war eine Gruppe halb und kaum Erwachsener, 
+unter der Obhut einerErzieherinodeiGeselkcbafrerin 
+
+4- H 
+
+Dgilizedt^COOglC 
+
+
+
+um ein Rohnischchen venunmelt: Drei junge Mis- 
+chen, fünfzohn- bis debzehnjlhrig, wie « schien, und 
+ein langhuriger Knabe von vielleicht vierzehn Jähren. 
+Mit ErSHUnen l>emerkte Aschenbach, dafi der Knabe 
+voltkommen schdn ww. Sein Antlitz, bleich und an- 
+mutig verschlouen, von honigftrbenem Haar om- 
+ringelt, mit der gerade abfallenden Nase, dem lieb- 
+lichen Mund«, dem Ausdruck von holdem und gött- 
+lichem Ernst, erinnerte an griechische Bildwerke aus 
+edelster Znt, und bei reinster Vollendung der Form 
+war et von so einmalig persönlichem Reiz, dafi der 
+Schauende weder in Natur noch bildender Kunst 
+etwas ihnÜch Geglücktes angeirofFenzu haben glaubte. 
+Was femer aufliel, war ein offenbar grundsltzlicher 
+Kontrast zwischen den erzieherischen Genchtspunk- 
+ten, nach denen die Geschwister gekleidet und all- 
+gemein gehalten schienen. Die Herrichmng der drei 
+Midchen, von denen die Älteste für erwachsen gelten 
+konnte, war bis zum Entstellenden herb und keusch. 
+Bne gleichmlfi^ klösterliche Tracht, ichieferfarben, 
+halblang, nüchtern und gewollt unkiridsam von 
+Schnitt, mit weifien Fallkrigen als rinziger Aa& 
+hellung, unterdrückte und verhinderte jede Geflülig- 
+keit der Gestalc Das glatt und fest an den Kopf ge- 
+klebte Haar lieA die Gesichter nonnenhaft leer and 
+nichtssagend erscheinen. Gewifi, et war eine Mutier, 
+
+Dgilizedt^COOglC 
+
+
+
+die hier waltete, and rie dichte nicht einmal danui, 
+auch auf den Knaben die pädagogische Strenge anzo- 
+irenden, die iht den Mädchen gegenüber geboten 
+ichien. Weichheil und ZSrtlichkeit bestinunten er* 
+dchtlich töne Existenz. Man liatie sich gehütet, di« 
+Schere ui ttin schdnes Haar zu legen j wie bnm 
+Domausziebet lockte es sich in die Särn, fiber die 
+Ohren und riefer noch in den Nacken. Das englisch« 
+Matrosenkostäm, dessen bauschige Ärmel sich nach 
+unten verengerten und die feinen Gelenke seiner 
+noch kindlichen, aber schmalen Hände knapp not- 
+■pannten, verlieh mit seinen Schnären, Maschen und 
+Stickerei«) der zarten Gestalt etwas Reiches und 
+Verwöhntet. Er safl, im Halbprofi] gegen den Be- 
+trachtenden, einen Fufi im schwarzen Lackschuh vor 
+den andern gestellt, einen Ellenbogen auf die Ann- 
+lehne seines Korbsessels gestützt, die Wange an die 
+geschlossene Hand geschmiegt, in einer Haltung voa 
+litngem Anstand und ganz ohne die Ast untergeor^ 
+nete Steifheit, an die seine weiblichen Geschwister 
+gewähnt ichienen. War er leidend? Denn die Haut 
+seines Gesichtes stach weifi wie Elfenbein gegen das 
+goldige Dunkel der umrahmenden Locken ab. Oder 
+war er einfach ein verzSrteltes Vorzugskind, von 
+parteilicher und launischer Liebe getr^en? Aschen- 
+bacb war gene^, dies zu glauben. Fast jedem 
+
+» 
+
+Dgilizedt^COOglC 
+
+
+
+KänsiIematureU ist ein üppiger nnd verräterischer 
+Hang eingeboren, Schönheit schaffende Uc^erecht^- 
+keit anzuerkennen nnd arisiokratischer Bevorzugung 
+TdlnaJime und Huldigui^ entgegenzubringen. 
+
+Gn Kellner ging umher und meldete auf englisch, 
+dafl die Mahlzeit bereit sä. Allmählich verlor sich 
+die Gesellschaft durch die Glastdr in den SpösesaaL 
+Nachzügler, vom Vestibül, von den Lifts kommend, 
+gingen vorüber. Man hatte diinnen zu servieren be- 
+gonnen, aber die jungen Polen verharrten noch um 
+ihr Rohrtischcheo, und Aschenbach, in tiefem Sessel 
+beh^lich aufgehoben nnd nbr^eni di* Schöne vor 
+Augen, wartete mit ihnen. 
+
+Die Gouvernante, eine kleine nnd korpulente Halb- 
+■ dame mit rotem Gesicht, gab endUch das Zeichen, 
+nch zu erheben. Mit hochgezogenen Brauen schob 
+sie ihren Stuhl zurück und verneigte sich, als eine 
+grofie Frau, grauweift gekleidet und sehr reich mit 
+Perlen geschmückt, die Halle betrat. Die Haltung 
+dieser Frau war kühl und gemessen, die Anordnung 
+ihres lacht gepuderten Haares sowohl wie die Mach- 
+art ihres Kleides von jener Einfachheit, die überall 
+da den. Geschmack bestimmt, wo Fttimmigkeit ab 
+Bettandtml der Vornehmheit gilt. Sit hätte die Frau 
+eines hohen deutschen Beamten snn können. Etwas 
+phantastischLuxuriÖteskam in ihre Erscheinung ein^ 
+
+
+
+S* 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+durch ihren Schmuck, der in der T^t kaum icluitzbir 
+war und aui Ohrgehingen, sowie «ner dreifachen, 
+sehr langen Kette kiiscbengroßeri mild (chimmemder 
+Perlen beitand. 
+
+Die Geschwister waren rasch aufgestanden. Ss 
+beugten nch zum Kufi über die Hand ihrer Mutter, 
+die mit einem zurückhaltenden Lschrin ihres ge- 
+pfl^en, doch etwas müden und spitznlsigen Ge- 
+sichtes fibei ihre Ktfpfe hinwegblickte und einige 
+Worte in fnnzCsischer Sprache an die Erzieherin 
+richtete. Dann schritt sie zur Glastür. Die Ge- 
+schwister folgten Uir: die Midcben in der Röhenfdge 
+ihres Alters, nach ihnen die Gouvernante, zuletzt 
+der Knabe. Ans irgendeinem Grunde wandte er nch 
+am, bevor er die Schwelle äberschritt, and da nie- 
+mand sonst mehr in der Halle sich aofhidt, be- 
+gegneten seine eigentümlich dimmergrauen Augen 
+denen Aschenbaclu, der, seine Zeitung auf den 
+Knien, in Anschauung versunken, der Gruppe nacb- 
+bücktc. 
+
+Was er gesehen, war gewifi in knner Einzelhnt 
+anfßülend gewesen. Man war nicht vor der Mutter 
+zu Tische gegangen, man hatte sie erwartet, (ie ehr- 
+erbietig begrüßt und beim antritt in den Saal ge- 
+brüuchliche Formen beobachtet. Allein das alles 
+hatte sich so ausdrücklich, mit einem solchen Akzent 
+
+5f 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Ton Zucht, VerpRichning und Selbstachtung dmrge- 
+nellt, dafi Aschenbach rieh sonderbar ergrifFen fühlte. 
+Er zögen« noch einige Augenblicke, ging dann auch 
+seinerseits in den Speisesaal hinüber und Uefi rieh 
+■ein Tischchen anwmsen, das, wie er nüt einer kurzen 
+Regung des Bedauerns (emtellte, seht «reit von dem 
+der polnischen Familie entfernt war. 
+
+Mtide und dennoch geistig bewegt, unterhielt er 
+■ich wlhrend der langwierigenMahlzeit mit abstrakten, 
+ja transzendenten Dingen, sann nach über die ge- 
+heimnisvolle Verbindung, wdche das Gesetzmafiige 
+mit dem Individuellen eingehen müsse, damit mensch- 
+liche Schönheit «itstehe, kam von da aut auf allge- 
+meine Probleme der Form und der Kunst und fiuid 
+am Ende, dafi seine Gedanken und Funde gewissen 
+scheinbar glücklichen Knflfisterungen des Traumes 
+glichen, die rieh bei ernüchtertem Sinn als vollstindig 
+schal und untauglich erwnsen. Er hielt sich nach 
+Tische rauchend, ritzend, umherwandelnd, io dem 
+abendlich duftenden Parke auf, ging zdtig zur Ruhe 
+luid verbrachte die Nacht in anhaltend tiefem, aber 
+von Traumbildern verschiedentlich belebtem Schlaf. 
+
+Das Wetter üefi sich am folgenden Tage nicht 
+günstiger an. Landwind ging. Unter (M bedecktem 
+Himmel lag das Meer in stumpfer Ruhe, ver- 
+schrumpft gleichsam, mit nüchtern nahem Horizont 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+tuid M weit vom Strande zurdckgetreten, äaA et 
+mchrete Reihen luiget Sandbinke freiUeO. Als 
+Aschenbacb sein Fenster äffhete, glaubte er den 
+ftuligen Geruch der Lagune xu spüren. 
+
+Ventimmnng befiel ihn. Schon in diesem Augen- 
+blick dachte er an Abreise. Einmal, vor Jahren, 
+hatte nach heiteren Frühlingswochen hier dies Wetter 
+ihn heimgesucht und sein Befinden so schwer ge- 
+(chädigt, dafi er Venedig wie an Fliehender hatte 
+veilassen mfissen. Stellte nicht schon wieder die 
+fiebrige Unlust von damals, der Druck in den Schilfen, 
+die Schwere der Augenlider sich ein? Noch einmal 
+den Aufenthalt zu wechseln, würde listig snn; wenn 
+aber der Wind nicht umschlug, so war seines Blei- 
+bens hier nicht. Er packte zur Sicherheit nicht völlig 
+aus. Um neun Uhr firähstückie et in dem hiefür 
+vorbehaltenen Buffetzimmci zwischen Halle und 
+SpnsesaaL 
+
+In dem Raum herrschte die feierliche Stille, die 
+zum Ehrgeiz der groSen Hotels gehön. Die bedienen- 
+den Kellner gingen auf leisen Sohlen umher. Ein 
+Klappern des Teegerltes, ein halhgeflüsterres Wort 
+war alles, was man vernahm. In anem Winkel, 
+schrtg gegenüber der TQr und zwei Tische von 
+seinem entfernt, bemerkte Aschenbach die polnischen 
+Müdchen mit ihrer Erzieherin. Sehr aufrecht, das 
+
+17 
+
+
+
+i.z.iit>>Cooglc 
+
+
+
+aschblonde Hau neu g^lSttet und mit geröteten 
+Augen, in steifen blauleinenen Kindern mit kleinen 
+weißen Fallkrigen und Manschetten üben lie da 
+und reichten einander ein Glas mit Eingemachtem. 
+Sie waren mit ihrem Frühicfick hst fertig. Der 
+Knabe fehlte. 
+
+Aschenhach lichelte. Nun, kleiner PhSake! dachte 
+er. Du scheinst vor diesen das Vorrecht beliebigen 
+Ausschlafiens zu genießen- Und plötzlichaufgeheiiert, 
+rezitierte er hä sich selbst den Veis; 
+
+„Oft Terindenen Schmuck und warme Bader 
+und Ruhe." 
+& frühstückte oline Eile, empfing aus der Hand de* 
+Portiers, der mit gezogener Tressenmätze in den Saal 
+kam, «nige nachgesandte Post und öiFnete, eine 
+Zigarette rauchend, ein paar Briefe. So geKhah es^ 
+dafl er dem Stritt des Langschllfiers noch beiwohnte, 
+den man dort drüben erwartete. 
+
+Er kam durch die Glastür und ging in der Stille 
+schlag durch den Raum zum Tisch seiner Schwestern. 
+Sein Gehen war sowohl in der Haltung des Ober- 
+körpers wie in der Bewegung der Knie, dem Auf- 
+setzen des weiA beschuhten Fufies von außerordent- 
+licher Anmut, sehr leicht, zugleich zart und stolz 
+und verschönt noch durch die kindliche Verschämt- 
+heit, in welcher er zweimal unterwegs, mit öner 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Kopfwendung in den Saal, die Augen aufschlug und 
+senkte. Lachetnd, mit einem halblauten Wort in 
+seiner weich verschwommenen Sprache nahm er 
+snnen Platz ein, und jetzt zumal, da er dem Schauen- 
+den sein genaues Pralil zuwandte, erstaunte dieser 
+anft neue, ja erschrak über die wahrhaft gonahnliche 
+Schönheit des Menschenkindes. Der Knabe trug heute 
+dnen lachten Blusenanzug aus Uau und weifi g^ 
+streiftem Waschstoff mit rotseidener Masche auf der 
+Brust ond am Halse von einem anfachen wöAen 
+Stehkragen abgeschlossen. Auf diesem Kragen aber, 
+der nicht einmal sonderlich elegant zum Charakter 
+des Anzugs passen wollte, ruhte die Bläte de* Hauptes 
+in unveiginchlichem Liebreiz, — das Haupt des Eros, 
+vom gelblichen Schmelze parischen Marmors, 
+mit feinen and ernsten Brauen, Schlafen und Ohr 
+vom rechtwinklig einspringenden Geringel desHaares 
+dunkel und weich bedeckt. 
+
+Got, gutl dachte Aschenbadi mit jener fach- 
+männisch kühlen Billigung, in wdchs Künstler zu- 
+weilen einem Meisterwerk gegenüber ihr Entzucken, 
+ihre Hingerissenheit kleiden. Und weiter dachte er: 
+Wahrhaftig, erwarteten mich nicht Meer und Strand, 
+ich bliebe hier, solange du bleibst 1 So aber ging er 
+denn, ging unter den Aufmerksamkeiten des Personals 
+durch die Halle, die grofie Terrasse hinab und gerade- 
+
+19 
+
+
+
+.dt>>Cooglc 
+
+
+
+tut fibei den Btettenteg zum ftbge^pemen Stnnd 
+der Hoielglsie. Er Ue6 üch von dem barfüßigen 
+Allen, der (ich in Leinwandbote, Matrosenbluse und 
+Stohhut dort unten als Bademeisiei cüdg zeigte, die 
+genüetetc StrandhÜne zuweilen, Uefi Tisch und 
+Sessel hinant auf die sandig btettcme Plattfbroi 
+stellen und machte es sich be<|uem in dem Liegetruhl, 
+den er w«ter zum Meere hin in den wachsgelben 
+Sand gezogen hatte. 
+
+Das StrandbDd, dieser Anblidt sorglos nnnlich 
+geniefiender Kultur am Rande de* Dementes, untet<- 
+hielt und erfreute ihn wie nur je. Schon war die 
+graue und flache See belebt von watenden Kindern, 
+Schtdmmem, bunten Gestalten, welche die Arme 
+unter dem Kopf verscbrinkt auf den Sandblnken 
+bgen. Andere ruderten in kleinen rot und blau ge- 
+nrichenen Booten ohne Kiel und kenterten lachend. 
+Vor der gedehnten Zeile der Capannen, auf deren 
+Plattformen man wie auf kleinen Veranden lafi, gab 
+es spielende Bewegung und trig hingestreckte Ruh^ 
+Besuche und Geplauder, soi^fUtige Morgen-Eleganz 
+neben der Nacktheit, die keck-beh^lich die Frn- 
+heiten des Ortes genoS. Vorn auf dem feuchten und 
+festen Sande lustwandelten einzelne in weifien Bade- 
+münteln, in weiten, starkßirbigen Hemc^ewlndem. 
+Eine vielfiUtige Sandbuig zur Rechten, von Kindern 
+
+
+
+6* 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+hergesietli, wu ringi mit kleinen Flamen in den 
+ParbenallerLinderbesteclEt.VerkIafiBr von Muscheln, 
+Kuchen und Früchten breiteten kniend ihre Waren 
+«US. Linlu, vor einer der Hütten, die quer zu den 
+äbrigen und zum Meere standen und auf diaer Seite 
+einen AbschluS det Strandes bildeten, kampierte eine 
+russische Familie: Minner mit Bitten und großen 
+Zihnen, mürbe and tilge Frauen, ein baltisches 
+Früulein, das an «ner Sraffelei sitzend unter Aus- 
+rufen der Verzweiflung das Meer malte, zwei gut- 
+mütig-hißliche Kinder, «ne alre Magd im Kopftuch 
+und mit zirtlich unterwürfigen Sklavenmanieren. 
+Dankbar geniefiend lebten ne dort, riefen nn> 
+ermüdlich die Namen der unfolgsam rieh nitn- 
+melnden Kinder, scherzten vermittelst weniger 
+italienischer Worte lange mit dem humoristischen 
+Alten, von dem sie Zuckerwerk kauften, küfiten 
+einander auf die Wangen und kümmerten rieh 
+tun knnen Beobachter ihrer menschlichen Gemön- 
+Khaft. 
+
+Ich will also bldhen, dachte Aschenbach. Wo si^re 
+es besser? Und die Hinde im Schofi geltet, 
+Heft er smne Augen sich in den Wnten des Meeres 
+verlieren, seinen Blick entgleiten, verschwimmen, 
+rieh brechen im eintönigen Dunst der Ranmeiwüste. 
+Er liebte das Meet aus tiefen Gründen: aus dem 
+
+<t 
+
+Dg.l.zedt>>COOglC 
+
+
+
+Rnheverlangen des icbwer arbeitenden Künstlers, 
+der vor der uispruchsvolten Vielgestalt der Ersehet* 
+nongen an der Brust des Einfachen, Ungeheueren 
+sich zu bergen begehrt; aus einem verbotenen, seiner 
+Aufgabe gerade entgegengesetzten und ebendarum 
+verf&hrerischen Hange zum Ungegliederten, Maß- 
+losen, Ewigen, zum Nichts. Am Vollkommenen 
+zu ruhen, ist die Sehnsucht dessen, der sich um das 
+Vortreffliche mfiht; und ist nicht das Nichts eine 
+Form des Vollkommenen? Wie er nun aber so tief 
+ins Leere träumte, ward pldtzitch die Horizontale 
+des Ufersaumes von einer menschlichen Gestalt 
+überschnitten, und als er seinen Blick aus dem Un- 
+begrenzten einholte und sammelte, da war es der 
+schöne Knabe, der von links kommend vor ihm im 
+Sande vorüberging. Er ging barfiifi, zum Waten 
+bereit, die schlanken Beine bis über die Knie entblößt, 
+langsam, aber so leicht und stolz, als s« er ohne 
+Schuhweifc sich zu bewegen ganz gewöhnt, und 
+schaute «ch nach den querstehenden Hütten um. 
+Kaum aber hatte er die russische Familie bemerin, 
+die dort in dankbarer Eintracht ihr Wesen trieb, als 
+«n Unwetter zorniger Verachtung s«n Gesicht über- 
+zog. Sane Stirn vcrlinicertc nch, sein Mund ward 
+emporgehoben, von den Lippen nach einer Säte ging 
+ein erbinertes Zerren, das die Wange zerriA, und 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+feine Brauen wucn so ichwer gerunzelt, dafi unter 
+ihrem Druck die Augen eingesunken schienen und 
+bAse und dunkel darunter hervor die Sprache des 
+Hasses führten. Er blickte zu Boden, blickte noch 
+einnial drohend zurück, tat dann mit der Schulter 
+eine heftig wegwerfende, sich abwendende Bewegni^ 
+und liefi die Feinde im Rücken. 
+
+Eine Art Zar^efÜhl oder Erschrockenheit, etwas 
+«de Achtung und Scham, veranlagte Aschenbach, 
+sich abzuwenden, als ob er nichts gesehen hätte; 
+denn dem ernsten Zußülsbeobachter der Leiden- 
+schaft widerstrebt es, von seinen Wahrnehmungen 
+auch nur vor sich selber Gebrauch zu machen. Er 
+war aber erhdtert and erschüttert zugleich, das 
+heifit: beglückt. Dieser Undische Fanatismus, ge- 
+richtet gegen du gutmütigste Stück Leben, — er 
+stellte du Göttlich-Nichtssagende in menschliche 
+Beziehungen, er liefi ein kostbares Bildwerit der 
+Natur, das nui zur Augenweide getaugt hatte, einer 
+tieferen Teilnahme wert ersehenen [ und er verlieh 
+der ohnehin durch Schönheit bedeutenden Gestalt 
+des Halbwüchsigen eine Folie, die gestattete, ihn über 
+seine Jahre ernst zu nehmen. 
+
+Noch abgewandt, lauschte Aschenbacb auf die 
+Stimme des Knaben, süne helle, «n wenig schwache 
+Stimme, mit der er sich von weitem schon den um 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+dis Suidbuif beschlftigteii Gespielen grfiAend anzu- 
+kündigen suchte. Man antwortete ihm, indem man 
+ihm seinen Namen oder eine Koseform seines Namens 
+mehrfach entgegenrief» und Aschenbach horchte mit 
+riner gewissen Neugier darauf, ohne Genaueres ei> 
+bssen zu litfnnen, ab xwei melodische Silben wie 
+„Adgio" oder öfter noch „Adgiu," mit rufend ge- 
+dehntem u-Laut am Ende. Er freute sich des 
+Klanges, er f^d ihn in seinem Wohllaut dem Gegen- 
+stande angemessen, wiederholte ihn im stillen und 
+wandte sich befriedigt seinen Briefen und Papieren zu. 
+
+Seine kleine Reise-Schreibmappe auf den Knien, 
+begann er, mit dem Füllfederhalter diese und jene 
+Korrespondenz zu erledigen. Aber nach einer 
+Viertelstunde schon fand er es schade, die Siruation, 
+die genießenswerteste, die er kannte, so im Geist zu 
+verlassen und durch gleichgültige TSrigkeit zu ver> 
+säumen. Er warf das Schreibzeug beiseite, er kehrte 
+zum Meere zurfick; und nicht lange, so wandte er, 
+abgelenkt von den Stimmen der Jugend am Sandbao, 
+den Kopf bequem an der Lehne des Stuhlet nach 
+rechts, um sich nach dem Treiben und fileibea des 
+trefFlidien Adgio wieder umzutun. 
+
+Der erste Blick fand ihn; die rote Masche auf 
+seiner Brust war nicht zu verfehlen. Mit anderen 
+beschäftigt, eine alte Planke als Brücke über den 
+
+
+
+i.z.iit,,Coog[c 
+
+
+
+ürachren Graben der Suidbni^ zu legen, gab er 
+rufend und mit dem Kopfe winkend seine Anwa- 
+sungen zu diesem Werk. Es waren da mit ihm unge- 
+fähr zehn Genossen, Knaben und Mädchen, von 
+seinem Alter und einige ifinger, die in Zungen, 
+polnisch, franzäsisch und auch in Balkan- Idiomen 
+durcheinander schwatzten. Aber sein Name war ei, 
+der am öftesten erklang. Offenbar war er begehrt, 
+umworben, bewundert. Einer namentlich, Pole gleich 
+ihm, ein stimmiger Bursche, der ähnlich wie ,Jaschu*' 
+gerufen wurde, mit schwarzem, pomadisiertem Haar 
+und leinenem Gürtelanzug, schien sein nichster 
+Vasall und Freund. Sie gingen, als für diesmal die 
+Arbni am Sandbiu beendigt war, umschlungen den 
+Strand entlang und der, welcher ,Jaschu'' gerufen 
+wurde, küßte den Schönen. 
+
+Aschenbach war versucht, ihm mit dem lÜnger zu 
+drohen. „Dir aber rat ich, Kritobulos", dachte er 
+liebelnd, „geh ein Jahr auf Reisen! Denn soviel 
+brauchst du mindestens Zeit zur Genesung." Und 
+dann frühstfickte er große, rollreife Erdbeeren, die 
+er von einem Händler erstand. Ei war sehr warm 
+geworden, obgleich die Sonne die Dunstschicht dei 
+Himmels nicht zu durchdringen vermochte. Trlg- 
+heit fesselte den Geist, indes die Sinne die ungeheure 
+und betiubeode Umerhalnuig der Meeresstille ge- 
+
+5 <* 
+
+
+
+j3i.z.iit>,Googlc 
+
+
+
+nossen. Zn ernten, zu erfortchen, welcher Name 
+et sei, der ungefihr „Adgio" lautere, schien dem 
+em«ten Mann eine anfemestene, vollkommen aus- 
+fällende Aufgabe und Beschüft^ung. Und mit Htife 
+riniger polnischer Erinnerungen stellte er fest, dafi 
+„Tadzio" gemeint sön mässe, die Abkürzung von 
+„Tadentz" und im Anrufe „Tadzin" lautend. 
+
+Tadzio badete. Aschenbach, der ihn aus den Au- 
+gen verloren hatte, entdeckte seinen Kopf, seinen 
+Ann, mit dem er rudernd ausholte, wnt draufien im 
+Meer ; denn das Meer mochte Aach sein bis weit 
+hinaus. Aber schon schien man besorgt nm ihn, 
+schon riefen Frauenstimmen nach ihm von den 
+Hütten, stieSen wiederum diesen Namen aus, det 
+den Strand beinahe wie eine Losung beherrschte 
+und, mit seinen weichen Mitlauten, seinem gezog^ 
+nen u-Ruf am Ende, etwas zuginch SüSes und 
+Wildes hane: „Tadziu 1 Tadziu!" Er kehrte zurSck, 
+er lief, das widerstrebende Wasser mit den Beinen 
+zu Schaum schlagend, hincübergeworfenen Kopfes 
+durch die Flut; and xu sehen, wie die lebendige Ge- 
+stalt, vorminnlich hold und herb, mit triefenden 
+Locken und schön wie ein zarter Gott, Serkommend 
+aus den Tiefen von Himmel and Meer, dem Ele- 
+mente entsrieg und entrann: dieser Anblick gab 
+mythisch« Vorstellungen ein, er ww wie Dichter- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+kirad« von knftn^chai Zeiten, Tom Unpmiig der 
+Fonn und von dei Geburt der Götter. Aschenbach 
+lauschte mit geschlossenen Augen auf diesen in 
+seinem Innern uitöncnden Gesang, und abecmali 
+dachte er, dafi et hier gut sei und daA er bleiben 
+wolle. 
+
+Spü ter lag Tadzio, vom Bade ausruhend, im Sande, 
+gehallt in »in wetfies Laken, das unter der rechten 
+Schulter durchgezogen trat, den Kopf auf den blofien 
+Arm gebettet; und auch wenn Aschenbach ihn nicht 
+betrachtete, sondern einige Seiten in seinem Buche 
+las, vei^afi et ^t niemals, dafi jener dort lag und 
+dafi es ihn nur eine leichte Wendung des Kopfes 
+nach rechts kostete, um das Bewunderungswürdige 
+zu erblicken. Beinahe schien es ihm, als siSe er 
+hier, um den Ruhenden zu behäten, — mit eigenen 
+Angel egenhriten beschäfiitgt und dabei doch in be- 
+sdndiger Wachsamkeit fär das edle Menschentnld 
+dort zur Rechten, nicht weit von ihm. Und eine 
+väterliche Huld, die gerährte Hinneigung dessen, 
+der sich opfiemd im Gdste das Schtine zeugt, zu 
+dem, der die Schönheit hat, eifullte und bewegte 
+sön Herz. 
+
+Nach Mittag verlieb er den Strand, kehrte ins 
+Hotel zurück und lieft sich hinauf vor sein Zimmer 
+fahren. Ei verweilte dort drinnen Ungere Znt vor 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+dem Spiegel und betrachtete lein gnu« Hur, (ein 
+mndes und scharfes Gericht. In diesem Augenblick 
+dachte er an seinen Ruhm und d>ran, daß viele ihn 
+auf den Straßen kannten und ehrerbietig betrachteten, 
+am teinei sicher treffenden und mit Anmut ge- 
+krönten Wortes willen, — rief alle iußeren Erfolge 
+leinei Taleniei auf, die ihm irgend einfallen wollten, 
+und gedachte St^r seiner Nobiliiiemng. Er begab 
+lieh dann zum Lunch hinab in den Saal und speiste 
+tn seinem Tischchen. Als er nach beendeter Mahl- 
+zeit den Lift bestieg, drängte junges Volk, das gleich- 
+falls vom Frühstück kam, ihm nach in das schwebende 
+^mmerchen, und auch Tadzio trat ein. Et stand 
+ganz nahe bei Aschenbach, zum ersten Male to nab, 
+daS dieser ihn nicht in btidmüfiigem Abstand, sondern 
+genau, mit den Einzelheiten seiner Menschlichknt 
+wahrnahm und erkannte. Der Knabe ward angeredet 
+von irgend jemandem, und wahrend er mit unbe- 
+■direiblicb lieblichem Lächeln antwortete, trat er 
+schon wieder aus, im ersten Stockwerk, rückwürtt, 
+mit niedei^eschl^enen Augen. Schönheit macht 
+schamhaft, dachte Aschenbach und bedachte sehr 
+' eindringlich, wanim. Er hatte jedoch bemerkt, dafi 
+Tadzios Zibne nicht recht erfreulich waren: etwas 
+tackig und blaS, ohne den Schmelz der Gesundheit 
+and von eigentümlich spröder Durchiicbtigkeit, wie 
+
+
+
+<l 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+zuweilen bei Bleichsüchrigcn. Er ist tehr zart, er ist 
+krinklich, dachte Aschenbach. Er wird wahrschein- 
+lich nicht alt werden. Und er verzichtete darauf 
+lieh Rechenschaft von einem Gefiihl der Genugtuung 
+odet Benihigtuig zu geben, das diesen Gedanken b» 
+gleitete. 
+
+Er verbrachte zwei Stunden auf seinem ^mmet 
+und hihr am Nachmitt^ mit dem V^poretto fibet 
+die faul riechende Lagune nach Venedig. Er stieg 
+aus bei San Marco, nahm den Tee auf dem Platze 
+und trat dann, seiner hiesigen Tagesordnung gemifi, 
+«nen Spaziergang durch die Strafien an. Es wai 
+jedoch dieser Gang, der einen völligen Umschwui^ 
+seiner Stimmung, seiner Entschlüsse herbeifühne. 
+
+Eine widerliche Schwüle lag in den Gassen; die 
+Luft war so dick, daß die Geräche, die aus Woh- 
+nungen, Lüden, Garküchen quollen, öldunst, Wolken 
+von Parfüm und viele andere in Schwaden standen, 
+ohne sich zu zerstreuen. Zigarettenrauch hing an 
+seinem Orte und entwich nur langsam. Das Men- 
+schengescbiebe in der Enge belastigte den Spazier- 
+gänger statt ihn zu unterhalten. Je ISnger er ging, 
+desto quälender bemächtigte sich sdnet der abscheu- 
+liche Zustand, den die Seeluft zusammen mit dem 
+Scirocco hervorbringen kann, und der zugleich Er- 
+regung und Erschlaffung ist. Peinlicher Schweifi 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+brtch ihm aut. Die Augen venagten den Oienn, 
+die Bnut war beklommen, er fieberte, das Blut pocbte 
+im Kopf. Er floh aiu den drangvollen GeschiUt»- 
+ganen übet Bracken in die Gänge der Atmen. Dort 
+behelligten ihn Benler, nnd die üblen Ausdöniningen 
+der Kanile verleideten du Atmen. Auf itiltem 
+Platz, «ner jener rergenen und rerwmischen an- 
+mutenden Or^lichkeiten, die ucb im Innern Venedig! 
+finden, am Rande «nes Brunnens rastend, trocknete 
+er die Stirn und iah ön, daS er rasen mfisse. 
+
+Zum zweitenmal nnd nun endgültig war et er- 
+wiesen, dafi diese Stadt bei dieser Witterung ihm 
+hOcbft schädlich war. Ggensinn^ei Autharren er- 
+schien vernunftwidr^ die Ansucht auf «n Um- 
+schlagen des Windes ganz ungewifl. Es galt rasche 
+Entscheidung. Schon jetzt nach Hause zurückzu- 
+kehren, verbot sich. Weder Sommer- noch Winter- 
+quartier war bereit, ihn au^unehmen. Aber nicht 
+nur hier gab es Meer nnd Strand, and anderwira 
+&nden sie sich ohne die bäse Zutat der Lagune und 
+ihres Heberdunnes. Er erinnerte sich eines kleinen 
+Seebades nicht weit von Triest, das man ihm rühm- 
+lich genannt hatte. Warum nicht dorthin P Und zwar 
+ohne Verzug, damit der abermalige Aufenthalts Wechsel 
+ach noch lohne. Er erkllne sich dir entschlossen 
+nnd stand auf. Am nächsten Gondel-Halteplatz nahm 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+er ein Fahneag und Uefi rieh durch das trübe Laby- 
+rinth der Kanlle, unter nerlichen Mtrmorbalkonen 
+hin, die von Läwenbildem flankiert waren, am 
+^ticbige Mauerecken, vorbei an trauernden Palait- 
+ftjsadeo, die grofie Firmenschilder im Abfall schau- 
+kelnden Wasser spiegelten, nach San Marco leiten. 
+Er hatte Mühe, dorthin zu gelangen, denn der Gon- 
+dolier, der mit Spitxenfabriken und Glasblisereien 
+im Bunde ttand, versuchte überall, ihn zu Besichti- 
+gung und Einkauf abzusetzeni und wenn die bizarre 
+Fahrt durch Venedig ihren Zauber zu fiben begann, 
+so tat der beute) schnäderische Geschüftsgeist der 
+gesunkenen Ktin^in das Seine, den Sinn wieder ver- 
+drießlich xu ernüchtern. 
+
+Ins Hotel zurückgekehrt, gab er noch vor dem 
+Diner im Bureau die Erklärung ab, da6 unvorher^ 
+gesehene Umstlnde ihn nörigten, morgen früh abzu- 
+reisen. Man bedauerte, man quittierte seine Rech- 
+nung. Er speiste und verbrachte den lauen Abend 
+Journale lesend in einem Schankelsiuh) auf der rück- 
+wlrtigen Terrasse. Bevor er zur Ruhe ging, machte 
+er sein Gepäck vollkommen zur Abreise fertig. 
+
+Er schlief nicht zum besten, da der bevorsiehende 
+Wiederaufbruch ihn beunruhigte. Als er am Moigen 
+die Fenster öffnete, war der Himmel bezogen nach 
+wie vor, aber die Luft schien frischer, und - et be- 
+
+71 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+guin auch ichon seine Reae. War diese Kfindigung 
+nicht fibentürzt und irrtümlich, die Handlung ein« 
+kranken und unmaßgeblichen Zutiandei gewesen? 
+Hatte er rie ein wenig zurückbehalten, hatte er es, 
+ohne so rasch xu verzagen, auf den Versuch einer 
+Anpassung an die venezianische Luft oder auf Besse- 
+ning des Wetters ankommen lassen, so stand ihm 
+jetzt, statt Hast und Last, ein Vonmttag am Strande 
+gleich dem gestrigen bevor. Zu spSt. Nun mußte 
+er fortfahren, zu wollen, was er gestern gewollt hatte. 
+Er kleidete sich an und fiihr um acht Uhr zum Früh- 
+Stück ins Erdgeschoß hinab. 
+
+Der BüfFetraum war, als er eintrat, noch leer von 
+Gasten. Einzelne kamen, wihrend er saß und das 
+Bestellte erwartete. Die Teetasse am Munde, sah 
+er die polnischen Mädchen nebst ihrer Begleiterin 
+sich einfinden; Streng und morgenfrisch, mit ge- 
+rfiieten Augen, schritten sie zu ihrem Tisch in der 
+Fensterecke. Gleich darauf näherte sich ihm der 
+Portier mit gezt^ener Mütze und mahnte zum Auf- 
+bruch. Das Automobil stehe bereit, ihn und andere 
+Reisende nach dem Hotel Excelsior zu bringen, von 
+wo das Motorboot die Herrschafien durch den 
+Privaikanal der Gesellschaft zum Bahnhof befördern 
+werde. Die Zeit dränge. — Aschenbach fand, daß 
+sie das keineswegs tue. Mehr als üne Stunde blieb 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+bis zur Abfährt leines Zuges. Er ärgerte sich ui in 
+Gasihotsstne, den Abreisenden vorzeitig aus dem 
+Hause zu schaffen und bedeutete den Portier, daß 
+er in Ruhe zu fnihstüclien wünsche. Der Mann zog 
+sich zögernd zurück, um nach fbnf Minuten wieder 
+•uhatreren. Unmöglich, dafi der Wagen linger 
+warte. Dann m^ige er ^ren und seinen Koffer mit- 
+nehmen, en^egnete Ascbenbach gereizt. Er selbst 
+wolle zur gegebenen Zeit das öffentliche Dampfboot 
+benutzen und bitte, die Sorge um sein Fortkommen 
+ihm selber zu überlassen. Der Angestellte verbeugte 
+rieh. Aschenbich, froh, die listigen Mahnungen ab- 
+gewehrt zu haben, beendete seinen Imbifi ohne Eile, 
+fS, lieft sich sogar noch vom Kellner eine Zeitung 
+reichen. Die Zeit war recht knapp geworden, als er 
+sich endlich erhob. Es fügte rieh, dafi im selben 
+Augenblick Tadzio durch die Glastür hereinkam. 
+
+Er kreuzte, zum Tische der Snnen gehend, den 
+Weg des Aufbrechenden, schlug vor dem grau^ 
+haarigen, hochgcstimten Mann bescheiden die Augen 
+nieder, um rie nach seiner lieblichen Art sogleich 
+wieder wnch und voll zu ihm aufzuschlagen und 
+war vorüber. Adieu, Tadzio! dachte Aschenbach. 
+Ich sah dich kurz. Und indem er gegen seine Ge- 
+wohnheit das Gedachte wirklich mit den Lippen aus- 
+bildete und vor rieh hinsprach, fügte er hinzu : „Sei 
+
+7) 
+
+Dgilizedt^COOglC 
+
+
+
+gesegnet I" — Er hJelr duin Abreise, verteilte Trink- 
+gelder, ward von dem kleinen, Insen Manager im 
+französischen Gehrock verabschiedet und verlielä das 
+Hotel zu Fufi, wie er gekommen, am sich, gefolgt 
+von dem HandgepSck tragenden Hausdiener, durch 
+die weiß blühende Allee quer fiber die Insel zur 
+Dampferbriicke zu begeben. Er erreicht ne, er nimmt 
+Platz, — und was folgte, war rine Leidensfährt, 
+kammervoll, durch alle Tiefen der Reue. 
+
+Es war die vertraute Fahrt über die L^one, an 
+San Marco vorbei, den großen Kanal hinaaf. Aschen- 
+bach sab auf der Rundbank am Buge, den Arm au& 
+Gelinder gestfitzt, mit der Hand die Augen be- 
+schanend. Die öffentlichen Girten blieben zunick, 
+die Piazzetta eröffnete sich noch einmal in fürst- 
+licher Anmut und ward verlassen, et kam die grofie 
+Flucht der Paläste, und als die WasterttraOe rieh 
+wendete, enchien des Rialto prächtig gespannter 
+Marmorbf^cn. Der Reisende schaute, und töne 
+Brust war zerrissen. Die Atmosphäre der Stadt, 
+diesen leis fauligen Geruch von Meer und Sump^ 
+den zu fliehen ei ihn so sehr gedringt hatte, — er 
+atmete ihn jetzt in tiefen, zürtlich schmerzlichen 
+Zügen. War es möglich, dafi er nicht gewufit, nicht 
+bedacht hatte, wie sehr sein Herz an dem allen hing? 
+Was heute morgen ein halbes Bedauern, äa leiser 
+
+
+
+74 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Zwrifel sn der Richtigkeit srinet Tons gewesen war, 
+ita wurde jetzt zum Hum, zum wirklichen Weh, 
+zu einer Seelennot, so bitter, daß de ihm mehrmals 
+Tranen in die Augen trieb, und von der er sich sagte, 
+dafi er sie immöglich habe vorhersehen kflnnen. 
+Was er als so schwer ertrügtich, ja zuweilen als vtfllig 
+unleidlich empfand, war ofTenbar der Gedanke, daA 
+er Venedig nie wiedenehen solle, daß dies «n Ab- 
+scliied fitr immer s«. Denn da sich zum zwöten 
+Male gezeigt hatte, daA die Stadt Ihn krank mache, 
+da er sie zum zweiten Male Hals über Kopf xu ver- 
+lassen gezwungen war, to hatte er sie ja fortan als 
+einen ihm unmägUchen und verbotenen Aufenthalt 
+zu betrachten, dem er nicht gewachsen war und den 
+wieder aufzusuchen sinnlos gewesen \r%ie. Ja, er 
+empfiuid, dafl, wenn er jetzt abreise, Scham undTrotX 
+ihn hindern mäfiten, die geliebte Stadt je wiederzu- 
+sehen, vor der er zweimal körperlich versagt 
+hane; und dieser Streitfall zwischen seelischer Nei- 
+gung und körperlichem Vermögen schien dem Altern- 
+den auf einmal so schwer und wichtig, die phyrische 
+Niederlage so schmlhlich, so tmi jeden Preis hintan- 
+zahalten, dafi er die Inchtfenige Ergebung nicht 
+b^riff, mit welcher er gestern, ohne ernstlichen 
+Kampf, sie zu tragen und anzuerkennen beschlossen 
+hatte. 
+
+TJ 
+
+Dgilizedt^COOglC 
+
+
+
+UnterdcKttit nühen tich das Dunpfboot dem Balm- 
+hof, und Schmerz und Raclofigkeit steigen bb zur 
+VerwiiTung. Die Abreise dünkt den Gequälten un- 
+m^lich, die Umkehr nicht minder. So guiz zerrissen 
+betritt er die Sntion. Ei ist sehr spit, er hat keinen 
+Augenblick zu veriieren, wenn er den Zug erröchen 
+will Er will et und wiU es nicht. Aber die Zeit 
+drängt, fii geißelt ihn vorwärts ; er eilt, tich sein 
+Billett zu verschaffen und sieht tich im Tumult der 
+Halle nach dem hier ttarionierten Beamten der Hotet 
+geselltchaft um. Der Mensch zeigt tich und meldet, 
+der grobe KofFer tei aufgegeben. Schon aufgegeben? 
+Ja, bettent, — nach Como. Nach Como? Und aus 
+hastigem Hin und Her, aui zornigen Fragen und bo- 
+tretcnen Antworten kommt zutage, dafi der Koffer, 
+schon im Geplckbefbrderungsamt des Hotelt Exce^ 
+nor, zuiammen mit anderer, ^emder B^^e, in 
+völlig bische Richtung geleitet wurde. 
+
+Atchenbach harte Mühe, die Mieni zu bewahren, 
+die unter diesen Umständen «nzig begreifÜch war. 
+Eine abenteuerliche Freude, eine unglaubliche Heiter- 
+keit erschütterte von innen fast krampfhaft sein« 
+Brusc Der Angestellte stürzte davon, um mäglicher- 
+weite den Koffer noch anzuhalten und kriirte, wie 
+zu erwarten geweten, unverrichteter Dinge zurück. 
+Da eikline denn Aschenbach, dafi er ohne sein Ge- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+pick nicht zu reiien wünsche, sondern umzukehren 
+und das WiedereintrefTen des Stuckes im Oider- Hotel 
+zu erwarten entschlossen sei Ob du Motorboot der 
+Gesellschaft am Bahnhof li^e. Der Mann beceuerte, 
+es liege vor der Tür. Er bestimmte in italienischer 
+Suade den Schalterbezmten, den gelästen Fahrschein 
+zurückzunehmen, er schwor, dafi depeschiert werden, 
+da6 nichts gespart und verslumt werden solle, um 
+den Koffer in Bilde zorückzugewinnen, und — so 
+fand das Seltsame statt, dafi der Reisende, zwanzig 
+Minuten nach seiner Ankunft am Bahnhof, sich 
+wieder im Grofien Kanal auf dem Rückweg zum 
+Udo sah. 
+
+Windcriich unglaubhaftes, bescblmend es, komisch- 
+traumartiges Abenteuer: Stätten, von denen man eben 
+in tiefster Wehmut Abschied auf immer genommen, 
+vom Schicksal umgewandt und zurück verschlagen, 
+in derselben Stunde noch wiederzusehen! Schaum 
+vor dem Buge, drollig behend zwischen Gondeln und 
+Dampfern lavierend, schoß das kleine eilfertige Fahr- 
+zeug seinem Ziele zu, indes sein einziger Passagier 
+unter der Maske ärgerlicher Resignation die üngstlid^ 
+übermütige Erregut^ eines entlaufenen Knaben vet^ 
+barg. Noch immer, von Zeit zu Zeit, ward seine 
+Brust bew^t von Lachen über dies Mifigeschick, 
+das, wie er sich sagte, ein Sonntagskind nicht go- 
+
+n 
+
+Dgilizedt^COOglC 
+
+
+
+ADiger hlite heimnichen können. Et wiren Et* 
+kläningen zu geben, erstaunte Gesichter za bestehen, 
+— dann «rar, so sagte er sich, alles wieder gut, dann 
+war dn Unglück vethütet, ein schwerer Irrtum richtig 
+gesiellt, und alles, was er im RQcken zu lassen ge- 
+glaubt hatte, eröffnete rieh ihm wieder, war auf be- 
+liebige Zeit wieder sein . . . Tauschte ihn übrigem die 
+rasche Fahrt oder kam wirklich zum Überfluß der 
+Wind nun dennoch vom Meere her? 
+
+Die Wellen schlugen gegen die betonierten U^nde 
+des schmalen Kanals, der durch die Insel zum Hotel 
+Excelsior gelegt ist. Ein automobiler Omnibus er- 
+wartete dort den Wiederkehrenden und führte ihn 
+oberhalb des gekräuselten Meeres auf geradem Wege 
+zum Bsder-Hotel. Der kleine, schnurrbärtige Ma- 
+nager in geschweiftem Gehrock kam zur B^rü&ung 
+die Freitreppe herab. 
+
+Leise scbmachelnd bedauerte er den Zwischen- 
+fäll, nannte ihn Xufierst peinlich für ihn und das 
+Institut, billigte aber mit Überzeugung Aschenbachs 
+Entschlufi, das Gepackstück hier zu erwarten. Frei- 
+lich sei sein Zimmer vergeben, ein anderes jedoch, 
+nicht schlechter, sogleich zur Verfügung. „Pas de 
+Chance, monrienr", sagte der schweizerische lift- 
+führer liebelnd, als man hinaufglitt. Und so wurde 
+der Flüchtling wieder onquartiert, in einem Zimmer, 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+du dem vorigen nach Lage iind Eiimchniiig hst voD- 
+kommen glich. 
+
+Ermüdet, betäubt von dem Wirbel dieses seltsamen 
+Vonnittags, lieb er rieh, nachdem er den Inhalt seiner 
+Handtasche im ^mmer verteilt, in einem Lehnstuhl 
+t,m offenen Fenster nieder. Das Meer hatte eine 
+blaßgrfine Färbung angenommen, die Luft schien 
+dünner und reiner, der Strand mit seinen Hätten and 
+Booten &rbiger, obgleich der Himmel noch grau 
+war. Aschenbach blickte hinaut, die Hinde im Schoß 
+geiltet, zufrieden, wieder hier zu s«n, kopfschüttelnd 
+unzufrieden über seinen Wankelmut, snne Unkennt- 
+nis der eigenen WSnsche. So taft er wohl eine Stunde, 
+ruhend und gedankenlos träumend. Um Mittag er- 
+blickte er Tadzio, der in gestreiftem Lnnenanzug 
+mit roter Masche, vom Meere her, durch die Strand- 
+sperre und die Bretterwege entlang zum Hotel zu- 
+rückkehrte. Aschenbach erkannte ihn aus sriner 
+Höhe sofort, bevoi et ihn «geniUch ins Auge gefäS^ 
+and wollte etwas denken, wie: Sieh, Tadzio, da bist 
+ja auch du wieder! Aber im gleichen Augenblick 
+fühlte et, wie der lässige Grufi vor der Wahrheit 
+■önei Herzens hinsank und verstummte, — fühlte 
+die Begeiuerung seine* Blutes, die Freude, den 
+Schmerz seiner Seele und erkannte, dafi ihm um 
+TadzÜM willen der Abschied so schwer geworden war. 
+
+79 
+
+
+
+i,Cioi)g[e 
+
+
+
+Er sab g>nz fiill, guiz ungesehen ui seinem hohen 
+Platre und blicbce in sich hinein. Seine Züge waren 
+erwacht, seine Brauen stiegen, ein aufmerksames, 
+neugierig geistreiches Lächeln spannte seinen Mund. 
+Dann hob er den Kopf und beschrieb mit beiden 
+SchlaF über die Lehne des Sessels hinabhingenden 
+Armen eine langsam drehende und hebende Bewe- 
+gung, die HandAichen vorwürtskehrcnd, so, als deute 
+er ein OfTnen und Ausbreiten der Arme an. Es war 
+eine bereitwillig willkommen beißende, geUssen auf- 
+nehmende Gebärd«. 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+VIERTES KAPITEL 
+
+^^nn lenkte Tag für Tag det Gott mit den bitz^o 
+Wuigennaclcend srin gluthauchendes Vietgespuin 
+durch die Riume des Himmels, und idn gelbes Ge- 
+loclc flatterte im zugleich ausstürmenden Ostwind. 
+Weißlich seidig« Glanz lag auf den Weiten des tUgt 
+wallenden Pontos. Det Sand glühte. Unter der 
+silbrig flirrenden Bläue det Atheis waren rostfarbene 
+SegeltÜcher voi den Strandhütten ausgespannt, und 
+auf dem scharf umgrenzten Schartenfleck, den ne 
+boten, verbrachte man die Vormittagsstunden. Aber 
+köstlich wai auch der Abend, wenn die Pflanzen des 
+Parks balsamisch dufteten, die Gestirne droben ihren 
+Reigen schritten und das Murmeln des umnachteten 
+Meeres, leise heraufdringend, die Seele besprach. 
+Solch ein Abend trag in sich die freudige Ge- 
+w^lhr eines neuen Sonnentages von leicht geord- 
+neter Mufie und geschmückt mit zahllosen, dicht 
+bäeinander liegenden Möglichkeiten lieblichen 
+Zuf^. 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Der Gast, den ein so gefugig« Mißgeschick hier 
+festgehalren, war weit entfernt, in der Rdckgewin- 
+nung seiner Habe einen Grund za erneutem Auf- 
+bruch zu sehen. Er httte zwei Tage lang einig« 
+Enibehning dulden und zu den Mahlzeiten im großen 
+Speifcsaal im Reiseanzug erscheinen mQssen. Dann, 
+ds man endlich die verirrte Last wieder in seinem 
+Zimmer niedersetzte, packte er gründlich aus und 
+füllte Schrank und Schubßcher mit dem Seinen, ent- 
+schlossen zu vorläufig anabsehbaren) Verweilen, ver- 
+gnügt, die Stunden des Strandet in seidenem Anzug 
+verbringen und beim Diner sich wieder in schick- 
+licher Abendtracht an seinem Tischchen zeigen zu 
+können. 
+
+Der wohlige Gleichtakt dieses Daseins hatte ihn 
+schon in seinen Bann gezogen, die weiche und gUn- 
+zende MDd« dieser Lebensführung ihn rasch be- 
+rückt. Welch «n Aurenthalt in der Tat, der die 
+Reize eines gepflegten Badelebens an südlichem 
+Stiande mit der traulich bereiten Nihe der wundem 
+lieh -wundersamen Stadt verbindet! Aschenbach 
+liebte nicht den Genufl. Wann immer und wo es 
+galt, zu feiern, der Ruhe zu pflegen, sich gute Tage 
+zu machen, verlangte ihn bald — und namentlich in 
+{fingeren Jahren war dies so gewesen — mit Unruhe 
+und Widerwillen zurück in die hohe Mühsal, den beilig- 
+
+
+
+Ss 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+nüchternen Dienst seines Alltags. Nur dieser Ort 
+verzauberre ihn, entspannte sein Wollen, machte ihn 
+glücklich. Manchmal vormittags, unter dem Schattea- 
+tuch inner Hütte, hinträumend über die Dliue des 
+Südmeers, oder bei lauer Nacht auch wohl, gelehnt 
+in die Kissen der Gondel, die ihn vom Markusplan, 
+wo er sich lange verwolt, unter dem groß gestirnten 
+Himmel heimwlrts zum Lido fährte — und die 
+bunten Lichter, die schmelzenden Klinge der Sere- 
+nade bilden zurück — , erinnerte er rieh seines Land- 
+sitzes in den Bergen, der Stine seines tommerlicheo 
+Ringens, wo die Wolken tief durch den Garten zo- 
+gen, fürchterliche Gewitter am Abend da* Licht des 
+Hauses laschten und die Raben, die er fiinerte, rieh 
+in den Wipfeln der Fichten schwangen. Dann schien 
+CS ihm wohl, als fä er entrückt ins elyrische Land, 
+an die Grenzen der Erde, wo leichtestes Leben den 
+Menschen beschert in, wo nicht Schnee ist und 
+Winter, noch Sturm und strömender Regen, sondern 
+immer unfk kühlenden Anhauch Okeanos aufsteigen 
+lifit und in seliger Mufle die Tag« verrinnen, muhe- 
+loi, kampflos und ganz nur der Sonne und ihren 
+Festen geweiht. 
+
+Viel, fast bestandig sah Aschenbach den Knaben 
+Tadzio; ein heschrlnkter Raum, eine jedem gegebene 
+Lebensordnung brachten c* mit rieh, dafi der Schdne 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+ihm ngfiber mit kurzen Unterbrechungeo nahe wat. 
+Er sah, er traf ihn überall: in den unteren Räumen 
+des Hotels, auf den kühlenden Wasserfährten zur 
+Stadt und von dort zurück, im Gepränge des Platzes 
+selbst und oft noch zwischenein auf Wegen und 
+St^en, wenn der Zufall ein Übriges tat. Haupt- 
+Achlich aber und mit der glücklichsten Regelmi&ig- 
+keit bot ihm der Vormittag am Strande ausgedehnte 
+Getegenhnt, der holden Erscheinung Andacht und 
+Studium zu widmen. Ja, diese Gebundenheit des 
+Glückes, diese tlglich gl eichmißig medet tnb rechende 
+Gunst der Umstilnde' war e« so recht, wu ihn mit 
+Znfiiedenhett und Lebensfreude erfüllte, was ihm 
+den Aufienthalt teuer machte und einen Sonnent^ 
+M> gcßdl^ hinhaltend sich tn den anderen r«hen 
+Uefi. 
+
+Et war früh auf, wie sonst wohl bd pochendem 
+Atbeiisdrange, und vor den Mnsten am Strand, 
+wenn die Sonne noch milde war und das Meer wcifl 
+blendend in MorgentrSumen lag. Er grüftte men- 
+schen&eundlich den Wächter der Sperre, grüßte 
+auch vertraulich den barftifiigen Weißbart, der ihm 
+die Statte bereitet, das braune Schattentuch aus- 
+gespannt, die Mäbel der Hütte hinaus auf die Platt- 
+form gerückt hane, und ließ nch nieder. Diei 
+Stunden oder vier waren dann sein, in denen die 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Sonne zur Hfibe irieg und furchtbare Michc gewuin, 
+in denen du Meer defer und tiefer blaute und in 
+denen er Tadzio sehen durfre. 
+
+Er iah ihn kommen, von links, am Rande det 
+Meeres daher, sah ihn von rückwärts zwischen den 
+Hütten hervortreten oder &id auch wohl plätzlich, 
+und nicht ohne ein frohes Erschrecken, daü er trin 
+Kommen versiumt und dafi er schon da war, schon 
+in dem blau und weiften Badeanzug, der jetzt am 
+Strand seine einzige Kleidung war, sein gewohntes 
+Treiben in Sonne und Sand weder aufgenommen 
+hatte, — dies lieblich nichtige, müfiig unstete Leben, 
+das Spiel war und Ruhe, ein Schlendern, Waten, 
+Graben, Haschen, Lagern und Schwimmen, bewacht, 
+berufen von den Frauen auf der Phttfbnn, die mit 
+Kopfstimmen seinen Namen ertönen ließen: »^ad- 
+ziul Tadziul" und zu denen et mit eifrigem Ge- 
+bärdenspiel gelaufen kam, ihnen zu erzählen, was et 
+erlebt, ihnen zn zeigen, was er gefunden, gefangen: 
+Muscheln, Seepferdchen, Quallen und seitlich lau- 
+fende Krebse. Ascbenbach verstand nicht ein Wort 
+von dem, was er sagte, und mochte es das Alltäg- 
+lichste snn, es war verschwommener Wohllaut in 
+seinem Ohr. So erhob Fremdheit des Knaben Rede 
+zur Musik, eine übermütige Sonne gofi verschwen- 
+derischen Glanz über ihn ans, and die eihabene 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Hefticht des Meeres war immer seiner Encheinang 
+Folie und Hinc ergrund. 
+
+Bald kannte der Betrachtende jede Linie und Pole 
+dieses so gehobenen, so frei sich darstellenden Kdr* 
+pers, begräßte &eadig jede schon vertraute Schön- 
+heit aufs neue und fand der Bewunderung, der zarten 
+Sinneslusc kein Ende. Man rief den Knaben, einen 
+Gast zu b^mßen, der den Frauen bei der Hätte 
+aufwartete; er lief herbei, tief nafi vielleicht aus der 
+Fiat, er warf die Locken, and indem et die Hand 
+rnchte, aaf einem Beine ruhend, den anderen FuO 
+auf die Zehenspitzen gestellt, hatte er eine reizende 
+Drehung und Wendung des Körpers, anmutig span- 
+nungsvoll, verschämt aus licbenswdrdigkeit, gefällr 
+sUchrig aus adeliger Pflicht. Er lag ausgestreckt, das 
+Badetuch um die Brust geschlungen, den zart ge- 
+meißelten Arm in den Sand gestützt, das Kinn in der 
+hohlen Hand; der, welcher ,Jaschu'* gerufen wurde, 
+■aft kauernd bei ihm und tat ihm schdn, und nichts 
+konnte bezaubernder srin, all das Llcheln der Ai:^en 
+und Lippen, mit dem der Ausgezeichnete zu dem 
+Geringeren, Dienenden aufblickte. Er stand am 
+Rande der See, allein, abseits von den Seinen, ganz 
+nahe bei Aschenbach, — aufrecht, die Hände im 
+Nacken verschlungen, langsam sich auf den Fußhallen 
+schaukelnd, und träumte ins Blaue, während kleine 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Wellen, die anliefen, seine Zehen badeten. Sein 
+honig&rbenef Hui schmiegte sich in Ringeln u\ die 
+Schlafen und in den Nacken, die Sonne eiteuchtet« 
+den Flaum des oberen Rückgnis, die feine Zeich- 
+nung der Rippen, das Gleichmaß der Brust traten 
+durch die knappe UmhüUung des Rumpfes hervor, 
+seine Achselhöhlen waren noch glatt wie bei einer 
+Statue, seine Kniekehlen glänzten, und ihr blüuliches 
+Gekd« licfi seinen Körper wie aus klarerem Stoffe 
+gebildet erscheinen. Welch eine Zucht, welche PriU 
+üsion des Gedankens wat ausgedrückt in diesem ge- 
+meckten und jugendlich vollkommenen Leibel Der 
+menge und reine Wille jedoch, der, dunkel tätig, 
+dies göttliche Bildwerk ans Licht zu tteiben vermocht 
+hatte, — war er nicht ihm, dem Künstler, bekannt 
+und vertraut? Wirkte et nicht auch in ihm, wenn er, 
+nüchterner Leidenschaft voU, aus der Marmormasse 
+der Sprache die schlanke Form befreite, die « im 
+Geiste geschaut und die er als Standbild und Spiegel 
+geistigei Schönheit den Menschen darstellte? 
+
+Standbild und Spiegel! Seine Augen umfaßten die 
+edle Gestalt dort am Rande des Blauen, und in auf- 
+(chwärmendem Entzücken glaubte or mit diesem 
+Blick das Schöne selbst zu begreifen, die Form ab 
+Gottesgedanken, die eine und reine Vollkommenheit, 
+die im Geist« lebt tuid von det ein menscldiches 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Abbild und Gleicknis hier leichc und hold zu An- 
+betung aufgerichtet war. Das war der Rauschi und 
+unbedenklich, ja gierig hiefi der alternde Künstler 
+ihn willkommen. Sein Geist kreide, seine Bildung 
+geriet ins Wallen, sein GedMchinis warf uralte, seiner 
+Jugend überiieferte und bis dabin niemals von eigenem 
+Feuer belebte Gedanken auf. Stand nicht geschrieben, 
+daß die Sonne unsere AufinetksamLeit von den ii^ 
+teUekmellen auf die sinnlichen Dinge wendet? Sit 
+beriiube und bezaubere, hieß es, Verstand luid Ge- 
+dächtnis dergestalt, dafi die Seele vor Vergnügen 
+ihres eigentlichen Zustandes ganz vergesse und nüt 
+staunender Bewunderung an dem schönsten der be- 
+sonnten Gegenscände hangen bldbe: ja, nur mit Hilfe 
+önes Körpers vermöge sie dann noch zn höherer 
+Betrachtung sich zu erheben. Amor fQrwahr tat es 
+den Mathematikem gleich, die unßibigen Kindern 
+greifbare Bilder der rönen Formen vorzeigen: So 
+auch bediente der Gott sich, um uns das Geistige 
+richtbar xu machen, gern der Gestalt und Farbe 
+menschlicher Jugend, die er zum Werkzeug der Er- 
+innerung mit allem Abglanz der Schönheit schmückte 
+und b« deren Anblick wir dann wohl in Schmeiz 
+und Hoffnung entbrannten. 
+
+So dachte der Enthusiasmierte ; so vermochte er zu 
+empfinden. Und aus Meeirausch und Sonnenglast 
+
+
+
+■■ 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+ipann neb ihm ein rnzendes Bild. Es war die alte 
+Platane unfem den Mauern Athens, — war jen« 
+heilig-schattige, vom Dufte der Keuschbaomblüten 
+etfüUte On, den Wnbbilder und fromme Gaben 
+schmückten zu Ehren der Nymphen und des Ach^ 
+loos. Ganz klar fiel der Bach zu Füfien des br«t- 
+geistecen Baums über glatte Kiesel; die Grillen 
+geigten. Auf dem Rasen aber, der sanft abfiel, so, 
+dafl man im Liegen den Kopf hochhalten konnte, 
+lagerten zwei, geborgen hier vor der Glut deiTages: 
+nn Altlicher und ein Junger, ein Häßlicher und ein 
+Schöner, der Weise beim Liebenswürdigen. Und 
+unter Artigkeiten und geistreich werbenden Scherzen 
+belehrte Sokrates den Fhaidros über Sehnsucht und 
+Tugend. Er sprach ihm von dem heiflen Erschrecken, 
+das der Fühlende leidet, wenn sein Auge ein Gleichiüs 
+der ewigen Schönheit erblickt} sprach ihm von den 
+Begierden des Weihelosen und Schlechten, der die 
+Schönheit nicht denken kann, wenn er ihr Abbild 
+neht, und der Erfurcht nicht fiihig ist; spradi von 
+der heiligen Angst, die den Edlen befiillc, wenn ein 
+gottgleiches Antlitz, ein voltkontmener Leib ihm 
+etscheint, — wie er dann aufbebt und außer sich ist 
+and hinzusehen sich kaum getraut und den verehrt, 
+der die Schönheit hat, ja, ihm opfern würde, wie 
+einer Bildslole, wenn er nicht fürchten müßte, den 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Menschen nirrisch zu scheinen. Denn die Schönheit, 
+mein Phaidcos, nur sie, ist liebens wärdig und sichtbu 
+zugleich: sie ist, merke das wohl! die einzige Fonn 
+det Geistigen, welche wir »nnlich empfiuigen, sinn- 
+lieh ernten können. Oder wis würde aus uns, wenn 
+dts Gäniiche sonst, wenn Vernunft und Tugend und 
+Wahrheit uns sinnlich erscheinen wollten? Würden 
+wir nicht vergehen und verbrennen vor Liebe, wie 
+Semele einstmals vor Zeus? So ist die Schönheit der 
+Weg des Fühlenden zum Geine, — nur der Weg, ein 
+Mittel nur, kleiner Phiidros . . . Und dann sprach ci 
+das Feinste aas, der verschlagene Hofinacher: Dies, 
+dofi der Liebende göttlicher sei, als der Geliebte, 
+weil in jenem der Gott sei, nicht aber im andern, — 
+diesen zlntichsien, spöttischsten Gedanken vielleicht, 
+der [enials gedacht ward und dem alle Schalkheit nnd 
+heimlichste Wollust der Sehnsucht ennpringt. 
+
+Glück des Schriftstellers ist der Gedanke, der ganz 
+Gefühl, ist das GeFühl, das ganz Gedanke za werden 
+vermag. Solch ein pulsender Gedanke, solch genaues 
+Gefühl gehörte nnd gehorchte dem Einsamen da- 
+mals: namlidi, daß die Natur vor Wonne ersdiaure, 
+wenn der Geist »ch huldigend vor der Schönheit 
+neige. Er wänschte plötzlich, zu schreiben. Zwar 
+liebt Eros, heifit es, den Müfii^ng und Tilr solchen 
+mir ist et geschaffen. Abci an diesem Funkte der 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Krisis war die Erregung des Heimgemchten auf Pro- 
+dukcion gerichtet. Fast gleichgülrig der Anlaß. Eine 
+Frage, eine Anregung, über ein gewisses grofies und 
+brennendes Problem der Kultur und des Geschmackei 
+üch bekennend vernehmen zu lassen, war in die 
+geistige Welt ergangen und bei dem Verreisten ein- 
+gelaufen. Der Gegenstand war ihm gelüufig, war 
+ihm Erlebnis; sein Gelüst ihn im Licht seines Wortes 
+erglinzen zu lassen auf einmal unwiderstehlich. Und 
+zwar ging sein Verlangen dahin, in Tadzios Gegen- 
+wart zu arbeiten, beim Schreiben den Wuchs de* 
+Knaben zum Muster zu nehmen, seinen Stil den 
+IJnien dieses Kärpers folgen zu lassen, der ihm gött- 
+lich schien, und seine Schönheit ins Geistige zu 
+tragen, wie der Adler einst den troischen Hirten 
+zum Äther trug. Nie hatte er die Lust des Wortes 
+süßer empfunden, nie so gewu&t, daß Eros im Worte 
+sei, wie wihrend der gefährlich kftsiUcben Stunden, 
+in denen er, an seinem rohen Tische unter dem 
+Schattentuch, im Angesicht des Idols und die Musik 
+seiner Stimme im Ohr, nach Tadzios Schönheit seine 
+kleine Abhandlung, — jene anderthalb Seiten erlesener . 
+Prosa formte, deren Lauterkeit, Adel und schwiiH 
+gende Gefiihlsspannung binnen kurzem die Bewun- 
+derung vieler erregen sollte. Es ist sicher gut, daO 
+die Welt nur das schöne Werk, nicht auch seine Ui^ 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+tpiünge, nicht seine Entstehungsbedin gangen kennt | 
+denn die Kenntnis der Quellen, aus denen dem 
+Künsder Eingebung floß, wurde sie oftmals ver- 
+wirren, abschrecken und so die Wirkungen des Vor- 
+tzefFlichen aufheben. Sonderbare Stunden! Sonder- 
+bar entnerrende Mfihel Seltsam zeugender Veriiehr 
+des Geistes mit «nem Körpecl Als Aschenbach 
+s«ne Arbeit verwahrte and vom Strande aufbrach, 
+fühlte er sich erschöpft, ja zerrüttet, und ihm war, 
+als ob sein Gewissen wie nach einer Aussdiweifung 
+Klage führe. 
+
+Es war am folgenden Morgen, daß er, im Begriff 
+das Hotel zu verlassen, von der Freitreppe aus ge- 
+wahrte, wie Tadüo, schon unterwegs zum Meere — 
+und zwar allein •—, sich eben der Sttandsperre 
+näherte. Der Wunsch, der einfache Gedanke, die 
+Gelegenheit zu nutzen und mit dem, der ihm un- 
+wissentlich so viel Erhebung und Bewegung bereitet, 
+leichte, heitere Bekanntschaft zu machen, ihn anzu- 
+reden, sich seiner Antwort, seines Blickes zu er- 
+fireuen, 1^ nahe und driüigte sich auf. Der Schöne 
+^g schlendernd, er war einzuholen, und Aschen- 
+bach beschleunigte seine Schritte. Er etrncht ihn 
+auf dem Bretterateig hinter den Hütten, er will ihm 
+die Hand aufs Haupt, auf die Schulter legen, und 
+irgendein Wort, eine freundliche französische Phrase 
+
+
+
+i.z.iit,,Coog[c 
+
+
+
+ickwebc ihm auf den Lippen : d» fOhlt er, d&fi leiii 
+Herz, vielleicht auch vom schnellen Gang, wie ein 
+Hammer schlügt, dafi er, so knapp bei Atem, nor ge- 
+preßt und bebend wird sprechen können; er zögert, 
+er sucht sich zq beherrschen, er fürchtet plfitzlicb, 
+idion m lange dicht hinter dem Schtinen zu gehen, 
+furchtet lein Aufmerksam werden, sdn fragendes 
+Umschauen, nimmt noch dnen Anlauf^ versagt, ver- 
+zichtet und geht gesenkten Hauptes vorüber. 
+
+Zu spät! dachte er in diesem Augenblick. Zu sp9tl 
+Jedoch war es zu splt? Dieser Scheite, den zu tun er 
+versiumte, er hütte sehr mdglichenveise zum Guten, 
+Leichten und Frohen, zu heilsamer Ernüchterung 
+geführt. Allein es war wohl an dem, da& der Al- 
+ternde die Ernüchterung nicht wollte, da& der Rawch 
+ihm zu teuer war. Wer entrütselt Wesen und Ge- 
+pHge des Künstlertumtl Wer begreift die tiefe In- 
+ttinktverschmelzung von Znchc und Ziigellongkrit, 
+worin es beruht'. Denn heilsame Emfichterung nicht 
+wollen zu können, ist Zügellosigkeit. Aschenbach 
+war zur Selbstkritik nicht mehr aufgelegt; der Ge- 
+schmack, die geistige Verfassung seiner Jahre, Selbt^■ 
+achtui^. Reift und splte Hn&chhnt machten ihn 
+nicht geneigt, Beweggründe zu zerglieilem und zu 
+encscbnden, ob er aus Gewissen, ob aus Liederlicb- 
+k^ und Schwäche sein Vorhaben nicht ausgeführt 
+
+91 
+
+Dgilizedt^COOglC 
+
+
+
+habe. Er war verwirrt, er fürchtete, dafi irgen«! je- 
+mand, wenn auch der Strandwichrer nur, seinen Lauf, 
+■eine Niederlage beobachtet haben möchte, fürchtete 
+■ehr die Lächerlichkeit. Im übrigen scherzte er bei 
+neb telbit über tnne komisch-heilige Angst. »Be- 
+MÜrzt," dachte er, „bestürzt wie ein Hahn, der 
+angstvoll seine Flügel im Kampfe bringen IlSt. Das 
+ist wahrlich der Gott, der beim Anblick des Lieben^ 
+wördigen SO unseren Mut bticht und unseren stolzen 
+Sina so gänzlich zu Boden drückt ..." Er spielte, 
+ichwürmte und war viel zu hochmütig, um ein Ge- 
+fühl zu furchten. 
+
+Schon überwachte er nicht mehr den Ablauf der 
+Mufiezeit, die er sieb selber gewährt; der Gedanke 
+an Heimkehr berührte ihn nicht dnmal. Er hatte 
+nch reichlich Geld venclirieben. Seine Besorgnis 
+galt «nzig der möglichen Abreise der polnischen 
+Familie; doch hatte er anter der Hand, durch 
+bnlüufige Erkundigung beim Coiffeur des Hoieb 
+erfahren, dafi diese Hertschaften ganz kurz vor 
+seiner eigenen Ankunft hier abgestiegen seien. Die 
+Sonne briunte ihm Antlitz und Hände, der erregende 
+Salzhauch ttürkte ihn zum GefShl, und wie er sonst 
+jede Erquickung, die Schlaf, Nahrung oder Natur 
+ihm gespendet, sogleich an ein Werk zu verausgaben 
+gewohnt gewesen war, so lieA er nun alles, was Sonne, 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Mufie und Meertuft ihm an tiglicher Kilftigung zu- 
+führten, hochherzig^unwUtschifUich aufgehen in 
+Rausch und Empfindung. 
+
+Sein Schlaf war fluchrigj die köstlich einförmigen 
+Tage waren getrennt durch kurze Nachte voll glück- 
+licher Unruhe. Zwar zog er sich zeitig zurück, denn 
+nm neun Uhr, wenn Tadzio vom Schauplatz vei^ 
+ichwunden war, schien der Tag ihm beendet. Ab«r 
+ums erste Mot^engnuen weckte ihn ein zart durch- 
+dringendes Erschrecken, s«n Herz erinnerte sich 
+tones Abenteuers, es lin ihn nicht mehr in den 
+Kissen, er erhob sich, und leicht eingehüllt gegen 
+die Schauer der Frühe setzte er sich ans offene 
+Fenster, den Aufgang der Sonne zu erwarten. Da* 
+wundervolle Ereignis erfüllte seine vom Schlafe ge- 
+weihte Seele mit Andacht. Noch l^en Himmel, Erde 
+und Meer in geisterhaft glasiger Dünunerblässe; noch 
+schwamm ein vergehender Stern im Wesenlosen. 
+Aber ein Wehen kam, eine beschwingte Kunde von 
+unnahbaren WohnpUtzen, daß Eos sich von der Seite 
+des Ganen erhebe, und jenes erste, süße Erraten der 
+fernsten Himmels- und Meeresstriche geschah, durch 
+welches das Sinnlichwerden der Schöpfung sich an- 
+zeigt. Die Gönin nahte, die Jfinglingsentffihrertn, 
+die den Kleitof, den Kephalos raubte und dem Neide 
+aller Olympischen trotzend die Liebe des ichöoen 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Orion genofi. HnRotenstrenen begann da am Rande 
+der Welt, ein unsäglich holdes Scheinen und Blühen, 
+kindliche Wolken, verklürt, durchleuchtet^ schwebten 
+gleich dienenden Amoretten im rosigen, bUulichen 
+Duft, Purpur fiel auf das Mw<er, das ihn wallend vor- 
+Wirts zu schwemmen schien, goldene Speere zuckten 
+von unten zur Höhe des Himmels hinauf, der Glanz 
+wud zum Brande, lautlos, mit gfitdicher Übe^ewalt 
+Wälzten sich Glut und Brunst und lodernde Flammen 
+berauf, und mit raffenden Hufen stiegen des Bruders 
+heilige Renner fiber den Erdkreis empor. Angestrahlt 
+von der Pracht des Gottes saA der Einsam^Wache, er 
+schloß die Augen und liefi von der Glorie seine 
+Lider küssen. Ehemalige Gefühle, frühe, köstliche 
+Drangsale des Herzens, die im strengen Dienst seines 
+Lebens erstorben waren und nun so sonderbar ge- 
+wandelt zurückkehrten, — ei erkumt« sie mit ver- 
+wirrtem, verwundertem Liebeln. Er sann, ec träumte, 
+langsam bildeten seine Lippen «nen Namen, und 
+noch immer lächelnd, mit au^ins gekehrtem Ant- 
+litz, die I£inde im SchoJi ge&ltet^ entschlummerte 
+er in seinem Sessel noch einmaL 
+
+Aber der Tag, der so feurig-festlich begann, war 
+im ganzen seltsam gehoben und mythisch verwandelt. 
+Woher kam und stammte der Hauch, der auf einmal 
+■o sanft und bedeutend, höherer HoHüsterung glrich, 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Sctdüfe und Ohi umspielte? Weifie Federwälkchen 
+ttanden in verbmtetes Scharen vn Himmel gleich 
+weidenden Heiden der Gatt«. StiCtkerer Wind 
+erhob sich, und die Rosse Posridons liefen, sidi bäu- 
+mend, daher, Stiere auch wohl, dem Bllulichgelockten 
+gehörig, welche mit Brüllen anrennend die Hamer 
+senkten. Zwischen dem FelsengerüU des entfernteren 
+Strandes jedoch hüpften die Wellen empor als sprin- 
+gende liegta. Eine heilig entstellte Wdt voll pani- 
+schen Lebens schloß den Berückten ein, und stm 
+Herz träumte zarte Fabeln. Mehrmals, wenn hinter 
+Venedig die Sonne tank, saß er auf einer Bank im 
+Park, um Tadzio zuzuschauen, der »ch, weiß gekleidet 
+und färb^ gegürtet, auf dem gewalzten Kiesplatz mit 
+Ballspiel vergnügte, und Hyakinthos war es, den er 
+zu sehen glaubte, und der sterben mußte, weil zwei 
+Götter ihn liebten. Ja, er empfand Zephyrs schmer- 
+zenden Neid «of den Nebenbuhler, der des Orakels, 
+des Bogens und der Kithara vei^afi, um immer mit 
+dem Schönen zu spielen; er sah die Wirfscheibe, 
+von graosamer Kfersucht gelenkt, das liebliche 
+Haupt treffen, er empfing, erblassend auch er, den 
+geknickten Leib, und die Blume, dem sü&en Blute 
+entsprossen, trug die Inschrift seiner unendlichen 
+Klage . . . 
+
+Seltsamer, heikler ist nichts, als das Verldltnii von 
+
+7 97 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Menschen, üt sich diu- mit den Augen kennen, — 
+die tlglich,i>siünillich einander begegnen, beobachten 
+and dabei den Schein glcichgühiger Fremdheit gnifi- 
+los und wortlos autrechi zu halten durch Sittenzwang 
+oder eigene Grille genätigt sind. Zwischen ihnen in 
+Unruhe and überreizte Neugier, die Hysterie eines 
+ttnbef riedigten, unnatürlich unterdrückten Erkennt- 
+nis- und Austausch bedfirfnisses and namentlich auch 
+eine Art von gespannter Achtung. Denn der Mensch 
+liebt und ehrt den Menschen, solange er ihn nicht 
+XU beurteilen vermag, und die Sehnsucht ist ein Er- 
+zeugnis mangelhafter Erkenntnis. 
+
+Irgendeine Beziehung und BekanntKhaft mufite 
+rieh notwendig ausbilden zwischen Aschenbach und 
+dem jungen Tadzio, und mit durchdringender Freude 
+konnte der Altere feststellen, daß Teilnahme und 
+Aufmerksamkeit nicht völlig unerwidert blieben. 
+Was bewog zum Beispiel den Schönen, niemals mehr, 
+wenn er morgens am Strande erschien, den Breitet' 
+Steg an der Rückseite der Hütten zu benutzen, son- 
+dern nur noch auf dem vorderen Wege, durch den 
+Sand, an Aschenbachs Wohnplatz vorbei und manch- 
+mal unnfitig dicht an ihm vorbei, seinen Tisch, seinen 
+Stuhl ßtst streifend, zur Hütte der Seinen zu schlen- 
+dern? Wirkte so die Anziehung, die Faszination 
+«nes überlegenen Gefühls auf seinen zarten und ge- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+dank enlosen Gegenstand? Atchenbich erwirteie rifg- 
+UchTadziosAuftreien, und zu weilen tat er,alss« er b^ 
+tchäfttgt, wenn es sieb vollzc^, und ließ den Schönen 
+tcheinbai unbeachtet vorfibergehen. Zuweilen aber 
+tocb blickte er auf. und ihre Blicke trafen sich. Sie 
+waren beide tiefernst, wenn du geschah. In der ge- 
+bildeten und würdevollen Miene des Alteren ver- 
+riet nichts eine innere Bewegung; aber in Tadzios 
+Augen war ein Fonchen, ein nachdenklich« Fragen, 
+in seinen Gang kam ein Zögern, er blickte zu Boden, 
+er blickte lieblich wieder auf, und wenn er vorüber 
+war, so schien ein Etwas in seiner Haltung auszu- 
+drücken, dtO nur Erziehung ihn hinderte, sich um- 
+zuwenden. 
+
+Einmal jedoch, eines Abends, begab es steh anders. 
+Die polnischen Geschwister hatten nebst ihrer Gou- 
+vernante bei der Hauptmahlzeit tm gtofien Saale ge- 
+fehlt, — mit Besorgnis hatte Aschenbach es wahiv 
+genommen. Er eiging sich nach Tische, sehr unruhig 
+über ihren Verbleib, in Abendanzug und Strohhut 
+vor dem Hotel, zu Ffi&en der Terrasse, als er plöt^ 
+lieh die nonnenShn liehen Schwestern mit der Ei^ 
+zieherin und vier Schritte hinter ihnen Tadzio im 
+Lichte der Bogenlampen auftauchen sah. Offenbar 
+kamen sie von der Dampferbrücke, nachdem sie am 
+iigendcinem Grunde in der Stadt gespeist. Auf dem 
+
+■:• 99 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Wasser wu « wohl kühl gewesen; Tidzio trug eine 
+dunkelblaue Seemanns - Überjacke mit goldenen 
+Knöpfen und auf dem Kopf rine zugehörige Mfitze. 
+Sonne und Seeluft veibtannien ihn nicht, seine 
+Haut war mannorhaft gelblich geblieben wie nt Be- 
+ginn; doch schien er bllsser heute, ab sonst, sei es 
+infolge der Kahle oder durch den bleichenden Mond> 
+schein dei Lampen. Seine ebenmäßigen Brauen 
+zeichneten sieb schärfer ab, seine Augen dunkelten 
+def. Er wat schöner, als es sich sagen läfit, und 
+Aschenbach empfand wie schon oftmals mit Schmer' 
+xen, dafi das Wort die sinnliche Schönheit nur zu 
+preisen, nicht wiederzugeben vermag. 
+
+Er war der teuren Etscheinui^; nicht gewlrtig ge- 
+wesen, sie kam unverhofft, er hatte nicht Zeit gehabt, 
+seine Wene zu Ruhe und Würde zu befesdgeri. 
+Freude, Überraschung, Bewunderung mochten sich 
+offen darin malen, als sein Blick dem des Veimifiten 
+begegnete, ~ und in dieser Sekunde geschah es, dafi 
+Tadzio lächelte: ihn an^ichelte, sprechend, vertraut, 
+liebinzend und unverhohlen, mit Lippen, die nch 
+im Lächeln erst langsam öffiieten. Es war das 
+Lächeln des Narzifi, der sich aber das spiegelnde 
+Wasser neigt, jenes defe, bezauberte, hingezogene 
+Uchehi, mit dem er nach dem Widerscheine der 
+«genen Schönheit die Arme streckt, — ein ganz 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+wenig vnzemet Lächeln, verzerrt von der Ansächts- 
+lo^fcrit seines THchtens, die holden Lippen seines 
+Schattens zu küssen, kokett, neugierig und leise ge- 
+quiflt, betört und betörend. 
+
+Der, welcher dies Llcheln emp&ngen, enteilte 
+damit wie mit einem verhängnisvollen Geschenk. 
+& war so sehr erschüttert, dafl er du Licht der 
+Terrasse, des Vorgartens zu fliehen gezwungen war 
+und mit hastigen Schritten das Ounkd des rück- 
+wärtigen Parkes sachte. Sonderbar entrüstete und 
+zirtliche Vennahnoi^en entrangen sich ihm: „Dn 
+darfst so nidit lächeln I Höre, man darf so nieman- 
+dem lächeln!" Er warf sich auf eine Bank, er atmete 
+anfier sich den nächtlichen Duft der Pflanzen. Und 
+zurückgelehnt, mit hangenden Annen, überw^dgt 
+und mehr&ch von Schauem überlaofen, flüsterte er 
+die stehende Formel der Sehnsucht, — unmöglich 
+hier, absurd, verworfen, llcherlich und hnlig doch, 
+ehrwürdig auch hier noch: „Ich liebe dicht" 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+FÜNFTES KAPITEL 
+
+Tn der vierten Woch« (eines Aofenthalti auf dem 
+Lido machte Gustav von Aschenbach einige die 
+Außenwelt betreffende nnheimlkhe Wahrnehmun- 
+gen. Erstens schien es ihm, als ob bei iteigender 
+Jahreszeit die Frequenz seines Gasthofes eher ab- ab 
+Zunahme, nnd insbesondere, als ob die deutsche 
+Sprache um ihn her versiege und verstumme, so daA 
+bd Tisch und am Strand endlich nur noch fremde 
+Laute sein Ohr trafen. Eines Tages dann fing er beim 
+Coiffeur, den er jetzt häufig besuchte, im Gesprlche 
+ein Wort auf, das ihn stutug machte. Der Mann 
+hatte einer deutschen Familie erwihnt, die soeben 
+nach kurzem Verweilen abgereist war, und setzte 
+plaudernd und schmeichelnd hinzu: „Sie bleiben, 
+mein Herr; Sie haben keine Furcht vor dem Übel." 
+Aschenbach sah ihn an. „Dem ÜbelF^ wiederholte 
+er. Der Schwätzer verstummte, tat beschiftigt, 
+fiberhörte die Frage. Und ab rie dringlicher 
+gestellt ward, erklärte er, er wisse von nichts 
+
+
+
+i,z«it>,Coogle 
+
+
+
+imd tuchn mit verlegen«i Betedsunkeit abzu- 
+lenken. 
+
+Das war am AOreag. Nachmitrags fiihr Aschen- 
+bach bei WinditUte und schwerem Sonnenbrand nach 
+Venedig; denn ihn trieb die Manie, den polnischen 
+Geschwistern zu folgen, die er mit ihrer Begleiteria 
+den Weg zur Oampferbrücke hanc einschlagen sehen. 
+Et fand den At^oti nicht bri San Marco. Aber beim 
+Tee, an seinem eisernen Rnndiischcben auf der 
+Schattenseite des Platzes ntzend, winerte er plätz- 
+Ucb in der Luft ein eigentümliches Arom« von dem 
+ihm jetzt schien, als habe es schon seit Tagen, ohne 
+ihm ins Bewußtsein zu dringen, seinen Sinn berührt, 
+— einen süfilicb-offizinellen Geruch, der an Elend 
+and Wunden und verdüchi^eRnnlichkeit erinnerte. 
+Er prüfte und erkannte ihn nachdenklich, beendete 
+seinen Imbiß und verliefi den Platz auf der dem 
+Tempel gegenüberliegenden Seite. In der Enge veT> 
+stärkte sich der Geruch. An den Straßenecken ha& 
+teten gedruckte Anschlige, durch welche die B» 
+vSlkerung wegen gewisser Erkrankungen des gastri- 
+schen Systems, die bei dieser Witterung an der Tages- 
+ordnung seien, vor dem Genüsse von Austern und 
+Muscheln, auch vor dem Wasser der Kanäle scadt- 
+vütertich gewarnt wurde. Die beschönigende Natur 
+des Ellasses war deutlich. Volksgruppen standen 
+
+lo] 
+
+Dgilizedt^COOglC 
+
+
+
+schmigsun &af Brücken und Plätzen bcisunmen; 
+und der Fremde stuid spürend und grübelnd anter 
+ihnen. 
+
+EtnenLadeninhaber, derzmschenKorallensduiären 
+tmd fiUschen Amethyst-Geschmnden in der TEir 
+(ones Gewölbei lehnte, bat er um Auskunft aber 
+den fatalen Geruch. Der Mann mafi ihn nüt schweren 
+Augen und ermunterte sich hastig, „^e vorbeu- 
+gende Mafiregel, mein Herr!^ antwortete er mit 
+GeldrdenspteL ,fiiae Verfugung der Poliz«, die 
+man billigen muA. Diese Witterung drückt, derSd- 
+rocco ist der Gesundheit nicht zuttägUch. Kurz, Sie 
+verstehen, — eine viellochc übertriebene Vorsicht ..." 
+Aschenbach dankte ihm und ging weiter. Auch auf 
+dem Dampfer, der ihn zum Lido zurücktrug, spüne 
+er letzt den Geruch des kdmbekämpfenden Mittels. 
+
+Ins Hotel zurückgekehrt, begab er sich sogleich in 
+die Halle zum Zeitungstisch und hielt in den Bläicem 
+Umschau. Er fand tn den fremdsprachigen nichts. 
+Die hömatlichen verzeichneten Gerüchte, führten 
+schwankende Ziffern an, gaben amtliche Ableug- 
+nungen wieder nnd bezweifelten deren Wkhrhaftig- 
+keic So erklärte sich der Abzug des deutschen und 
+ösierrrichischen Elementes. Die Angehörigen der 
+anderen Nationen wufiien offenbar nichts, ahnten 
+nichts, waren noch nicht beunruhigt. „Man soll 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+ichweigen!" dachte Ascfaenbach erregt, indem er die 
+Journale auf den Tisch zurückwarf. „Man soll das 
+verschweigen I" Aber zugleich fSUte snn Herz sich 
+mit Genugtuung über du Abenteuer, in welches die 
+Aufienwelt geraten woDte. Denn der Leidenscbalt 
+ist, wie dem Verbrechen, die gencherte Ordnung und 
+Wohlfahrt des Allt^ mcht gemifl, und jede Locke- 
+rung des bfii^eclichen Gefäges, jede Verwirrung und 
+Heimsuchung der Welt rouA ihr willkommen sein, 
+weil sie ihren Vortnl daba zu finden unbestimmt 
+hoffen kann. So emp&nd Aschenhach eine dunkle 
+Zu^iedenhai über die obrigkatlich bendntdten 
+Vorginge in den schmutzigen GüAchen Venedigs, - 
+dieses schlimme Geheimnis der Stadt, du mit seinem 
+eigensten Geheimnis verschmolz, und an dessen Be- 
+wahrung auch ihm so sehr gelegen war. Denn der 
+Verliebte besoigte nichts, als dafi Tadzio abreisen 
+kannte und ericannte nicht ohne Entsetzen, daft er 
+nicht mehr zu leben wissen werde, wenn das g^ 
+schähe. 
+
+Neuerdings b^nflgte er nch nicht, Nihe und An- 
+blick des Schönen der Tagesregel und dem Glücke 
+zu danken; er verfolgte ihn, er stellte ihm nach. 
+Sonntags zum Beispiel erschienen die Polen niemals 
+am Strande; er erriet, daA sie die Messe in San 
+Marco besuchten, er eilte dorthin, und tos der Glut 
+
+lOJ 
+
+Dgilizedt^COOglC 
+
+
+
+d«t Platzet in die goldene Dimmening des Heilig- 
+malt eintretend, £uid er den Entbehrten, aber ein 
+Betpult gebeugt beim Ganesdientt. Dann stand er 
+im Hintetgrunde, auf zeriüiiftetem Mosaikboden, in- 
+mitten knienden, munnelnden, kreuzschlagenden 
+Volkes, und die gedrangene Pracht des morgenlün- 
+d!schen Tempels lastete Qppig auf sönen Sinnen. 
+Vom wandelte, hantierte und sang der ichwerg»- 
+schmückte Priester, Weihrauch quoll auf, et um- 
+nebelt« die kraftlosen Flümmchen der Altarkerzen, 
+and in den dumpf-sü&en Opferduft schien sich Irise 
+ein anderer zu mischen: der Geruch der erkrankten 
+Stadt. Aber durch Dunst und Gefunkel sah Aschen- 
+bach, wie der Schäne dort vom den Kopf wandt«, 
+ihn sucht« und ihn erblickte. 
+
+Wenn dann die Menge durch di« gefiffneten Por- 
+tale hinausströmte auf den leuchtenden, von Tauben 
+wimmelnden Platz, verbarg sich der Betörte in der 
+Vorhalle, er versteckte sich, er legte sich auf die 
+Lauer. Er (ab die Polen die Kirche verlassen, sah, 
+wi« die Geschwister Sich auf zeremoniöte Art von 
+der Mutter verabschiedeten und wie diese sich heim- 
+k«hr«nd zur Piazzetta wandt«; er stellte fest, daß der 
+Schöne, die klösterlichen Schwestern mid die Gou- 
+vernante den Weg zur Rechten durch das Tor des 
+Uhrturmes und in die Merceria anschlugen, und 
+
+
+
+■•< 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+nachdem er sie einigen Vonpning hatte gewinnen 
+lassen, folgte er ihnen, folgte ihnen rerstohlen auf 
+ihrem Spaziergang durch Venedig. Er mu&te stehen 
+bleiben, wenn sie sich verweilten, mu&re in Gw 
+küchen und Htife flüchten, um die Umkehrenden 
+vorüber zu lassen; er verlor sie, suchte erhitzt und 
+erschöpft nach ihnen fiber Brücken und in schmutzi- 
+gen Sackgassen und erduldete Minuten tfidlichei 
+Pdn, wenn er üe plötzlich in enger Passage, wo 
+kein Ausweichen möglich war, sich entgegenkommen 
+sah. Dennoch kann man nicht sagen, dafi er litt. 
+Haupt und Herz waren ihm trunken, and seine 
+Schritte folgten den Weisungen des Dämons, dem es 
+Lust ist, des Menschen Vernunft und Würde unter 
+seine Füße zu treten. 
+
+Irgendwo nahmen Tadzio und die Seinen dann 
+wohl eine Gondel, und Aschenbach, den, lehrend 
+rie einstiegen, ein Vorbau, ein Brunnen verborgen 
+gehalten hatte, tat, kurz nachdem sie vom Ufer alv 
+gesto&en, ein Gleiches. Er sprach hastig und g^ 
+dampft, wenn er denRuderer, unter dem Versprechen 
+eines reichlichen Trinkgeldes, anwies, jener Gondel, 
+die eben dort um die Eck« biege, tmaufTallig in 
+einigem Abstand zu folgen; und es überrieselte ihn, 
+wenn der Mensch, mit der spitzbübischen Erbötigkeit 
+eines GelegenfacitsmaChers, ümi in demselben Tone 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+versicherte, dbA ei bedient, Aa& ec gewissenhaft be- 
+dient werden solle. 
+
+So glitt und schwankte et denn, in weiche, 
+scbwuze Kissen gelehnt, der tnderen schwuren, 
+geschnabelten Birke nsch, an deren Spui die 
+Passion ihn fesselte. Zuweilen ennchwand sie 
+ihm; dann fShlte er Kummer und Unruhe. Aber 
+sein Ffihrer, als sei et in sokhen Aofhlgen wohl 
+gefibt, wufite ihm stets dnrch schlaue Manöver, durch 
+rasche Querfährten und AbkSizongen das Begehrte 
+wieder vor Augen xu bringen. Die Lult war still 
+und riechend, schwer brannte die Sonne durch den 
+Dunst, der den Himmel schiefeiig filrbte. Wasser 
+schlug glucksend g^en Holz und Stein. Der Ruf 
+des Gondoliers, halb Warnung, halb Gruß, ward 
+fernher aus der Snlle des Labyrinths nach sonder- 
+barer Übereinkunft beantwortet. Ans kleinen, hoch- 
+liegenden Gülten hingen Blütendolden, wöfi und 
+purpurn, nach Mandeln duftend, Aber morsches Ge- 
+mäuer. Arabische Fensterumrahmungen bildeten 
+sich im Traben ab. Die Mannorstufen einer Krche 
+stiegen in die Flut; ein Bettler, darauf kauernd, sein 
+Elend beteuernd, hielt seinen Hut hin und ze^e 
+das Weifi« der Augen, als sei er bUnd; tön Alter- 
+tumshlndler, vor seiner Spelunke, lud den Vorüber- 
+ziehenden mit kriechenden Gebirden zum Aufent- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+halt ein, in der Hofinungi ihn zu betrögen. Das 
+war Venedig, die schmeichlerische und ver- 
+dächtige Schöne, — diese Stadt, halb Märchen, halb 
+Fremden&Ue, in deren billiger Luft die Kunst 
+einst schwelgerisch anfWuchene und welche den 
+Musikern KUnge eingab, die wiegen and tmhle- 
+lisch rinlnllen. Dem Abenteuernden war es, als 
+trftnkfl srin Aoge dergleichen Üppigkät, als wfirde 
+sein Ohr von solchen Melodien umworben; er 
+erinnerte sich auch, dafi die Stadt krank sei und 
+es aas Gewinnsucht verheimHcbe, und er sp&hte 
+ungezügelter aus nach der voranschwebenden GondeL 
+So wuAte und wcdlte denn der Verwirrte nichts 
+anderes mehr, als den Gegenstand, der ihn entzün- 
+dete, ohne Unterlaß zu verfolgen, von ihm zu trlu- 
+men, wenn er abwesend war, und, nach der Weise 
+der liebenden, seinem bloften Schattenbild zlrtliche 
+Wone zu geben. Snsamkeit, Fremde und das Glfick 
+eines späten und riefen Rausches ennurigten und 
+äberredeten ihn, sich auch das Befremdlichste ohne 
+Scheu und Erröten duichgehen zu lassen, wie es denn 
+vorgekommen war, dafi er, spät abends von Venedig 
+heimkehrend, im ersten Stock des Hotels an des 
+Schönen Zimroertür Halt gemacht, sräie Stirn tn 
+völliger Trunkenhüt an die Angel der Tür gelehnt 
+und sich lanfie von dort nicht zu trennen vermocht 
+
+i»9 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+tune, >uf die Gefähr, in einer lo wahnsinn^en Lage 
+ertappt nnd betroffen zu werden. 
+
+Dennoch fehlte es nicht an Augenblicken des Inne> 
+haltens und der halben Besinnung. Auf welchen 
+Wegenl dachte er dann mit Bestürzung. Aufweichen 
+Wegenl Wie jeder Mann, dem natfirliche Verdienste 
+ün arisiokratitchei Interesse Rir seine Abstammung 
+nnflöften, war er gewohnt, b« den Leistungen und 
+Erfolgen sein« Lebens der Vorfahren zu gedenken, 
+rieh ihrer Zustimmung, ihrer Genugtuung, ihrer not- 
+gedrongenen Achtung im Geist zu versichern. Er 
+dachte ihrer auch jetzt nnd hier, verstrickt in ein so 
+anstatthaftes Erlebnis, begriffen in so exotischen 
+Ausschweifungen des Gefühls, gedachte der haliungs* 
+vollen Strenge, der tnscündigen Männlichkeit ihres 
+Wesens und liebelte schwermütig. Was würden sie 
+sagen? Aber fteilich, was hätten ne zu seinem ganzen 
+Leben gesagt, das von dem ihren so bis zur Ent- 
+artung abgeurichen war, in diesem Leben im Banne 
+der Kunst, über das er selbst einst, im Bürgersinne 
+der Vkter, so spöttische Jünglingserkenntnisse hatte 
+verlauten lassen und das dem ihren im Grunde so 
+ähnlich gewesen war! Auch er hatte gedient, auch 
+er war Soldat und Kriegsmann gewesen, gleich 
+manchem von ihnen, — denn die Kunst war ein Krieg, 
+nn au&eibender Kampf, für welchen man heute 
+
+
+
+Dg.l.zedt,,CoOglC 
+
+
+
+nicht kngBtangte. Ein Leben der Selbstfibermndung 
+und des Trotzdem, ein herbes, standhaftes und ent- 
+haltsames Leben, das er zum Sinnbild für einen zar- 
+ten und zeitgemäßen Heroismus gestaltet hatte, — 
+wohl durfte er es m3nnlich, durfte es tapfer nennen, 
+und es wollte ihm scheinen, als sei der Eros, der 
+£eh seiner bemeistert, einem solchen Leben aut 
+iigendeine Weise besonders gemäß und geneigt. 
+Hatte er nicht bei den tapfersten Völkern vorzüglich 
+in Ansehen gestanden, ja, hie& es nicht, daß er durch 
+Tapferkeit in ihren Städten geblüht habe? Zahl- 
+reiche Kriegshelden der Vorzeit hatten willig sein 
+Joch getr^en, denn gar keine Erniedrigung galt, die 
+der Gott verhängte, und Taten, die als Merkmale der 
+Feigheit wären gescholten worden, wenn sie um an- 
+derer Zwecke willen geschehen wären: FußMe, 
+Schwäre, inständige Bitten und sklavisches Wesen, 
+solche gereichten dem Liebenden nicht zur Schande, 
+tondem er erntete vielmehr noch Lob daßr. 
+
+So war des Betörten Denkweise bestimmt, so 
+suchte er sich zu stützen, sdne Wirde zu wahten. 
+Aber zugleich wandte et bestlndig eine spürende 
+und eigensinnige Au^erksamkeit den unsauberen 
+Voiglngen im Lineren Venedigs zu, jenem Abenteuer 
+der Außenwelt, das mit dem seines Herzens dunkel 
+zusammenfloß und seine Leidenschaft mit unbe- 
+
+
+
+iiizedt^Cooglc 
+
+
+
+stimmten, gesetzlosen Hofiimngen nihrte. Versessen 
+diranf, Neue; und Sicheres aber Stand und Fort- 
+scliiitt des Übels zu erühren, darchstäberte er in 
+den Kaffeehäusern der Stadt die h«m&dichen Blitter, 
+da äc vom Lesetiscli der Hotelhalle seit mehreren 
+Tagen verschwunden waren. Behauptungen und 
+Widerrufe wechselten darin. Die Zahl der Erkran- 
+knngs-, der Todesfälle tollte sich auf zwanzig, auf 
+vierzig, ja hundert und mehr belaufen, und gleich 
+darauf wurde jedes Auftreten der Seuche, wenn 
+nicht rundweg in Abrede gestellt, so doch auf völlig 
+vereinzelte, von auAen eingeschleppte FSUe ziurfick- 
+gefShrt. Warnende Bedenken, Proteste g^en das 
+geährliche Spiel der welschen Behörden waren ein- 
+gestreut. Gewifiheit war nicht zu erlangen. 
+
+Dennoch war sich der Einsame eines besonderen 
+Anrechtes bewußt, an dem Geheimnis teilzuhaben, 
+und, gleichwohl ausgeschlossen, fand er eine bizarre 
+Genugtuung darin, die Wssenden mit verfönglichen 
+Fragen anzugehen und sie, die zum Schweigen vei^ 
+bfiodet waren, zur ausdrücklichen Lüge XU ofitigen. 
+Eines Tages beim Frühstück im groften Späsesaal 
+stellte er so den Geschäftsführer zur Rede, jenen 
+kleinen,IeiseauftrerendenMenscben im französischen 
+Gehrock, der sich grüÖend und beaufsicht^end zwi- 
+schen den Speisenden bewegte und aodi an Aschen- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+bachs Tischchen zu einigen Plaudecwotten Hilt 
+machte.' Warum man denn eigentlich, &agte der 
+Gast in lässigerimdbeiläuJiger Weise, wanim in aller 
+Welt man seit einiger Zeit Venedig desinfiziere? — 
+„Es handelt sich," antwortete der Schleicher, „um 
+eine Mafinahme der Polizei, bestimmt, allerlei Unzu- 
+träglichkeiten oder Stömngen der öffentlichen Ge- 
+sundheit, welche durch die brütende und ausnehmend 
+warme Witterung erzeugt werden möchten, pflicht- 
+gemäß und bei Zeiten hintanzuhalten." — „I^e Po- 
+lizei ist zu loben," erwiderte Aschenbach; und nach 
+Austausch einiger meteorol<^ischer Bemerkungen, 
+empfäid sich der Manager. 
+
+Selbigen Tages noch, abends, nach dem Diner, ge- 
+schah es, dafi eine kleine Bande von Strafiensängem 
+aus der Stadt sich im Vorgarten des Gasthofes hören 
+ließ. Sie standen, zwei Männer qnd zwei Weiber, 
+an dem eisernen Mast einer Bogenlampe und wandten 
+ihre weilibeschienenen Gesichter zui grofien Terrasse 
+empor, wo die Kurgesellschaft sich bei Kaffee und 
+kühlenden Getränken die volkstümliche DarHienmg 
+gefallen ließ. Das Hotel-Personal, Liftboys, Kellner 
+und Angestelite des Office, zeigte sich lauschend an 
+den Ütiren zui Halle. Die russische Familie, eifiig 
+und genau im Gennft, hatte nch Rohrstühle in den 
+Ganen hinabstellen lassen, um den Ausübenden nSher 
+
+8 tl) 
+
+
+
+uGoog[c 
+
+
+
+za sein, und safi dort dankbar im Halbkreise. Hinter 
+der Herrschaft, in nubanartigem Kopftuch, stand 
+ihre alte Sklavin. 
+
+Mandoline, Guicarre, Humonika und eine quin- 
+kelierende Geige waten unter den Händen der 
+Bettel virtuosen in Tit^keit. Mit instrumentalen 
+Durchführungen wechselten Gesangsnommem, wie 
+denn das |üngere der Weiber, scharf und quükend 
+von Stimme, sich mit dem tüfl fälsetöerenden Tenor 
+ED einem verlangenden Liebesduett zusammentat. 
+Aber als das eigentliche Talent und Haupt der Ver- 
+einigung zeigte sich unzwädeudg der andere der 
+Münner, Inhaber der Gnitarre und im Charakter eine 
+Art Bariton^Buffb, fast ohne Sdmme dabei, aber mi- 
+misch begabt and von bemettenswerter komischer 
+Eneigie. Ofhnals löste er sich, sein grofies Instru- 
+ment im Arm, von der Gruppe der anderen los und 
+drang agierend gegen die Rampe vor, wo man süne 
+Eulenspiegeleien mit aufmontemdem Lachen be- 
+lohnte. Namentlich die Russen, in ihrem Parterre, 
+zeigten sich entzückt ober soviel südliche Beweg- 
+lichkeit nnd ermutigten ihn durch Beifidl und Zuruft, 
+immer kecker und richerer aus sich herauszugehen. 
+
+Aschenbach stA an der Balustrade und kühlte zn- 
+weilen die Lippen mit dem Gemisch ans Granat- 
+apfelsaft und Soda, das vor ihm rubinrot im Glaie 
+
+
+
+"4 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+iunkelte. Seine Nerven nahmen die ttudelndea 
+Klinge, die vulgaren und schmachtenden Melodien 
+begierig auf, denn die Leidenschaft lühmt den wüh- 
+lerischen Sinn und llfit (ich allen Ernstes mit Reizen 
+ein, welche die Nüchternheit humoristisch aufnehmen 
+oder unwillig ablehnen würde. Seine Züge waren 
+durch die Sprünge des Gauklers zu einem fix («• 
+wordenen und schon schmelzenden Lkcheln verrenkt. 
+Et saS lässig da, wlhrend eine iufterste Aufmerk- 
+samkeit sein Inneres spannte; denn sechs Schritte 
+von ihm lehnte Tadzio am SteingeUndei. 
+
+Et stand doit in dem weifien Gürtelanzug, den erzu- 
+wcilen zur Hauptmahlzeit anlegte, in unvermeidlicher 
+und anerschaffenerGraüe, den link^Umerarmauf der 
+Brüstung, die FfiCc gekreuzt, die rechte Hand in der 
+tragenden Hüfte, und blickte mit einem Ausdruck, 
+der kaum ein I^heln, nur eine entfernte Neugier, 
+an höfliches Entgegennehmen war, zu den Bänkel- 
+sängern hinab. Manchmal richtete er sich gerade 
+auf und zog, indem er die Brust dehnte, mit einer 
+schönen Bewegung beider Arme den weifien Kittel 
+durch den Ledecgürtel hinunter. Manchmal aber 
+auch, und der Alternde gewahrte es mit Triumph, 
+mit einem Taumebi seiner Vernunft und auch mit 
+Entsetzen, wandte er zögernd und behutsam oder 
+auch rasch und plötzlich, als gelte et eine Übcmim- 
+
+Dgilizedt^COOglC 
+
+
+
+pelung, den Kopf übet die linke Schulter gegen den 
+Platz seine* Uebhabers. Er &id nicht dessen Augen, 
+denn eine schmshliche Besoi^is zwang den Ver- 
+irrten seine Blicke angstlich im Zaum zu halten. Im 
+Hintergrund der Terrasse saAen die Frauen, die Tad- 
+zio behüteten, tmd es war dahin gekonunen, daß der 
+VerUebie fCirchten mui^te, aufßUig geworden und 
+beargwöhnt zu sein. Ja, miteinerArtvonErsnrrung 
+hatte er mehrm^, am Strande, in der Hotelhalle 
+und auf Piazza San Marco, zu bemerken gehabt, 
+dafi man Tadzio ans snner Nühe zurückrief, ihn von 
+ihm fernzuhalten bedacht war — and eine furcht- 
+bare Beleidigung daraus entnehmen müssen, unter 
+der sein Stolz sicli in ungekannten Qualen wand und 
+welche von sich zu w^en sein Gewissen ihn hinderte. 
+Unterdessen hatte der Guitanist zn eigener B»- 
+gleitung ün Solo begonnen, dnen mehntrophigen, 
+eben in ganz Italien florierenden Gassenbauer, in 
+dessen Kehrreim seine Gesellschaft jedesmal mit Ge- 
+sang und sämtlichem Musikzeug einfiel und den er 
+auf eine plastisch-dramatische Art zum Vortrag zu 
+bringen wußte. Schmächtig gebaut und auch von 
+Antlitz mager und ausgemergelt, stand er, abgetrennt 
+von den Seinen, den schäbigen Filz im Nacken, so 
+daft ein Wilsi sdnes roten Haars unter der Krempe 
+hervorquoll, in einer Haltung von irecher Bravour 
+
+
+
+ii< 
+
+
+
+i,z«it,,Cooglc 
+
+
+
+auf dem Kiei und schleuderte zum SchoUem der 
+Saiten in eindringlichem Sprechgelang seine Spiße 
+lur Terrasse empor, indes vor produzierender An- 
+strengung die Adern auf seiner Scirne schwollen. Er 
+schien nicht venezianischen Schlages, vielmehr von 
+der Rssse der neapolitanischen Komiker, halb Zu- 
+hälter, halb Komödiant, brutal und verwegen, geGihr- 
+lieh und unterhaltend. Sein Lied, lediglich albcm 
+dem Wonlaute nach, gewann in s^em Munde, durch 
+fein Mienenspiel, seine Kürperbewegungen, söne 
+Art, andeutend zu blinzeln und die Zunge schlüp&ig 
+im Mundwinkel spielen zu lassen etwas Zweideu- 
+tiges, unbestimmt Anstößiges. Dem weichen Kragen 
+des Sporthemdes, das er zu übrigens stadiischer 
+Kleidung trug, entwuchs sein hagerer Hals mit au& 
+&llend groß und nackt wirkendem Adamsapfel. San 
+bleiches, stumpfnasiges Gesicht, aus dessen bartlosen 
+Zügen schwer auf sein Alter zu schließen war, schien 
+pnrchpflügt von Grimassen und Laster, und sonderbar 
+wollten zum Grinsen seines beweglichen Mondes die 
+beiden Furchen passen, die trotzig, herrisch, fast wild 
+zwischen seinen rötlichen Brauen standen. Wasjedoch 
+des Einsamen tiefe Achtsamkeit eigentlich auf ihnlenk- 
+te, war die Bemerkung, daß die verdächtige Figur auch 
+ihre eigene veidüchrige Atmosphüre mit sich zu fuhren 
+schien. Jedesmal nämlich, wenn der Re&ain wieder ein- 
+
+"7 
+
+Dgilizedt^COOglC 
+
+
+
+Mtzte,iuitenMhin der Sänger unter Faxen und gräDen- 
+dem Huidschätteln einen grotesken Rundmusch, der 
+ihn anminelbu unter Atchentncht Platz vorübet- 
+fiibrte, und jedesmal, wenn du geicbah, wehte, von 
+•einen Kleidern, t«nem Kdrper ausgehend, ön 
+Schwaden starken Karbolgeruchs zur Terrasse empor. 
+Nach geendigtem Couplet begann et, Geld einzu- 
+ziehen. Er fing bei den Russen an, die man bereit- 
+trillig spenden sah, und kam dann die Stufen herauf. 
+So frech er äch bei der Produktion benommen, so 
+demdtig zeigte er sich Eiier oben. Katzbudnlnd, 
+unter KraczfSDen schlich er zwischen den Tischen 
+umher, und ön L^eln tSckischer Unterwnrl^keit 
+entblößte seine starken Zähne, während doch immer 
+noch die beiden Furchen drohend zwischen seinen 
+roten Brauen standen. Man musterte das &emd- 
+artige, seinen Unterhalt einsammelnde Wesen nüt 
+Neugier und einigem Abscheu, man warf mit spitzen 
+Fingern Münzen in seinen Klz und hfitete äch, ihn 
+zu berühren. Die Aufhebui^ der physischen Distanz 
+zwischen dem Komödianten und den Anstiind^en 
+erzeugt, und war das Veignügen noch so groS, Stets 
+rine gewisse Verlegenhät. Er fühlte sie und suchte, 
+sich durch Kriecherei zu entschuldigen. Er kam XU 
+Aschenbach imd mit ihm der Geruch, fiber den nie- 
+mand ringsum sich Gedanken zu machen schien. 
+
+
+
+Ml 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+„Höiel" sagte der Einsame gedämpft und hst 
+mechanisch. ,^an desinfiziert Venedig. Wanim?*' 
+— Der Spafimacher antwortete heiser: „Von wegen 
+der Polizei 1 Das ist Vorschrift, mein Herr, bei sol- 
+cher Hitze und bd Scirocco. Der Sdrocco drückt. 
+Er ist der Gesundheit nicht zuträglich ..." Er sprach 
+wie verwundert darüber, dafi man dergleichen fragen 
+könne und demonstrierte mit der flachen Hand, wie 
+sehr der Sdrocco drücke. — „Es ist also kein Übel 
+in Venedig?" fragte Aschenbach sehr l«se und zwi- 
+schen den Zähnen. - Die innskultfsen Züge des 
+Possenreifiers fielen in eine Grimasse komischer Rat- 
+losigkeit. „Hn Übel? Aber was fiir ein Übel? Ist 
+der Scirocco ein Übel? Ist vielleicht unsere PoUzd 
+ein Übel? Sie belieben zu scherzen! Ein Übell 
+Warum mcht garl Eine vorbeugende Mafiregel, ver- 
+stehen Se doch! Eine polizeiliche Anordnung g^ea 
+die Wirkungen der drückenden Wittetung ..." Er 
+gestikulierte. — „Es ist gut," sagte Aschenbach 
+wiederum kurz und leise und lieft rasch ein unge- 
+bührlich bedeutendes Geldstück in den Hut &Uen. 
+Dann wankte er dem Menschen mit den Augen, zu 
+gehen. Er gehorchte grinsend, unter Bücklingen. 
+Aber er hatte noch nicht die Treppe erreicht, als 
+zw« Hotel-Angestellte sich auf ihn warfen und ihn, 
+ihre Gesichtet dicht an dem seinen, in ein geflüstertes 
+
+119 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+KreuzyertUii lubmen. Er zuckte die Achseln, et gab 
+BeteoeroDgen, er schwor, verschwiegen gewesen zo 
+sein; nun sah et. Entlassen, kehrte er in den Garten 
+zurück, und, nach öner koizen Verabiednng mit den 
+Seinen unter der Bogenlampe, trat er zu einem Dank- 
+nnd Abschiedsliede noch einmal vor. 
+
+Es war ein Lied, das jemals gehört za haben der 
+Hnsame nch nicht etinnerte; ein dreister Schlager in 
+unverständlichem Dialekt und aosgestactet mit «nem 
+Lach-Re&ain,in den dieBanderegelmaftig ans vollem 
+Halse einfiel. Es honen hierbei sowohl die Worte 
+wie auch die Beglntong der Instrumente auf, und 
+nichts blieb Gbvig, als ein rhythmisch ii^endwie ge- 
+ordnetes, aber sehr natürlich behandeltes Lachen, das 
+namentlich der Solist mit großem Talent zu tin- 
+tchendster Leben^kät zu gestalten wußte. Er 
+hatte bei wiederiieigeneUtem künstlerischen Abstand 
+zwischen ihm und den Herrschaften seine ganze 
+Frecbhrit wiedei^efonden, und sein Konttlachen, 
+unverschämt zur Terrasse emporgesandt, war Hohn- 
+gelächter. Schon gegen das Ende des artikulierten 
+Teiles der Strophe schien et nut einem unwidersteh- 
+liehen Kitzel zu fcümpfen. Er schluchzte, söne Stimme 
+schwankte, er prefite die Hand gegen den Mund, er 
+verz<^ die Schultern, und im g^ebenen Augenblick 
+brach, heulte und platzte das unbändige Lachen aus 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+ihm hervor, mit solcher Wahrheit, d>fi es ansteckend 
+wirkte und sich den Zuhätem mitteilte, dali knch 
+ftuf der Tetrasse eine gegenstandlose und nur von 
+sich selbst lebende Heiterkeit um sich griiF. Dies 
+aber eben schien des Sängeis Ansgelassenhnt zn ver- 
+doppeln. Ei beugte die Kmee, er schlug die Schenkel, 
+er hielt sich die S«ten, er wollte sich aasschütten, 
+er lachte nicht mehr, er schrie; erwies mit dem 
+Finger hinauf, als gäbe es nichts Komischeres als die 
+lachende Gesellschaft dort oben, und endlich lachte 
+denn alles im Garten und auf der Veranda, bis zu den 
+Kellnern, Liftboys und Hausdienen) in den Türen. 
+Atchenbacb ruhte nicht mehr im Stuhl, er saA auf- 
+gerichtet wie zum Versuche der Abwehr oder Flucht. 
+Aber das Gelichter, der heraufwehende Hospital- 
+geruch und die Nähe des Schönen verwoben sich 
+ihm zu einem Traumbann, der unzerreifibar und 
+unentrinnbar sein Haupt, seinen ffinn umfangen 
+hielt. In der allgemeinen Bewegung und Zerstreuung 
+wagte er es, zn Tkduo hinübenublicken, und indem 
+er es tat, durfte er bemerken, dafl der Schöne, in E^ 
+widerung seines Blickes, eben&Us enm blieb, ganz 
+so, tb richte er Verhalten und Miene nach der des 
+anderen und als vermöge die allgemüne Stimmung 
+nichts übet ihn, da jener sich ihr entzt^. Diese 
+kindliche und beüehungsvolle Folgsamkeit hatte 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+etwas so Entwaffnendes, Überwildgendes, d&ß der 
+Grauhaarige sich mit Mühe enthielt, sein Gesicht in 
+den Hunden zu verbergen. Auch hatte es ihm ge- 
+schienen, als bedeute Taduos gelegentliches Sichaof- 
+richten und Aufatmen ein Seufzen, eine Beklemmung 
+der Brust. „Ei ist kränklich, er wild wahrscheinlich 
+nicht alt werden," dachte er wiederum mit jener 
+Sachlichkeit, zu welcher Rausch und Sehnsucht bis- 
+weilen nch sonderbar emanzipieren; und rnne 
+Ffirsoige zugleich mit einer ausschweifenden Genug- 
+tuung erfüllte sein Herz. 
+
+Die Venezianer unterdessen hatten geendigt und 
+z<^en A. Beifall begleitete ne, und ihr Anfuhrer 
+versäumte nicht, noch seinen Abgang mit Späfien 
+auszuschmücken. Seine KratzfuJie, seine Kußhände 
+wurden belacht, und er verdoppelte sie daher. Als 
+die Seinen schon draußen waren, tat er noch, ab 
+renne er rfickv^ins empfindlich gegen einen Lampen- 
+mast und schlich scheinbar krumm vor Schmerzen 
+zur Pforte. Don endlich warf er auf önmal die 
+Maske des komischen Pechvogels ab, richtete sich, ja 
+schnellte elastisch auf, bleckte den Gästen auf der 
+Terrasse frech die Zunge heraus und schlüpfte ins 
+DunkeL Die Bad^esellscbaft verlor sich; Tadzio 
+stand lingft nicht mehr an der Balustrade. Aber der 
+Einsame saß noch lange, zum Befremden der Kellner, 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+bei dem Rest seine* Gruiatapfel-Getninks an seinem 
+'nschchen. Die Nacht schritt vor, die Zeit xerfieL 
+Im Hause seiner Eltern, vor vielen Jahren, hatte es 
+eine Sanduhr gegeben, — er sah das gebrechliche 
+und bedeutende Geriitchen auf «mnal wieder, als 
+stünde es vor ihm. Lautlos und fein rann der rost- 
+rot gefilrbte Sand durch die gliseme Enge, und da 
+er in der oberen Höhlm^ zur Nnge ging, hatte sich 
+dort m kleiner, reißender Strudel gebildet. 
+
+Schon am folgenden Tage, nachmittags, tat der 
+Starrrinnige einen neuen Schritt zur Versuchung der 
+Außenwelt and diesmal mit allem mfiglichen Erfolge. 
+Er trat nimlich vom Marknsplatz in das dort gelegene 
+englische Reisebureau, und nachdem er an der Kasse 
+einiges Geld gewechselt, richtete er mit der Miene 
+des mißtrauischen Fremden an den ihn bedienenden 
+aeric seine fatale Frage. Es war ön wol% geklei- 
+deter Brite, noch jung, mit in der Mitte getnltem 
+Haar, nahe beieinander liegenden Augen and von 
+jener gesetzten Loyatiat des Wesens, die im spitz- 
+bübisch behenden Süden so fremd, so merkwürdig 
+anmutet. Er fing an; „K«n Grund zur Besorgnis, 
+Sir. Hne Mafiregel ohne ernste Bedeutung. Solche 
+Anordnungen werden häufig getroiFen, um gesund- 
+hätsschädlichen Wirkungen der Hitze und des Sci- 
+rocco vorzubeugen . . ." Aber seine blauen Augen 
+
+'»! 
+
+Dgilizedt^COOglC 
+
+
+
+ftuüchlagend, begegnete er dem Blicke des Fremden, 
+einem mäden und etwas tnut^en Blick, der mit 
+■ächtet Verachtung auf sdne Lippen gerichtet war. 
+Da errötete der Englünder. „Dies ist,** fuhr er halb- 
+laut und in rimgerBew^;ung fort„,dieamtliche£rkll- 
+rung, auf der zu beftehen man tiier für gut befindet. 
+Ich werde Ihnen sagen, dafi nodi etwas anderes 
+dahinter steckt." Und dann s^e et in sdner red- 
+lichen und bequemen Sprache die Wahrheit 
+
+Sät mehreren Jahren schon hatte die indische 
+Cholera eine verstärkte Neigung zur Ausbreitung 
+und U^nderung an den Tag gelegt. Erzeugt am 
+den warmen Moilsten des Gai^es-Deltat, aufgestiegen 
+mit dem mephidschen Odem jener üppig-untaug- 
+lichen, von Menschen genüedenen Urwel^• tuid 
+Inselwildnis, in deren Bambusdickichten der Tiger 
+kauert, hatte die Seuche in ganz Ifindustan andauernd 
+und ungewöhnlich heftig gewütet, hane Östlich nach 
+China, westlich nach A%hanisian und Persien fiber- 
+g^riffcn und, den Hauptstrafien des Karawanen- 
+verkehrs folgend, ihre Schrecken bis Astrachan, ja 
+selbst bis Moskau getr^en. Aber wihrend Europa 
+zitterte, das Gespenst mächte von dort aus und zu 
+Lande seinen Einzug halten, war es, von syrischen 
+Kauflährem fibers Meer verschleppt, fast gleichzädg 
+in mehreren Mittelmeerfaäfen aufgetaucht, hatte in 
+
+
+
+"4 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Toulon und Malaga sein Haupt erhoben, in Palermo 
+ond Neapel mehrfach leine Maske gezügtund sdüen 
+aus ganz Kalabrien und Apulten nicht mehr weichen 
+zu wollen. Der Norden der Halbinsel war verschont 
+geblieben. Jedoch Mitte Mai dieses Jahres fand man 
+zu Venedig an ein und demselben Tage die furcht- 
+baren Vibrionen in den au^emetgelien, schwärz- 
+lichen Leichnamen eines Schiffeibiechies und einer 
+Grünwarenhändlerin. Die Fälle wurden verhdmlichb 
+Aber nach einer Woche waren es deren zehn, waren 
+es zwanzig, dreißig und zwar in verschiedenen 
+Quartieren. Sm Mann aus der österreichischen Pnv 
+vinz, der sich zu seinem Vei^nügen einige Tage in 
+Venedig aufgehalten, starb, in sein Hnmatstüdichen 
+zurückgekehrt, unter unzweideutigen Anzeichen, 
+und so kam es, dafi die ersten Gerüchte von der 
+Heimsuchung der Lagunenstadt in deutsche Tage^ 
+bli'tter gelangten. Venedigs Obrigkeit lieft antworten, 
+daß die Gesundheitsverhältnisse der Stadt nie besser 
+gewesen seien und traf die notwendigsten MaA- 
+regeln zur Bekämpfung. Aber wahrscheinlich waren 
+Nahrungsmittel infiziert worden, Gemüse, Fleisch 
+oder Milch, denn geleugnet und vertuscht trab das 
+Sterben in der Enge der Gäßchen um sich, und die 
+vorzeitig eingefallene Sommerhitze, welche das 
+Wasser der Kanäle laulich erwürmte, war der Ver- 
+
+'»f 
+
+Dgilizedt^COOglC 
+
+
+
+breining besonders günstig. Ji, es schien, ah ob die 
+Seuche eine Neubelebung ihrer Kräfte erfahren, als 
+tAt die Tenuitit und Fnichibirkeit ihrer Err^er sich 
+verdoppelt hätte. Fälle der Genesung waren selteni 
+achtzig vom Hundert der Befallenen starben und 
+zwar auf entsetzliche Weise, denn das Übel trat mit 
+iuAerster Wildheit auf und zeigte häufig jene ge- 
+führlichste Form, welche „die trockene" benannt ist. 
+Hierbei vermochte der Körper das aus den Blut- 
+geßfien massenhaft abgesonderte Waner nicht ein- 
+mal aoszutreiben. Binnen wenigen Stunden ver- 
+dorrte der Kranke und erstickte am pechardg zihe 
+gewordenen Blut unter Krimpfen und hrisecen 
+Klagen. Wohl ihm, wenn, was zuweilen geschah, der 
+Ausbruch nach lüchiem Übelbefinden in Gestaltemet 
+tiefen Ohnmacht erfolgte, aus der er nicht mehr 
+oder kaum noch erwachte. Anfang Juni füllten sieb 
+in dei' Stille die Isolierbaracken des Ospedale civico, 
+in den bnden Waisenlüiusem begann es «n Platz zu 
+mangeln, und ein schauerlich reger Verkehr herrschte 
+zwischen dem Quai der neuen Fundamente und San 
+Michele, der Friedhofsinsel. Aber die Furcht vor all- 
+gemeiner Sciddigmig, die Rnckncbt auf die kärzlicb 
+eröf^ete Gemildeansstellnng in den flfFentlichen 
+Gürten, auf die gewaltigen Ansfiille, von denen im 
+Falle der Panik und des Verrufes die Hotels, die Ge- 
+
+
+
+ia6 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+■chifce, dis ganze vielßilriga Fremdengewerbe be- 
+droht waren, zeigte sich mächtiger in der Sndt als 
+Wahrheitsliebe und Achtung vor internationalen Ab- 
+machungen; sie vermochte die Behörde, ihre Politik 
+des Verschweigen! tmd des Abteugneni hartnäckig 
+aufrecht zu erhalten. Der oberste Mcdizinalbeamte 
+Venedigs, an verdienter Mann, war entrüstet von 
+seinem Posten znräckgetreten und unter der Hand 
+durch eine gefü^gere PersAnlichknt ersetze 
+worden. Das Volk wußte das; und die Korruption 
+der Oberen zusammen mit der herrschenden Un- 
+sicherheit, dem AnsnahmezQstand, in welchen det 
+umgehende Tod die Stadt versetzte, brachte eine ge- 
+wisse Entsittlichung det unteren Schichten bervor, 
+eine Ermuagung lichtscheuer und antisoüaler Triebe, 
+die sich in UnmäSigkeit, Schamlongkdtund wachsen- 
+der Kriminalität bekundete. Gegen die R^el be< 
+merkte man abends viele Betrunkene; bösartiges 
+Genndel machte, so hieß es, nachts die StraOen un- 
+sicher; rSnberische Anßdle und selbst Mordtaten 
+wiederholten sich, denn schon zweimal hatte sich 
+erwiesen, dafi angeblich der Seuche zum OpUn ge- 
+^ene Personen vielmehr von ihren eigenen Anver- 
+wandten mit Gift aus dem Leben geräumt worden 
+waren; und die gewerbsmäßige Liederlichkät nahm 
+aufdringliche und ausschwöfende Formen an, me sie 
+
+i>7 
+
+Dgilizedt^COOglC 
+
+
+
+■onst hier nicht belunni und nur im Säden des Lan- 
+des und im Orient zu H&use gewesen wuen. 
+
+Von diesen Dingen sprach der Engländer das En^ 
+scheidende ans. „Sie tSten gut," schloß er, ,^ebet 
+heute als morgen zu r«sen. Länger als ein paar l^ge 
+noch kann die Verhüngnng der Sperre kaum auf nch 
+warten lassen. — «JDanke Ihnen," sagte Aschenbacb 
+und verließ das Amt. 
+
+Der Platz lag in sonnenloser Schwüle. Unwissende 
+Fremde saßen vor den Cafes oder standen, ganz von 
+Tauben bedeckt, vor der Kirche und sahen zu, wie 
+die Tiere, wimmelnd, flügelschlagend, einander ver- 
+drängend, nach den in hohlen Hunden dargebotenen 
+Müskömem pickten. In fiebriger Erregung, trium- 
+phierend im Besitze der Wahrheit, einen Gesdimack 
+von Ekel dab« auf der Zunge und ein phantastisches 
+Grauen im Hetzen, schritt der Einsame die Fliesen 
+des Prachthofes auf und nieder. Er erwog eine rei- 
+nigende und anstitndige Handlung, Er konnte heute 
+Abend nach dem Diner der periengeschmückten 
+Frau üch nifhem und zu ihr sprechen, was er 
+wörtlich entwarf: „Gestatten Sie dem Fremden, 
+Madame, Ihnen mit dnem Rat, einer Warnung zu 
+dienen, die der Eigennutz Ihnen vorenthält. Rosen 
+Sie ab, sogleidi, mit Tadzio und Ihren TÜchcem! 
+Venedig ist verseucht." Er konnte dann dem Werkr 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+wag ein« hähntschen Gottheit zum Abschied die 
+Hand zafs Haupt legen, sich wegwenden und diesem 
+Sumpfe entfliehen. Aber er ßihlte zugleich, daß er 
+unendlich weit entfernt war, einen solchen Schritt 
+im Ernste zu wollen. Er würde ihn zurückfuhren, 
+würde ihn sich selber wiedergeben; aber wer außer 
+sich isi, verabscheut nichts mehr, als wieder in sich zu 
+gehen. Er erinnerte sich eines weißen Bauwerks, 
+geschmückt mit abendlich gleißenden Inschriften, in 
+deren durchscheinender Mystik das Auge seines 
+Geistes sich verloren hatte; jener seltsamen Wan- 
+dereigestatt sodann, die dem Alternden schweifende 
+Tiinglingssehnsuchi ins Weite und Fremde erweckt 
+hatte; und der Gedanke an Heimkehr, an Besonnen- 
+heit, Nüchternheit, Mühsal und Meisterschaft widerte 
+ihn in solchem Mafte, daß snn Gesicht sich zum 
+Ausdruck physischer Übelkeit verzerrte. „Man soll 
+schweigen!" flüsterte er heftig. Und: „Ich werde 
+schweigenl" Das Bewußtsein seiner Mitwisserschaft, 
+seiner Mitschuld berauschte ihn, wie geringe Mengen 
+Weines ein müdes Hirn berauschen. Das Bild der 
+heimgesuchten und verwahrlosten Stadt, wüst seinem 
+Geiste vorschwebend, entzündete in ihm Hoffnungen, 
+un&ßbar, die Vernunft überschreitend und von un> 
+geheuerlicher Süßigkeit. Was war ihm das zarte Glück, 
+von dem er vorhin einen Augenblick getrlumt, ver- 
+
+9 "»9 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+glichen mit diesen Erwartungen? Was galt ihm noch 
+Knnst und Tugend gegenüber den Vorteilen des 
+Chftot? Er scbwi^ und blieb. 
+
+In dieser Nacht hane er einen furchtbaren Traum, -~ 
+wenn nun als Traum ein kfirpechaft-getstiges Er- 
+lebnis bezeichnen kann, das ihm zwar im tiefsten 
+Schlaf und in rtiUigster Unabhingigkeii und sinnlicher 
+Gegenwart widerfuhr, aber ohne daß er sich außer 
+den Geschehnissen im Räume wandelnd und anwesend 
+salii tondem ihr Schauplatz war vielmehr seine Seele 
+«eUnt, und sie brachen von anfien herein, seinen 
+U^derstand — einen tiefen und geistigen Wder- 
+stmd — gewalttitig niederwerfend, gingen hindurch 
+und ließen seine Edstenz, liefien die Kultur seines 
+Lebens verheert, vernichtet zurück. 
+
+Angst war der Anfang, Angst und Lust und eine 
+entsetzte Neugier nach dem, was kommen wallte. 
+Nacht herrichte und snne Sinne lauschten; denn 
+von weither nitherte nch Getümmel, Getöse, ein Ge- 
+misch von Lärm: Rasteln, Schmettern und dumpf« 
+Donnern, schrilles Jauchzen dazu und ein bestimmtes 
+Geheul im gezogenen n-Laut, — alles durchsetzt und 
+grauenhaft sfifi übertönt von tief girrendem, ruchlos 
+beharrlichem Flötenspiel, welches auf schamlos zu- 
+dringende Art die Eingeweide bezauberte. Aber er 
+wußte ein Wort, dunkel, doch das benennend, was 
+
+
+
+i|o 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+kam: „Der fremde Gottt" Qualmige GInc glomm 
+auf: dft erkannte ei Ber^ land, iümlich dem um sein 
+Sommerhaus. Und in zeniifenem UcKt, von be- 
+waldeter Hähe, zwischen Stämmen und moosigen 
+Felstrümmem wälzte et nch und stürzte wirbelnd 
+herab: Menschen, Tiere, rin Schwann, eine tobende 
+Rotte, — und überschwemmte die Halde mit Leibern, 
+Flammen, Tomult und taumelndem Rundranz. 
+Weiber, strauchelnd übet zu lange Fellgeo^inder, die 
+ihnen vom Gürtel hingen, schünelien Schellen- 
+trommeln über ihren stöhnend zurückgeworfenen 
+Hiuptem, schwangen stiebende Fadcelbrinde und 
+nackte Dolche, hielten züngelnde Schlangen in der 
+Mine des Lnbes er&fit oder trugen schrdend ihre 
+Brüste in beiden Hinden. Männer, Homer über den 
+Stirnen, mit Pelzwerk geschürzt und zottig von 
+Harn, beugten die Nacken and hoben Arme und 
+Schenkel, ließen eherne Becken erdröhnen und 
+ichIngen wütend auf Pauken, während glatte Knaben 
+mit umlaubten Stäben Böcke stachelten, an deren 
+Homer sie nch klammerten und von deren Sprängen 
+sie sich jauchzend schleifen ließen. Und die Be- 
+geisterten heulten den Ruf aus weichen Mitlauten 
+und gezogenem u-Ruf am Ende, süA und wild zu- 
+gleich, wie kein jemals eriiörter; — tuet klang er 
+auf, in die Lüfte geröhrt, wie von Hirschen, und 
+
+
+
+i.z.iit,,Cooglc 
+
+
+
+doR gab mui ihn wieder, vielstimmig, in wüstem 
+Triumph, hetzte einander damit zum Tanz und 
+Schleudern der Glieder und ließ ihn niemals ver- 
+stummen. Aber alles durchdrang und beherrschte 
+der tiefe, lockende Flätenton. Lockte er nicht auch 
+ihn, den widerstrebend Erlebenden, schamlos beharr- 
+lich zum Fest und Unmaß des äußersten Opfers? 
+Grofi war sein Abscheu, grofi seine Furcht, redlich 
+sein Wille, bis zuletzt das Seine zu schätzen g^n den 
+Fremden, den Frind des gefiDten und würdigen 
+Geistes. Aber der Ijirm, das Geheul, vervielfacht 
+von hallender Bei^wand, wuchs, nahm überband, 
+schwoll zu hinreißendem Wahnsinn. Dünste be- 
+drängten den Sinn, der beizende Ruch der Böcke, 
+Witterung keuchender Leiber und ein Hauch wie 
+von faulenden Wassern, dazu ein anderer noch, ver- 
+traut: nach Wunden und umlaufender Krankheit. 
+ACt den Paokenschlägen dröhnte sein Herz, sein Ge- 
+hirn kreiste, Wit ergriff ihn, Verblendung, betlu> 
+bende Wollust, und seine Seele begehrte, sich anzu- 
+schließen dem Reigen des Gottes. Das obszöne 
+Symbol, rieüg, aus Holz, ward enthüllt und erhöht: 
+da heulten sie zügelloser die Losung. Schaum vor 
+den Lippen tobten sie, reizten einander mit geilen 
+Gebärden und buhlenden Hunden, lachend und 
+ichzend, stießen die Stachelstäbe räiandet int Fletsch 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+and leckten du Blut von dtn Gtiedem. Aber mit 
+ihnen, in ihnen wai der Triumende nun und dem 
+fremden Gone gehörig. Ja, sie wuen er idbft, Hs 
+sie leiAend und moidend sich auf die Tiere hin wirfen 
+und dampfende Fetzen verschlangen, als auf zer- 
+wühltem Moosgrund grenzenlose Vermischung bo- 
+gann, dem Gotte zum Opfer. Und seine Seele 
+kostete Unzucht tmd Raserei des Unterganges. 
+
+Aus diesem Traum erwachte der Heimgesuchte 
+entnervt, zeniictet und krafdos dem Dämon ver&Uen. 
+Et scheute nicht mehr die beobachtenden Blicke der 
+Menschen; ob er sich ihrem Verdacht aussetze, küm- 
+mene ihn nicht. Auch flohen )ie ja, reisten ab; 
+zahlreiche Sirandhütien standen leer, die Besetzung 
+des Speisesaak wies größere Lücken auf, und in der 
+Stadt sah man selten noch einen Fremden. Die 
+WJirheit schien durchgesickert, die Panik, trotz 
+zähen Zusammenhaltens der Interessenten, nicht 
+länger hintanzuhalien. Aber die Frau im Perlen- 
+schmuck blieb mit den Ihren, sei es, weil die Gerüchte 
+nicht zn ihr drangen oder weil sie zu stolz itnd 
+fiirchilos war, um ihnen zu weichen: Tadzio blieb; 
+und jenem, in seiner Umfuigenheic, war es zuweilen, 
+als könne Flucht und Tod alles stfirende Leben in 
+der Runde entfernen und er allein mit dem Schönen 
+auf dieser Insel zurückbleiben, — ja, wenn vor- 
+
+■]} 
+
+L)ii.z.iit>,Goog[c 
+
+
+
+mittags am Meere sein Blick schwer, unveruitwort- 
+lieh, onverwuidt auf dem Begehrten mbte, wenn er 
+bri sinkendem Tage durch Gassen, in denen veiheinv- 
+Uchter Weise das ekle Sterben umging, ihm unwänüg 
+nachfotgte, so schien das Ungeheuerliche ihm aos- 
+sichtireich and lünfVIlig das Stcengeiecz. 
+
+Wie irgendein Liebender wünschte er, zu gefallen 
+und empfand bittere Angst, dafi es nicht möglich 
+sein mächte. Er fügte seinem Anzüge jugendlich 
+aufheiternde Einzelhnten hinzu, er legte Edelsteine 
+an und benutzte Parfüms, er brauchte mehrmals am 
+Tage viel Zeit für snne Toilette und kam geschmückt, 
+erregt und gespannt zu Tische. Angesichts der 
+süßen Jugend, die es ihm angetan, ekelte ihn sein 
+alternder Leib; der Anblick snnes grauen Haares, 
+s«ner scharfen Gesichtszüge stürzte ihn in Scham 
+und Hoffnungslosigkeit. Es trieb ihn, sich körperlich 
+zu erqmcken und wiederiicrzusteUen; er besuchte 
+häufig den Coiffeur des Hauses. 
+
+Im Frisiermantel, unter den pflegenden Hinden 
+des SchtiAtzers im Stuhle zurückgelehnt, betrachtete 
+er geqi^ten Blickes sein Spiegelbild. 
+
+„Grau," sagte er mit retzerrtem Munde. 
+
+„IBn wenig," antwortete der Mensch. „Nümlich 
+durch Schuld einer kltinen Vemachtissigung, riner 
+Indifferenz in üu&erlichen Dingen, die bei bedeu- 
+
+
+
+'14 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+tenden Personen begieiflich ist, die man aber doch 
+nicht unbedingt loben kann and zwar um lo weniger, 
+ab gerade solchen Personen Vonirteile in Sachen 
+des NatQiIichen oder KUnsrlichen wenig angemessen 
+nnd. Wfitde sich die Sittenstrenge gemsser Leute 
+gegenflber der kosmetischen Kunst logischer Weise 
+auch auf ihre Zlhne erstrecken, so wärden sie nicht 
+wenig Anstofi erregen. Schliefllich sind wir so alt, 
+me unser Geist, unser Herz sich fShlen, und graues 
+Haar bedeutet unter Umständen öne wirklichere 
+Unwahrheit, ab die verschmähte Korrektur bedeuten 
+würde. In Ihrem Falle, mein Herr, hat man ein 
+Recht auf söne natürliche Haarfarbe. Sie erlauben 
+mir, Ihnen die Ihrige einfitch zurückzugeben P" 
+
+„Wie das?" fngte Aschenbacb- 
+
+Da wusch der Beredte das Haar des Gastes mit 
+zweierlä Wasser, önem klaren und einem dunklen, 
+und es war schwarz wie in jungen Jahren. Er bog es 
+hierauf mit der Brennschere in weiche Lt^en, nat 
+rückwSrts und musterte das behandelte Haupt. 
+
+JEs wäre ntm nur noch," s^ie er, „die Gesichts- 
+haui ein wenig aufzufrischen." 
+
+Und wie jemand, der nicht enden, sich nicht ge- 
+ni^rtun kann, ging er mit immer neu belebter Ge- 
+schäftigkrit von einer Hanriemng zur anderen über. 
+Aschenbach, bequem ruhend, der Abwehr nicht 
+
+'15 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+fiifug, hoffnungsvoll nregi rieloiehr von don, w» 
+geschah, sah im Glase seine Brauen sich entschiedener 
+und ebenmäfliger wölben, den Schnitt s«ner Augen 
+ach verliüigern, iluen Glanz durch «ne lachte 
+Untennalung des Lides sich heben, sah wnter unten, 
+wo die Haut brfuntich-ledera gewesen, w«ch auf- 
+getragen, ein zartes Karmin erwachen, srine Lippen, 
+blutarm soeben noch, himbeeifiuben schwellen, die 
+Furchen der Wangen, des Mundes, die Runzeln der 
+Augen unter Cr£me und Jugendhauch verschwinden, 
+— erblickte mit Herzklopfen einen blühenden Jüng- 
+ling. Der Kosmetiker gab nch endlich xu&ieden, 
+indem er nach Art solcher Leute dem, den er bedient 
+haae, mit kriechender Höflichkeit dankte. „Bne 
+unbedeutende Nachhilfe," sagte er, indem et eine 
+letzte Hand an Aschenbachs Aufieres legte. „Nun 
+kann der Herr neh unbedenklich verlieben." Der 
+Berückte ging, traumglücklich, verwirrt und furcht- 
+sam. Seine Kravatte war rot, sein brntschattender 
+Strohhut mit «nem mehrfarbigen Bande umwunden. 
+Lauwarmer Sturmwind war aufgekommen; es 
+regnete selten und spütUch, aber die Luft war feucht, 
+dick und von Füulnisdänsten erfüllt. Flattern, 
+Klatschen und Sausen umgab das Gehör, und dem 
+unter der Schminke Fiebernden schienen Wndgeister 
+üblen Geschlechts im Räume ihr Wesen zu treiben, 
+
+i]6 
+
+Dgilizedt^COOglC 
+
+
+
+unhold« Gevögel des Meen, das des Veninrilten 
+Mahl zerwühlt, zernagt und mit Unrat schändet. 
+Denn die Schwüle wehrte der Eßlust, und die Vor- 
+Stellung drängte sich auf, dafi die Speben mit An- 
+steckungsstoffen vergiftet seien. 
+
+Auf den Spuren des Schönen hatte Aschenbach 
+lieh einet Nichnu'ccagi in das innere Gewirr der kran- 
+ken Stadt vertieft. Mit versagendem Ortssinn, da die 
+Gäßchen, Gewässer, Brücken und Platzchen de« La- 
+byrinthes zu sehr einander gleichen, auch der Him- 
+mel^egenden nicht mehr sicher, war er durchaus 
+darauf bedacht, das sehnlich verfolgte Bild nicht aus 
+den Augen zu verlieren, und, zu schmählicher Be- 
+hutsamkeit genötigt, an Mauern gedrückt, hinter 
+dem Rücken Vorangehender Schutz suchend, ward 
+et sich lange nicht der Müdigkeit, der Erschöpfung 
+bewuAt, welche Gefühl und immen^hrende Span- 
+nung seinem Körper, seinem Geiste zugefügt hatten. 
+Tadzio ging hinter den Seinen, er ließ der Pflegerin 
+und den nolinenähnlichen Schwestern in der Enge 
+gewöhnlich den Vortritt, und einzeln schlendernd 
+wandte er zuweilen das Haupt, um dch über die 
+Schultet hinweg der Gefolgschaft seines Liebhabers 
+mit einem Blick seiner «gentümlich dimmergrauen 
+Augen zu versichern. Er sah ihn und er verriet 
+ihn nicht. Berauscht von dieser Erkenntnis, von 
+
+U7 
+
+Dgilizedt^COOglC 
+
+
+
+diesen Augen vorwim gelockt, am Natrenieile 
+geleicei von derPtnion, stahl der Verliebte nch 
+foner unziemUcben Hoffnung nach — itnd sah 
+sich schlie&Uch dennoch um ihten AnUtck be- 
+CK^n. Die Polen faanen eine kurz gewölbte 
+Brücke überschritten, die Höhe des Bogens verbai^ 
+sie dem Nachfolgenden, und srinersätslünau gelangt, 
+«ltdeckte ei sie nicht mehr. Er forschte nach ihnen 
+in drei Richtungen, geradeaus and nach beiden 
+Säten den schmalen und schmutzigen Qiud entlang, 
+vergebens. Entnervong, Hinfklligkeit nötigten ihn 
+endlich, vom Suchen abzulassen. 
+
+Sein Kopf brannte, sein Kärper war mit klebrigem 
+Schweift bedeckt, snn Genick zitterte, ein nicht 
+mtüu erträglichet Dunt peinigte ihn, er sah nch 
+ruch iigendwelchet, nach augenblicklicher Labung tun. 
+Vor einem kleinen Gemfiseladen kaufte er dnige 
+Früchte, Erdbeeren, Überreife und weiche Ware, und 
+aß im Gehen davon. Ein kleiner Platz, veriassen, 
+verwunschen anmutend, öffnete sich vor ihm, er 
+Brannte ihn, es war hier gewesen, wo er vor 
+Wochen den vereitelten Flachtplan gefafic hatte. 
+Auf den Stufen der Ssteme, iimiitten des Ortes, 
+liefi er sich medernnken und lehnte den Kopf an das 
+steinerne Rund. Es war still. Gras wuchs zwischen 
+dem Pflaster, AbßÜle lagen umher. Unter den ver- 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+wittecien, onregelmäßig hohen Hiasem in der Runde 
+encMen eines palutartig, mit Spiczbogenfenstem, 
+hinter denen die Leere wohnte, und kleinen Ltfwen- 
+balkonen. Im Erdgeschoß eines anderen be&nd sich 
+eine Apotheke. Warme Windstölle brachten to- 
+ff eilen Karbol gemch. 
+
+Er saß dort, dei Meister, der würdig gewordene 
+Künstler, der Autor des „Elenden", der in so vor- 
+büdlicb reiner Form dem Zigeonertum und der 
+trüben liefe abgesagt, dem Abgrunde die Sym- 
+pathie gekündigt und das Verworfene verworfen 
+hatte, dei Hochgestiegene, der, Überwinder snnes 
+Wissens und aller Ironie entwachsen, in die Verbind- 
+lichkeiten des Massenzntrauens sich gewöhnt hatte, 
+er, dessen Ruhm amtlich, dessen Name geadelt war 
+und an dessen Stil die Knaben sich zu bilden ange- 
+halten wurden, — er saß dort, seine Lider waren 
+geschlossen, nur zuweilen glitt, rasch sich wieder 
+vetbergend, ein spfittischeT und betretener Blick 
+seitlich darunter hervor, und seine schlaffen Lippen, 
+kosmetisch aufgehöht, bildeten einzelne Worte aus 
+von dem, was sein halb schlummerndes Hirn an 
+seltsamer TVanmlogik hervorbraciite. 
+
+,J>enn die Schtinheit, Phaidros, meilce das wohl, 
+mir die Schönheit ist göttlich und richtbar zugleich, 
+und so ist rie denn also des Sinnlichen Weg, ist, 
+
+Dgilizedt^COOglC 
+
+
+
+kiemer Phaidnn, der Weg des Känitlers zum Geim. 
+
+Glaubst du nun aber, mein Lieber, dafl derjenige 
+jemalf Weisheit and wahre Mumeswiirde gewinnen 
+könne, forden der Weg zum Geistigen durch die 
+Sinne fiCihrt? Oder glaubst du rielmelir (ich steUe 
+dir die Entscheidung frei), daß dies ein geföhrlich- 
+Ueblicher Weg s«, wahrhaft an Irr- und Sündenweg, 
+der mit Notwendigkeit in die lere lätet? Denn du 
+mußt wissen, dafi wir Dichter den Weg der Schönheit 
+nicht gehen können, ohne daß Eros sich zugesellt 
+und sich zum Führer aufwirft; jz mögen wir auch 
+Helden auf unsere Art und züchtige Kriegsleute 
+s«n, so nnd wir wie Wnbet, denn Leidenschaft 
+ist unsere Erhebung, und unsere Sehnsucht muA 
+Liebe bleiben, — das ist unsere Lust und unsere 
+Schande. Siehst du nun wohl, dafi «rir Dichter 
+nicht weise noch würdig sein können? Daß wir 
+notwendig in die Irre gehen, notwendig lieder- 
+lich und Abenteurer des Gefdhlet blnben? Die 
+Mristerhaltung unseres Stiles ist Läge und Narren- 
+tum, unser Ruhm und Ehrenstand eine Posse, das 
+Vertrauen der Menge zu um höchst lächerlich, 
+Volks- und Jugenderziehung durch die Kunst ein ge- 
+wagtes, zu verbietendes Unternehmen, Denn wie 
+sollte wohl der zum Erzieher taugen, dem eine un- 
+rerbesserlicheundnaiürlicheRichtungzom Abgrunde 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+eingeboren ist? Wir möchten ihn wohl verleugnen 
+und Würde gemnnen, aber wie wir um wenden 
+mögen, er zieht uns an. So s^en wir etwa der auf- 
+lösenden Erkenntnis ab, denn die Erkenntnis, Phü- 
+dros, hat köne WQrde und Strenge; de ist wissend, 
+verstehend, verzeihend, ohne Haltung und Form; üe 
+hat Sympathie mit dem At^^mnd, sie i 1 1 der Abgrund. 
+Diese also verwerfen wir mit Entschlossenheit, und 
+fortan gilt unser Trachten nnüg der Sehönheii, das 
+will sagen der Einfachheit, Größe und neuen Strenge, 
+der zweiten Unbefangenheit und der Form. Aber 
+Form imd Unbefangenheit, Phaidros, führen zum 
+Rausch und zur Begierde, führen den Edlen vielleicht 
+zu grauenhaftem Gefuhlsfrevel, den srine eigene 
+schöne Strenge als in&n veimrfi, führen zum Ab- 
+grund, zum Abgrund auch ne. Uns Dichter, sage 
+ich, führen sie dahin, denn wir vermögen nicht, uns 
+anzuschwingen, wir vermögen nur auszuschweifen. 
+Und nun gehe ich, Phaidros, bleibe du hier; und 
+erst wenn du mich nicht mehr siehst, so gehe 
+auch du." 
+
+Einige Tage spBter verließ Gustav von Aschenbach, 
+da er sich leidend fühlte, das Bäderhotel zu spä- 
+terer Moi^enstunde, als gewöhnlich. Er hatte mit 
+gewissen, nur halb körperlichen Schwindel anfallen zu 
+
+»4» 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+kümpfen, die von einer heftig aufsteigenden 
+Angst begleitet waren, «nein Gefähl det Aus- 
+weg- and Aossichnloügkeit, von dem nicht klai 
+wurde, ob es sich auf die äufiete Welt oder auf seine 
+eigene Existenz bezog. In der Halle bemerkte er 
+eine große Menge zum Transport bereitliegenden 
+Gepücki, fragte einen T&rhüter, wer es sei, der reise, 
+und erhielt zur Antwort den polnischen Adelsnamen, 
+dessen er insgeheim gewärrig gewesen war. Er 
+empüng ihn, ohne dafi seine verfallenen Gesichtszüge 
+sich verindert hätten, mit jener kurzen Hebung des 
+Kopfes, mit der man etwas, was man nicht zu wissen 
+brauchte, beilSufig zur Kenntnis nimmt, und fragte 
+noch: „Wann?*' Man antwortete ihm: „Nach dem 
+Lunch." Er nickte und ging zum Meere. 
+
+Es war immrtUch dort Über das wüte, flache 
+Gewisser, das den Strand von der ersten gestreckten 
+Sandbank trennte, liefen kriuselnde Schauer von 
+vom nach hinten. Herbstlichkeit, Überlebtheit schien 
+Über dem einst lo färbig belebten, nun fast ver- 
+lassenen Lustorte zu liegen, dessen Sand nicht mehr 
+reinlich gehalten wurde. Ein photographischer Ap- 
+parat, schdnbar herrenlos, stand auf seinem drei- 
+beinigen Stativ am Rande der See, und ein schwarzes 
+Ibch, darüber gebreitet, flanerte kktschend im 
+kälteren Winde. 
+
+
+
+i...iit>>Cooglc 
+
+
+
+T&dzio, mit dcei oder vier Gespielen, die ihm ge- 
+blieben waren, bewegte sich zur Rechten vor der 
+Hüne der Seinen, und, eine Decke über den Knien, 
+etwa in der Mitte zwischen dem Meer und der 
+Reihe der Strandhütten in snnem liegestuU ruhend, 
+sah Aschenbach ihm noch einmal zu. Das Spiel, 
+das onbeaußichtigt war, denn die Frauen mochten 
+mit Rnsevorbereitungen beschiftigt sein, schien 
+regellos und artete aus. Jener Stimmige, im Gttrtet- 
+anzug und mit schwarzem, pomadisiertem Haar, der 
+, Jaschu" gerufen wurde, durch «nen Sandwurf ins Ge- 
+sicht gereizt und geblendet zwang Tadzio zum Ring- 
+kampf, der rasch mit dem Fall des schwächeren 
+Schtfnen endete. Aber alt ob in der Abschiedsstunde 
+das dienende Gefiihl des Geringeren sich in grausame 
+Roheit verkehre und für eine lange Sklaverei Rache 
+zu nehmen trachte, Uefi der Sieger auch dann noch 
+nicht von dem Unterlegenen ab, sondern drfickn, auf 
+seinem Rücken kniend, dessen Gesicht so anhaltend 
+in den Sand, daß Tadno, ohnedies vom Kampf aufier 
+Atem, zu ersticken drohte. Seine Versuche, den 
+Lastenden abzuschütteln, waren krampfhaft, sie 
+unterblieben auf Augenblicke ganz und wieder- 
+holten sich nur noch als ein Zucken. Entsetzt 
+wollte Aschenbach zur Rettung aufspringen, ab der 
+GewaltAtige endlich sein Opfer freigab. Tadzio, 
+
+14» 
+
+Dg.l.zedt,,GoOg[C 
+
+
+
+■ehr birich, richtete sich zni Hälfte auf ond saß, 
+auf einen Ann gestStzt, mehrere Minuten lang un- 
+beweglich, mit verwimem Haar und dunkelnden 
+Augen. Dann stand er rollends auf and entfernte 
+sich langsam. Man rief ihn, anfiüiglich munter, 
+dann blngtich und bittend; er härte nicht. Der 
+Schwarze, den Reue über seine Ausschreitung so- 
+glrich er&At haben mochte, holte ihn ein und 
+suchte ihn za versöhnen. Eine Schulterbewegtmg 
+wies ihn zurück. Tadzio ging schrlg hinunter znm 
+Wasser. Er war barfuß und trug seinen gestraften 
+Leinenanzug mit roter Schleife. 
+
+Am Rande der Flut verweilte et (ich, gesenkten 
+Hauptes, mit einer Fufispitze Figuren im feuchten 
+Sande zeichnend, und ging dann in lUe seichte Vor- 
+see, die an ihrer üefsten SteQe noch nicht seine Knie 
+benetzte, durchschritt sie, llssig vordringend, tmd 
+gelai^e zur Sandbank. Dort stand er einen Augen- 
+blick, das Gesicht der Weite zagckchn, und begann 
+hierauf^ die lange und schmale Strecke entblößten 
+Grundes nach links hin langsam abzuschreiten. Vom 
+Festiande geschieden durch breite Wasser, geschieden 
+von den Genossen durch stolze Laune, wandelte er, 
+«ne höchst abgesonderte und verbtndungclose Er- 
+schrinung, mit flatterndem Haar dort draufien Im 
+Meere, im Winde, rocm Nebelhaft-Grenzenlosen. 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Abermals blieb er zur Ausschan stehen. Und pldo- 
+lieh, me unter einer Erinnerung, einem Impuls, 
+wandte er den Oberkörper, one Hand in der Hüfte, 
+in schöner Drehung aus setner Gnindposicur und 
+blickte über die Schulter zum Ufer. Der Schauende 
+dort safi, wie er tünst gesessen, als zuerst, von iener 
+Schwelle zurückgesandt, dieser dsinunei^raue Blick 
+dem seinen begegnet war. Srin Haupt war an der 
+Lehne des Stuhles langsam der Bewegung des draußen 
+Schreitenden gefolgt; niu hob es sich, gleichsam 
+dem Blicke entgegen, und sank auf die Brust, so 
+dafi seine Augen von unten sahen, indes sein Ant- 
+litz den schlaffen, innig versunkenen Ausdruck tiefen 
+Schlummers zeigte. Ihm war aber, als ob der bleiche 
+und liebliche Psychagog dort dranflen ihm Uchle, 
+ihm winke; als ob er, die Hand aus der Hüfte lösend, 
+hinausdeute, voranschwebe ins VerhnAnngsvoU-Un- 
+geheure. Und, wie so oft, machte er sich auf, ihm 
+EU folgen. 
+
+Minuten vergingen, bb man dem seitlich im 
+Stuhle Hinabgesunkenen zn Hilfie eilte. Man brachte 
+ihn auf sein Zimmer. Und noch desselben Tages 
+empfing eine respektvoll erscbünene Welt die 
+Nachricht von seinem Tode. 
+
+Ende 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Dgilizedt^COOglC 
+
+
+
+Dgilizedt^COOglC 
+
+
+

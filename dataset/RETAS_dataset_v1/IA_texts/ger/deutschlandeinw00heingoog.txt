@@ -1,0 +1,7923 @@
+Google 
+
+
+
+This is a digital copy of a book that was prcscrvod for gcncrations on library shclvcs bcforc it was carcfully scannod by Google as pari of a projcct 
+
+to make the world's books discoverablc online. 
+
+It has survived long enough for the Copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+
+to Copyright or whose legal Copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+
+are our gateways to the past, representing a wealth of history, cultuie and knowledge that's often difficult to discover. 
+
+Marks, notations and other maiginalia present in the original volume will appear in this flle - a reminder of this book's long journcy from the 
+
+publisher to a library and finally to you. 
+
+Usage guidelines 
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken Steps to 
+prcvcnt abuse by commercial parties, including placing lechnical restrictions on automated querying. 
+We also ask that you: 
+
++ Make non-commercial use ofthefiles We designed Google Book Search for use by individuals, and we request that you use these files for 
+personal, non-commercial purposes. 
+
++ Refrain fivm automated querying Do not send automated queries of any sort to Google's System: If you are conducting research on machinc 
+translation, optical character recognition or other areas where access to a laige amount of text is helpful, please contact us. We encouragc the 
+use of public domain materials for these purposes and may be able to help. 
+
++ Maintain attributionTht GoogXt "watermark" you see on each flle is essential for informingpcoplcabout this projcct and hclping them lind 
+additional materials through Google Book Search. Please do not remove it. 
+
++ Keep it legal Whatever your use, remember that you are lesponsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in Copyright varies from country to country, and we can'l offer guidance on whether any speciflc use of 
+any speciflc book is allowed. Please do not assume that a book's appearance in Google Book Search mcans it can bc used in any manner 
+anywhere in the world. Copyright infringement liabili^ can be quite severe. 
+
+Äbout Google Book Search 
+
+Google's mission is to organizc the world's Information and to make it univcrsally accessible and uscful. Google Book Search hclps rcadcrs 
+discover the world's books while hclping authors and publishers rcach ncw audicnccs. You can search through the füll icxi of ihis book on the web 
+
+at |http: //books. google .com/l 
+
+
+
+Google 
+
+
+
+IJber dieses Buch 
+
+Dies ist ein digitales Exemplar eines Buches, das seit Generationen in den Realen der Bibliotheken aufbewahrt wurde, bevor es von Google im 
+Rahmen eines Projekts, mit dem die Bücher dieser Welt online verfugbar gemacht werden sollen, sorgfältig gescannt wurde. 
+Das Buch hat das Uiheberrecht überdauert und kann nun öffentlich zugänglich gemacht werden. Ein öffentlich zugängliches Buch ist ein Buch, 
+das niemals Urheberrechten unterlag oder bei dem die Schutzfrist des Urheberrechts abgelaufen ist. Ob ein Buch öffentlich zugänglich ist, kann 
+von Land zu Land unterschiedlich sein. Öffentlich zugängliche Bücher sind unser Tor zur Vergangenheit und stellen ein geschichtliches, kulturelles 
+und wissenschaftliches Vermögen dar, das häufig nur schwierig zu entdecken ist. 
+
+Gebrauchsspuren, Anmerkungen und andere Randbemerkungen, die im Originalband enthalten sind, finden sich auch in dieser Datei - eine Erin- 
+nerung an die lange Reise, die das Buch vom Verleger zu einer Bibliothek und weiter zu Ihnen hinter sich gebracht hat. 
+
+Nu tzungsrichtlinien 
+
+Google ist stolz, mit Bibliotheken in Partnerschaft lieber Zusammenarbeit öffentlich zugängliches Material zu digitalisieren und einer breiten Masse 
+zugänglich zu machen. Öffentlich zugängliche Bücher gehören der Öffentlichkeit, und wir sind nur ihre Hüter. Nie htsdesto trotz ist diese 
+Arbeit kostspielig. Um diese Ressource weiterhin zur Verfügung stellen zu können, haben wir Schritte unternommen, um den Missbrauch durch 
+kommerzielle Parteien zu veihindem. Dazu gehören technische Einschränkungen für automatisierte Abfragen. 
+Wir bitten Sie um Einhaltung folgender Richtlinien: 
+
++ Nutzung der Dateien zu nichtkommerziellen Zwecken Wir haben Google Buchsuche Tür Endanwender konzipiert und möchten, dass Sie diese 
+Dateien nur für persönliche, nichtkommerzielle Zwecke verwenden. 
+
++ Keine automatisierten Abfragen Senden Sie keine automatisierten Abfragen irgendwelcher Art an das Google-System. Wenn Sie Recherchen 
+über maschinelle Übersetzung, optische Zeichenerkennung oder andere Bereiche durchführen, in denen der Zugang zu Text in großen Mengen 
+nützlich ist, wenden Sie sich bitte an uns. Wir fördern die Nutzung des öffentlich zugänglichen Materials fürdieseZwecke und können Ihnen 
+unter Umständen helfen. 
+
++ Beibehaltung von Google-MarkenelementenDas "Wasserzeichen" von Google, das Sie in jeder Datei finden, ist wichtig zur Information über 
+dieses Projekt und hilft den Anwendern weiteres Material über Google Buchsuche zu finden. Bitte entfernen Sie das Wasserzeichen nicht. 
+
++ Bewegen Sie sich innerhalb der Legalität Unabhängig von Ihrem Verwendungszweck müssen Sie sich Ihrer Verantwortung bewusst sein, 
+sicherzustellen, dass Ihre Nutzung legal ist. Gehen Sie nicht davon aus, dass ein Buch, das nach unserem Dafürhalten für Nutzer in den USA 
+öffentlich zugänglich ist, auch für Nutzer in anderen Ländern öffentlich zugänglich ist. Ob ein Buch noch dem Urheberrecht unterliegt, ist 
+von Land zu Land verschieden. Wir können keine Beratung leisten, ob eine bestimmte Nutzung eines bestimmten Buches gesetzlich zulässig 
+ist. Gehen Sie nicht davon aus, dass das Erscheinen eines Buchs in Google Buchsuche bedeutet, dass es in jeder Form und überall auf der 
+Welt verwendet werden kann. Eine Urheberrechtsverletzung kann schwerwiegende Folgen haben. 
+
+Über Google Buchsuche 
+
+Das Ziel von Google besteht darin, die weltweiten Informationen zu organisieren und allgemein nutzbar und zugänglich zu machen. Google 
+Buchsuche hilft Lesern dabei, die Bücher dieser We lt zu entdecken, und unterstützt Au toren und Verleger dabei, neue Zielgruppcn zu erreichen. 
+Den gesamten Buchtext können Sie im Internet unter |http: //books . google .coiril durchsuchen. 
+
+
+
+-U'S'iL^,^^ /,!{:; 
+
+
+
+
+HARVARD 
+COLLEGE 
+LIBRARY 
+
+
+
+
+t 
+
+! 
+
+i ... - . ,. - 
+
+
+
+^'k"=!V 
+
+
+
+
+
+
+
+
+
+:^ 
+
+
+
+\ ^-r 'f>^ 
+
+
+
+^*^\.^ ' .:^^;^-" ^— -;^- ( 
+
+
+
+11 ■-« 
+
+
+
+^' 
+
+
+
+er 
+
+
+
+.->-^ 'A 
+
+
+
+^.*t. 
+
+
+
+■<^'.. "^ 
+
+
+
+-> 
+
+
+
+
+
+
+
+
+
+;Vr/ 
+
+
+
+;Jt> 
+
+
+
+. '» ■■ ^ *i 
+
+
+
+C^> ^:>:'^' 
+
+
+
+1 "''M 
+
+., ■ ./TT« 
+
+
+
+
+
+■•:/;<♦■''- V. 
+
+
+
+^ m-^' 
+
+
+
+
+
+
+
+
+
+'P i 
+
+
+
+4 ^^ 
+
+
+
+ü 
+
+
+
+
+
+
+j^ 
+
+
+
+^^^("1 S <' ^^ '" '^ '^'' 
+
+
+
+^rTA ^i'^^J-'^ 
+
+
+
+XL. 
+
+
+
+■^ 
+
+
+
+t... 
+
+
+
+\ 
+
+
+
+^ 
+
+
+
+/ 
+
+
+
+Heinrich Heine's 
+
+
+
+SlMMTLICHE WERKE. 
+
+
+
+Dreizehnter Band. 
+
+
+
+JD ^ u t 6 rl) l a n d. 
+
+
+
+%tta €rDlL 
+
+
+
+Amsterdam, 
+
+M. IL BINGER & SÖHNE. 
+1856. 
+
+
+
+Deutsehland 
+
+
+
+Ein Wintermährchen. 
+
+
+
+Von 
+
+
+
+H. Heine, 
+
+
+
+Amsterdam, 
+
+M. II. BINGER & SÖHNE. 
+1856. 
+
+
+
+
+
+
+
+
+
+
+
+
+Drnek von M. H. Binger a. Söhne. 
+
+
+
+l 
+
+
+' \ 
+
+
+
+
+\ 
+
+
+t , 
+
+
+\ 
+
+
+
+
+A 
+
+
+\ 
+
+
+t 
+
+
+v 
+
+
+"^ i 
+
+
+
+] 
+
+
+
+Vorwort. 
+
+
+
+Das nachstehende Gedicht schrieb ich im diesjährigen 
+Monath Jannar zu Paris, und die freye Laft des Ortes 
+wehete in manche Strophe weit schärfer hinein, als mir 
+eigentlich lieb war. Ich nnterliess nicht, schon gleich zu 
+mildem nnd anszascheiden, was mit dem deutschen Clima 
+unTerträglich schien. Nichtsdestoweniger, als ich das Ma- 
+miscript im Monath März an meinen Verleger nach Ham- 
+burg schickte, wurden mir noch mannigfache Bedenklich- 
+keiten in Erwägung gestellt. Ich musste mich dem fatalen 
+Geschäfte des Umarbeitens nochmals unterziehen, und 
+da mag es wohl geschehen seyn, dass die ernsten Töne 
+mehr als nöthig abgedämpft oder von den Schellen des 
+Humors gar zu heiter überklingelt wurden. Einigen nack- 
+ten Gedanken habe ich im hastigen Unmuth ihre Feigen- 
+
+
+
+1 
+
+1 
+
+! 
+
+I 
+
+
+
+VI VORWORT. 
+
+blätter wieder abgerissen, und zimperlich spröde Ohren 
+habe ich vielleicht verletzt. Es ist mir leid, aber ich tröste 
+mich mit dem Bewusstseyn, dass grössere Autoren sich 
+ähnliche Vergehen zu Schulden kommen Hessen. Des 
+Aristophanes will ich zu solcher Beschönigung gar nicht 
+erwähnen, denn der war ein blinder Heide, und sein Pu- 
+blikum zu Athen hatte zwar eine klassische Erziehung 
+genossen, wusste aber wenig von Sittlichkeit Auf Cer- 
+vantes und Moli^re könnte ich mich schon viel besser 
+berufen; und ersterer schrieb für den hohen Adel beider 
+CastUien, letzterer für den grossen König und den grosisen 
+Hof von Versailles! Ach, ich vergesse, dass wir in einer 
+sehr bürgerlichen Zeit leben, umd ich sehe leider voraus, 
+dass viele Töchter gebildeter Stände an der Spree, wo 
+nicht gar an der Alster, über mein armes (Gedicht die 
+mehr oder minder gebogenen Naschen rümpfen werden I 
+Was ich aber mit noch grösserem Leidwesen voraussehe, 
+das ist das Zoter jener Pharisäer der Nazionalität, die 
+jetzt mit den Antipathien der Regierungen Haud in Hand 
+gehen, auch die volle Liebe und Hochachtung der Censur 
+goniessen, und in der Tagespresse den Ton angeben kön- 
+nen, wo es gilt jene Gegner zu befehden, die auch zugleich 
+die Gegner ihrer allerhöchsten Herrschaften sind. Wir 
+sind im Herzen gewappnet gegen das Missfallen dieser 
+
+
+
+V O Ä W O K T. VII 
+
+heldenmiithigen Cakayen in schwar^rothgoldner Livree. 
+Ich höre schoB ihre BiersthnmeQ^: da lästerst sogar unsere 
+Farben, Verächter des Vaterlands, Freand der Franzosen, 
+denen dn den freien Bhein abtreten willst! Berahigt 
+Kach. Ich werde Enre Farben achten nnd ehren, wenn 
+sie es verdienen, wenn sie nicht mehr eine müssige oder 
+knechtische Spielerej sind. Pflanzt die schwarz-roth-goldne 
+Fahne auf die Höhe des deotschen Gedankens, macht 
+sie zur Standarte des frejen Menschthums, und Ich will 
+mein bestes Herzblut für sie hingeben. Beruhigt Such, 
+ich liebe das Vaterland eben so sehr wie Ihr. Wegen 
+dieser Liebe habe ich drejzehn Lebensjahre im Exile 
+verlebt, nnd wegen eben dieser Liebe kehre ich wieder 
+znrück in^s Exil, vielleicht für immer, jedenfalls ohne za 
+flennen, oder eine schiefmäalige Duldergrimasse za schnei- 
+den. Ich bin der Freand der Franzosen, wie ich der Freund 
+aller Menschen bin, wenn sie vernünftig und gut sind, und 
+weil ich selber nicht so dumm oder so schlecht bin, als 
+dass ich wünschen sollte, dass meine Deutschen und die 
+Franzosen, die beiden auserwählten Völker der Humani- 
+tät, sieh die Hälse brächen zum Besten von England und 
+Rnssland und zar Schadenfreude aller Janker und Pfaffen 
+dieses Erdballs. Seyd ruhig, ich werde den Bhein nim- 
+mermehr den Franzosen abtreten, schon aus dem ganz 
+
+
+
+Till T O B W O K T. 
+
+einfachen Grande: weil mir der Rhein gehört. Ja, mir 
+gehört er, darch nnveraosserliches Gebnrtsrecht, ich bin 
+des freyen Rheins noch weit freyerer Sohn, an seinem 
+Ufer stand meine Wiege, and ich sehe gar nicht ein, 
+warum der Rhein irgend einem Andern gehören soll als 
+den Landeskindern. Elsass und Lothringen kann ich 
+freylich dem deutschen Reiche nicht so leicht einverlei- 
+ben wie Ihr es thut, denn die Leute in jenen Landen 
+hängen fest an Frankreich wegen der Rechte, die sie 
+durch die französische Staatsumwälznng gewonnen, we- 
+gen jener Gleichheitsgesetze und freyen Instituzionen, 
+die dem bürgerlichen Gemüthe sehr angenehm sind, aber 
+dem Magen der grossen Menge dennoch Vieles zu wün- 
+schen übrig lassen. Indessen, die Elsasser und Lothringer 
+werden sich wieder an Deutschland anschliessen, wenn 
+wir das vollenden, was die Franzosen begonnen haben, 
+wenn wir diese überflügeln in der That, wie wir es schon 
+gethan im Gedanken, wenn wir uns bis zu den letzten 
+Folgerungen desselben emporschwingen, wenn wir die 
+Dienstbarkeit bis in ihrem letzten Schlupfwinkel, dem Him- 
+mel, zerstören, wenn wir den Gott, der auf Erden im Men- 
+schen wohnt, aus seiner Erniedrigung retten, wenn wir 
+die Erlöser Gottes werden, wenn wir das arme, glückent- 
+erbte Volk und den verhöhnten Genius und die geschan- 
+
+
+
+VORWORT. IX 
+
+dete Schönheit wieder in ihre Würde einsetzen, wie unsere 
+grossen Meister gesagt und gesangen, und wie wir es wol- 
+len, wir, die Jünger — ja, nicht bloss Elsass und Lothrin- 
+gen, sondern ganz Frankreich wird uns alsdann zufallen, 
+ganz Europa, die ganze Welt — die ganze Welt wird 
+deutsch werden ! Von dieser Sendung und Universalherr- 
+Schaft Deutschlands träume ich oft wenn ich unter Eichen 
+wandle. Das ist mein Patriotismus. 
+
+Ich werde in einem nächsten Buche auf dieses Thema 
+zurückkommen, mit letzter Entschlossenheit, mit strenger 
+Bücksichtslosigkeit, jedenfalls mit Loyaliföt. Den ent- 
+schiedensten Widerspruch werde ich zu achten wissen, 
+wenn er aus einer Ueberzeugung hervorgeht. Selbst der 
+rohesten Feindseligkeit will ich alsdann geduldig verzei- 
+hen ; ich will sogar der Dummheit Rede stehen, wenu sie 
+nur ehrlich gemeint ist. Meine ganze schweigende Verach- 
+tung widme ich hingegen dem gesinnungslosen Wichte, 
+der aus leidiger Scheelsucht oder unsauberer Pri?atgiftig- 
+keit meinen guten Leumund in der öffentlichen Meinung 
+herabzuwürdigen sucht, und dabej die Maske des Patrio- 
+tismus, wo nicht gar die der Religion und der Moral, he* 
+nutzt. Der anarchische Zustand der deutschen politischen 
+und literarischen Zeitungsbhitterwelt ward in solcher Be- 
+ziehung zuweilen mit einem Talente ausgebeutet^ das ich 
+
+
+
+i 
+
+
+
+X VOBWORT. 
+
+schier bewundern masste. Wahrhaftig, Schafterle ist nicht 
+todt, er lebt noch immer, und steht seit Jahren an d«r 
+Spitze einer wohlorganisirten Bande von literarischen 
+Strauchdieben, die in den böhmischen Wäldern unserer 
+Tagespresse ihr Wesen treiben, hinter jedem Buch, hinter 
+jedem Blatt, versteckt liegen und dem leisesten Pfiff ihres 
+würdigen Hauptmanns gehorchen. 
+
+Noch ein Wort. Das Wintermähr chen bildet den Schluss 
+der „Neuen Gedichte," die in diesem Augenblick bey Hofi*- 
+man nnd Campe erscheinen. Um den Einzeldruck veran- 
+stalten zu können, musste mein Verleger das Gedicht den 
+überwachenden Behörden zu besonderer Sorgfalt über- 
+liefern, und neue Varianten und Ausmerzungen sind das 
+Ergebniss dieser höheren Kritik. — 
+
+Hamburg, d. 17. Sept. 1844. 
+
+Heinrich Heine. 
+
+
+
+Deutschland. 
+
+
+
+Ein Wintermährchen. 
+
+Geschrieben im Januar 1844. 
+
+
+
+a: 
+
+
+
+>^- 'V''V^"■v -, .. 
+
+
+
+1^ 
+
+
+
+t. 
+
+
+
+4' 
+
+
+
+■■- f 
+
+
+
+
+
+< 
+
+
+
+
+^ />7- 
+
+
+
+w ^ 
+
+
+
+llEiKR's DmUcMand. 
+
+
+
+i 
+
+
+
+Caput 1. 
+
+
+
+Im tranrigen Monat November war's, 
+Die Tage wurden trüber, 
+Der Wind riss von den Bäumen das Lanb, 
+Da reist* ich nach Deutschland hinüber. 
+
+Und als ich an die Grenze kam, 
+Da fiihlt ich ein stärkeres Klopfen 
+In meiner Brust, ich glaube sogar 
+Die Augen begannen zu tropfen. 
+
+Und als ich die deutsche spräche vernahm, 
+Da ward mir seltsam zu Mnthe; 
+Ich meinte nicht anders, als ob das Herz 
+Hecht angenehm verblute. 
+
+Ein kleines Harfenmädchen sang. 
+
+Sie sang mit wahrem Gefühle 
+
+Und falscher Stimme, doch ward ich sehr 
+
+Gerühret von ihrem Spiele. 
+
+
+
+Sie sang von Liebe und Liebesgram, 
+Anfopfrung und Wiederfinden 
+Dort oben, in jener besseren Welt, 
+Wo alle Leiden schwinden. 
+
+Sie sang vom irdjschen Jammerthal, 
+Von Freuden, die bald zerronnen, 
+Vom Jeijseits, wo die Seele schwelgt 
+Verklärt in ew*gen Wonnen. 
+
+Sie sang das alte Entsagnngslied, . 
+Das Eyapopeya vom Himmel, 
+Womit man einlullt, wenn es greint. 
+Das Volk, den grossen Lümmel. 
+
+Ich kenne die Weise, ich kenne den Text, 
+Ich kenn* auch die Herren Verfasser: 
+Ich weiss, sie tranken heimlich Wein 
+Und predigten öffentlich Wasser. 
+
+Ein neues Lied, ein besseres Lied, 
+O Freunde, will ich dichten! 
+Wir wollen hier auf Erden schon 
+Das Himmelreich errichten. 
+
+Wir wollen auf Erden glücklich seyn, 
+Und wollen nicht mehr darben; 
+Verschlemmen soll nicht der faule Banch 
+Was fleissigc Hände erwarben. 
+
+
+
+
+
+
+
+Es wächflt hienieden Brod genug 
+
+Für alle Menschenkinder, 
+
+Auch Rosen und Mjrthen, Schönheit und Lust, 
+
+Und Zuckererbsen nicht minder. 
+
+Ja, Zuckererbsen für Jedermann, 
+Sobald die Schooten platzen! 
+Den Himmel überlassen wir 
+Den Engeln und den Spatzen. 
+
+Und wachsen uns Flügel nach dem Tod, 
+So wollen wir Euch besuchen 
+Dort oben, und wir wir essen mit Euch 
+Die seligsten Torten und Kuchen. 
+
+Ein neues Lied, ein besseres Lied, 
+Es klingt wie Flöten und Geigen! 
+Das Miserere ist vorbey, 
+Die Sterbeglocken schweigen. 
+
+Die Jungfer Europa ist verlobt 
+
+Mit dem schönen Geninssc 
+
+Der Freiheit, sie liegen einander im Arm, 
+
+Sie schwelgen im ersten Kusse. 
+
+Und fehlt ätr PfaiTenseegen dabei. 
+Die Ehe wird gültig nicht minder — 
+Es lebe Bräutigam und Braut, 
+Und ihre zukünftigen Kinder! 
+
+
+
+Ein Hoebzeitkarmen ist mein Lied, 
+
+Das bessere, das neae! 
+
+In meiner Seele gehen anf 
+
+Die Sterne der höchsten Weihe — 
+
+Begeisterte Sterne, sie lodern vild, 
+Zerfliesen in Flanunenbächen — 
+Ich fühle mich wunderbar eietarkt, 
+Ich könnte Eichen zerbrechen! 
+
+Seit ich auf deutsche Erde trat 
+Durchströmen mich Zaubersäfte — { 
+Der Riese bat wieder die Mutter berührt, 
+und es wuchsen ihm neu die Kräfte. 
+
+
+
+€) «put 11. 
+
+
+
+Während die Kleine toh Himmclslust 
+Getrillert uad mnsicirct, 
+Ward von den preussischen Douani^rs 
+Mein Koffer yisitiret. 
+
+Beschnüffelten Alles, kramten herum 
+In Hemden, Ho^n, Schnupftüchern; 
+Sie suchten nach Spitzen, Bijouterien, 
+Auch nach verbotenen Büchern. 
+
+Ihr Thoren, die Ihr im Koffer sucht! 
+Hier werdet Ihr nichts entdecken! 
+Die Contrebande, die mit mir reist, 
+Die hab' ich im Kopfe stecken. 
+
+Hier hab' ich Spitzen, die feiner sind 
+Als die von Brüssel und Mecheln, 
+Und pa(^' ich einst meine Spitzen aus, 
+Sie werden Euch sticheln und hecheln. 
+
+
+
+i 
+
+
+
+8 
+
+
+
+Im Kopfe trage ich Bijouterien, 
+Der Zoknnft Krondiamanten, 
+Die Tempelkleinodien des neuen Gotts, 
+Des grossen Unbekannten. 
+
+Und viele Bücher trag' ich im Kopf! 
+Ich darf es Euch versichern. 
+Mein Kopf ist ein zwitscherndes Vogelnest 
+Von konfiszirlichen Büchern. 
+
+Glaubt mir, in Satans Bibliothek 
+Kann es nicht schlimmere geben; 
+Sie sind gefährlicher noch als die 
+Von Hoffinan von Fallersieben! — 
+
+Ein Passagier, der neben mir stand, 
+Bemerkte mir, ich hätte 
+Jetzt vor mir den preussischen Zollverein, 
+Die grosse Donanenkette. 
+
+
+
+„Der Zollverein* — bemerkte er — 
+„Wird unser Volksthum begründen, 
+Er wird das zersplitterte Vaterland 
+Zu einem Ganzen verbinden. 
+
+
+
+„Er giebt die äussere Einheit uns, 
+
+Die sogenannt materielle; 
+
+Die geistige Einheit giebt uns die Censur, 
+
+Die wahrhaft ideelle — 
+
+
+
+9 
+
+
+
+Sie giebt die innere Einheit uns, 
+I Die Einheit im Denken und Sinnen ; 
+
+I Ein einiges Deutschland thnt uns Notb, 
+
+Einig nach Aussen und Innen." 
+
+
+
+Caput 111. i 
+
+
+
+Zu Aachen, im alten Dome, liegt 
+Carolas Magnus begraben. 
+(Man muss ihn nicht verwechseln mit Carl 
+Mayer, der lebt in Schwaben.) 
+
+Ich möchte nicht todt und begraben seyn 
+Als Kaiser zu Aachen im Dome; 
+Weit lieber lebt' ich als kleinster Poet 
+Zn Stukkert am Neckarstrome. 
+
+Zu Aachen langweilen sich auf der Strass* 
+Die Hunde, sie flehn unterthänig: 
+Gieb uns einen Fasstritt, o Fremdling, das wird 
+Vielleicht uns zerstreuen ein wenig. 
+
+Ich bin in diesem langweilgen Nest 
+£in Stündchen herumgeschlendert. 
+Sah wieder preussisches Militär, 
+Hat sich nicht sehr verändert. 
+
+
+
+11 
+
+Es sind 4ie grauen Mäntel noch, 
+Mit dem 3ioheu, rothen Kragen — 
+(Das Both bedeutet Franzoseublat, 
+Sang Körner in früheren Tagen.) 
+
+Noch immer du hölzern i^dantische Yolk^ 
+Noch immer ein rachter Winkel 
+In jeder Bewegung, und im Gesicht 
+Der eiingefroroBe Dünkeä. 
+
+Sie stelzen noch immer so steif herum, 
+So kerzengrade geschniegelt. 
+Als hätten sie yersehluckt den Stock 
+Womit man sie einst geprügelt. 
+
+Ja ganz verschwand die Fuchtel nie, 
+Sie tragen sie jetzt im Innern; 
+Das trauliche Du wird immer noch 
+An das alte Er erinnern. 
+
+Der lange Schnurbart ist eigentlich nur 
+Des Zopfihunis neuere Phase: 
+Der Zopf, der ehmals hinten hing, 
+Der hängt jetzt unter der Nase. 
+
+Nicht übel gefiel mir das neue Gostum 
+Der Henter, das muss ich loben, 
+Besonders die Fikkelhaube, den Helm, 
+Mit der stählernen Spitze nach oben. 
+
+
+
+12 
+
+
+
+Das ist so ritterthümlich und mahnt 
+An der Vorzeit holde Bomantik, 
+An die Burgfrau Johanna von Montfaacon, 
+An den Treiherm Foaqu^, ühland, Tieck. 
+
+Das mahnt an das Mittelalter so schön, 
+An Edelknechte and Knappen, 
+Die in dem Herzen getragen die Treu 
+Und auf dem Hintern ein Wappen. 
+
+Das mahnt an Kreuzzng und Tnmej, 
+An Minne und frommes Dienen, 
+An die ungedruckte Glaubenszeit, 
+Wo noch keine Zeitung erschienen. 
+
+Ja, ja, der Helm gefallt mir, er zeugt 
+
+Vom allerhöchsten Witze! 
+
+Ein königlicher Einfall war's! 
+
+Es fehlt nicht die Pointe, die Spitze! 
+
+Nur furcht' ich, wenn ein Gewitter entsteht, 
+Zieht leicht so eine Spitze 
+Herab auf Euer romantisches Haupt 
+Des Himmels modernste Blitze! 
+
+
+
+C* a p II t IV 
+
+
+
+Zu Collen kam ich spät Abends an. 
+Da hörte ich rauschen den Kheinflnss, 
+Da fächelte mich schon deutsche Luft, 
+Da fühlt' ich ihren Einflnss — 
+
+Auf meinen Appetit. Ich ass 
+Dort Eierkuchen mit Schinken, 
+Und da er sehr gesalzen war 
+Musst ich auch Rheinwein trinken. 
+
+Der Rheinwein glänzt noch immer wie Gold 
+Im grünen Römerglase, 
+Und trinkst du etwelche Schoppen zu viel, 
+So steigt er dir in die Nase. 
+
+In die Nase steigt ein Prickeln so süss. 
+Man kann sich vor Wonne nicht lassen! 
+Es trieb mich hinaus in die dämmernde Nacht, 
+In die wiederhallende Gassen. 
+
+
+
+i 
+
+
+
+14 
+
+
+
+Die steinern en Häuser schauten mich an, 
+Als wollten sie mir berichten 
+Legenden aus altverschollei\er Zeit, 
+Der heiigen Stadt Collen Geschichten. 
+
+Ja, hier hat einst die Clerisey . 
+
+Ihr frommes Wesen getrieben, 
+
+Hier haben die Dunkelmänner geherrscht, 
+
+Die Ullrich von Hütten beschrieben. 
+
+Der Cancan des Mittelalters ward hier 
+Getanzt Ton Nonnen und Mönchen; 
+Hier schrieb Hochstraa;ten, der Menzel von Colin. 
+Die giftgen DenunziaziÖnchen. 
+
+Die Flamme des Scheiterhaufens hat hier 
+Bächer und Menschen verschlungen; 
+Die Glocken wurden geläutet dabei 
+Und Kyrie Bleison gesungen. 
+
+Dummheit und Bosheit buhlten hier 
+Gleich Hunden auf freier Gasse; 
+Die Enkelbrut erkennt man noch beut 
+An ihrem Glaubenshasae. — 
+
+Doch siehe I dort im Mondenschein 
+Den kolossnlen Gesellen ! 
+Er ragt verteufelt schwarz empor, 
+Das ist der Dom von Collen. . 
+
+
+
+iJUf^lSk«- 
+
+
+
+15 
+
+
+
+Er sollte des Geistes Bastille sein, 
+Uod die listigen Bomlinge dachten: 
+In diesem Hiesenkerker wird 
+Die deutsche Veroanft verschmachten! 
+
+Da kam der Luther, und er hat 
+Sein grosses „Halt!" gesprochen — 
+Seit jenem Tage blieb der Bau 
+Des Domes unterbrochen. 
+
+Er ward nicht vollendet — und das ist gut. 
+Denn eben die Nichtvollendung 
+Macht ihn zum Denkmahl von Deutschlands Kraft 
+Und protestantischer Sendung. 
+
+Ihr armen Schelme vom Domverein, 
+Ihr wollt ihit schwachen Händen 
+Fortsetzen das unterbrochene Werk, 
+Und die alte Zwingburg vollenden ! 
+
+O IhÖrichter Wahn! Vergebens wird 
+Geschüttelt der Klingelbeutel, 
+Gebettelt bei Ketzern und Juden sogar; 
+Ist alles frachtlos und eitel. 
+
+Vergehens wird der grosse Franz Lisst 
+Zum Besten des Doms musiziren, • . ^ 
+
+Und ein talentvoller Konig wird iv- 
+
+Vergebens deklamiren! -■ 
+
+
+
+*•.,>- 
+
+
+
+16 
+
+
+
+Er wird nicht vollendet, der KöUner Dom, 
+Obgleich die Narren in Schwaben 
+Zu seinem Fortbau ein ganzes Schiff 
+Voll Steine gesendet haben. 
+
+'^ 
+Er wird nicht vollendet, trotz allem Geschrey 
+Der Raben und der Eulen, 
+Die, alterthümlich gesinnt, so gern 
+In hohen Kirchthürmen weilen. 
+
+Ja, kommen wird die Zeit sogar 
+Wo man, statt ihn zu vollenden, 
+Die inneren Käume zu einem Stall 
+Für Pferde wird verwenden. 
+
+„Und wird der Dom ein Pferdestall, 
+Was sollen wir dann beginnen 
+Mit den heiVgen drey Kön'gen, die da ruhn 
+Im Tabernakel da drinnen?" 
+
+So höre ich fragen. Doch brauchen wir uns 
+In unserer Zeit zu geniren? 
+Die heirgen drey Kön*ge aus Mor:ienland, 
+Sie können wo anders logiren. 
+
+Folgt meinem Eath und steckt sie hinein 
+In jene drey Körbe von Eisen, 
+Die hoch zu Münster hängen am Thnrm. 
+Der Sankt Lamberti geheissen. 
+
+
+
+17 
+
+Der Schneiderkönig sass darin 
+Mit seinen beiden Räthen, 
+Wir aber benatzen die Körbe jetzt 
+Für andre Majestäten. 
+
+Znr Rechten soll Herr Balthasar, 
+
+Znr Linken Herr Melchior schweben, 
+
+In der Mitte Herr Gaspar — Gott weiss, wie einst 
+
+Die Drej gehausst im Leben! 
+
+Die heirge Allianz des Morgenlands, 
+Die jetzt kanonisiret, 
+Sie hat vielleicht nicht immer schön 
+Und fromm sich aufgeführet. 
+
+Der Balthasar und der Melchior, 
+Das waren vielleicht zwey Gäuche, 
+Die in der Noth eine Constitnzion 
+Versprochen ihrem Reiche, 
+
+und später nicht Wort gehalten — Es hat 
+Herr Gaspar, der König der Mohren, 
+Vielleicht mit schwarzem Undank sogar 
+Belohnt sein Volk, die Thoren! 
+
+
+
+IIbixe's Deutschland. 
+
+
+
+Caput V 
+
+
+
+Und als ich an die Hheinbrück kam, 
+Wohl an die Hafenschanze, 
+Da sah ich fliessen den Vater Rhein 
+Im stillen Mondenglanze. 
+
+4 
+
+Sey mir gegrüsst, mein Vater Rhein, 
+Wie ist es mir ergangen? 
+Ich habe oft an dich gedacht, 
+Mit Sehnsacht and Verlangen. 
+
+So sprach ich, da hört' ich im Wasser tief 
+
+Gar seltsam grämliche Tone, 
+
+Wie Hüsteln eines alten Manns, 
+
+Ein Brümmeln and weiches Gestöhne: 
+
+„Willkommen, mein Junge, das ist mir lieb, 
+Dass da mich nicht vergessen; 
+Seit dreizehn Jahren sah ich dich nicht, 
+Mir ging es schlecht antcrdessen. 
+
+
+
+19 
+
+
+
+,,Zu Biberich hab' ifh Steiae YeiFaehluckt, 
+Wahrhaftig sie schmeekten Glicht lecker! 
+Doofa schwerer Uegeu im Magen mir 
+Die Verse von ÜTiklas Becker. 
+
+„Er hat mich besungen als ob ich noch 
+Die reinste Jungfer wäre, 
+Die sich von niemand rauben läset 
+Das Kränzlein ihrer Ehre. 
+
+^Wenn ich es höre, das dumme Lied, 
+Dann möcht ich mir zerraufen 
+Den weissen Bart, ich möchte fürwahr 
+Mich in mir selbst ersaufen! 
+
+,,Dass ich keine reine Jungfer bin, 
+Die Franzosen wissen es besser, 
+Sie haben mit meinem Wasser so oft 
+Vermischt ihr Siegergewässer. 
+
+
+
+„Das dumme Lied und der dumme Kerl! 
+Er hat mich schmählich blamiret, 
+Gewissermassen hat er mich auch 
+Politisch kompromittiret. 
+
+^Denn kehren jetzt die Franzosen zurück. 
+So muss ich vor ihnen erröthen, 
+Ich, der um ihre Rückkehr so oft 
+Mit Thränen zum Himmel gebeten. 
+
+
+
+20 
+
+
+
+„Ich habe sie immer so lieb gehabt, 
+Die lieben kleinen Französchen — 
+Singen und springen sie noch wie sonst? 
+Tragen noch weisse Höschen? 
+
+„Ich möchte sie gerne wiedersehn, 
+Doch furcht' ich die Persifflage, 
+Von wegen des verwünschten Lieds, 
+Von wegen der Blamage. 
+
+„Der Alphred de Müsset, der Gassenbnb, 
+Der kommt an ihrer Spitze ^ 
+
+Vielleicht als Tambour, und trommelt m iror 
+All seine schlechten Witze." 
+
+So klagte der arme Vater Rhein, 
+
+Könnt sich nicht zufrieden geben. 
+
+Ich sprach zu ihm manch tröstendes Wort, 
+
+Um ihm das Herz zu heben: 
+
+O, fürchte nicht, mein Vater Bhein, 
+Den spöttelnden Scherz der Franzosen; 
+Sie sind die alten Franzosen nicht mehr, 
+Auch tragen sie andere Hosen. 
+
+Die Hosen sind roth und nicht mehr weiss, 
+Sie haben auch andere Knöpfe, 
+Sie singen nicht mehr, sie springen nicht mehr, 
+Sie senken nachdenklich die Köpfe. 
+
+
+
+21 
+
+
+
+Sie philosophircn und sprechen jetzt 
+Von Kant, von Fichte und Hegel, 
+Sie rauchen Tabak, sie trinken Bier, 
+und manche schieben auch Kegel. 
+
+Sie werden Philister ganz wie wir 
+Und treiben es endlich noch ärger; 
+Sie sind keine Voltairiauer mehr, 
+Sie werden Hengstenbeiger. 
+
+Doch Alphred de Müsset, das ist wahr, 
+Ist noch ein Gassenjunge; 
+Doch fürchte nichts, wir fesseln ihm 
+Die schändliche Spötterzunge. 
+
+Und trommelt er dir einen schlechten Witz, 
+So pfeifen wir ihm einen schummern. 
+Wir pfeifen ihm vor was ihm passirt 
+Bei schönen Frauenzinunern. 
+
+Gieb dich zufrieden, Vater Bhein, 
+Denk' nicht an schlechte Lieder, 
+Ein besseres Lied vernimmst du bald — 
+Leb wohl, wir sehen uns wieder. 
+
+
+
+Caput VI. 
+
+
+
+Den Paganini begleitete stets 
+
+Ein Spiritus Familiaris, 
+
+Manchmal als Hund, manchmal in Qestalt 
+
+Des seligen Georg Harris. 
+
+Kapoleon sah einen rothen Mann, 
+Vor jedem wichtigen Ereigniss. 
+Sokrates hatte seinen Dämon, 
+Das war kein Hiroerzengnlss . 
+
+Ich selbst, wenn ich am Schreibtisch sws 
+Des Nachts, hab ich gesehen 
+Zuweilen einen vermummten Gast 
+Unheimlich hinter mir stehen. 
+
+Unter dem Mantel hielt er etwas 
+Verborgen das seltsam blinkte 
+Wenn es zum Vorschein kam, und ein Beil, 
+Ein Bichtbeil, zn seyn mir dünkte. 
+
+
+
+23 
+
+Er schien von untersetzter Statur 
+Die Augen wie zwey Sterne; 
+Er störte mich im Schreiben nie, 
+Blieb ruhig stehn in der Feme. 
+
+Seit Jahren hatte ich nicht gesehn 
+Den sonderbaren Gesellen, 
+Da fand ich ihn plötzlich wieder hier 
+In der stillen Mondnacht zu Collen. 
+
+Ich schlenderte sinnend die Strassen entlang, 
+Da sah ich ihn hinter mir gehen, 
+Als ob er mein Schatten wäre, und stand 
+Ich still, so blieb er stehen. 
+
+Blieb stehen, als wartete er auf was, 
+Und förderte ich die Schritte, 
+Dann folgte er wieder. So kamen wir 
+Bis auf des Domplatz Mitte. 
+
+Es ward mir uuleidlich, ich drehte mich um 
+Und sprach: Jetzt steh* mir Bede, 
+Was folgst du mir auf Weg und Steg, 
+Hier in der nächtlichen Oede? 
+
+Ich treffe dich immer in der Stund, 
+Wo Weltgefüble apriessen 
+In meiner Brust und durch das Hirn 
+Die Geistesblitze sdiiessen. 
+
+
+
+24 
+
+
+
+Du siehst mich an so stier und fest — 
+Steh' Bede: was verhüllst da 
+Hier unter dem Mantel, das heimlich blinkt? 
+Wer bist du und was willst du? 
+
+Doch jener erwiederte trockenen Tons, 
+Sogar ein bischen phlegmatisch: 
+„Ich bitte dich, exorzire mich nicht. 
+Und werde nur nicht emphatisch! 
+
+„Ich bin kein Gespenst der Vergangenheit, 
+Kein grabentstiegener Strohwisch, 
+Und von Rhetorik bin ich kein Freund, 
+Bin auch nicht sehr philosophisch. 
+
+„Ich bin von praktischer Natur, 
+Und immer schweigsam und ruhig. 
+Doch wisse: was du ersonnen im Geist*, 
+Das führ* ich ans, das thu' ich. 
+
+„Und gehn auch Jahre drüber hin. 
+Ich raste nicht, bis ich verwandle 
+In Wirklichkeit was du gedacht; 
+Du denkst, und ich, ich handle. 
+
+„Du bist der Bichter, der Büttel bia ich, 
+Und mit dem Gehorsam des Knechtes 
+Vollstreck* ich dns Urtheil, das du gefallt, 
+Und sey es ein ungerechtes. 
+
+
+
+' 
+
+
+
+25 
+
+
+
+,,Dem Consal trug man ein Beil voran, 
+Zu Hom, in alten Tagen; 
+Auch du hast deinen Liktor, doch wird 
+Das Beil dir nachgetragen. 
+
+„Ich bin dein Liktor, und ich geh' 
+Beständig mit dem blanken 
+Eichtbeile hinter dir — ich bin 
+Die That von deinem Gedanken." 
+
+
+
+Caput VII. 
+
+
+
+Ich ging nach Hans und schlief als ob 
+Die Engel gewiegt mich hätten. 
+Man ruht in deutschen Betten so weich, 
+Denn das sind Federbetten. 
+
+Wie sehnt' ich mich oft nach der Süssigkeit 
+
+Des vaterländischen Pfühles, 
+
+Wenn ich auf harten Matratzen lag, 
+
+In der schlaflosen Nacht des Exiles! 
+
+Man schläft sehr gut und träumt auch gut 
+In unseren Federbetten. 
+Hier fühlt die deutsche Seele sich frey 
+Von allen Erdenketten. 
+
+Sie fjhlt sich frey und schwingt sich empor 
+Zu den höchsten Himmelsräumen. 
+O deutsche Seele, wie stolz ist dein Flug 
+In deinen nächtlichen Träumen! 
+
+
+
+27 
+
+
+
+Die Götter erbleichen wenn du nah'st! 
+Du hast auf deinen Wegen 
+Gar manches Sterolein ausgeputzt 
+Mit deinen Flügelschlägen! 
+
+Franzosen und Russen gehört des Land, 
+Das Meer gehört den Britten, 
+Wir aber besitzen im Luftreich' des Traums 
+Die Herrschaft unbestritten. 
+
+Hier üben wir die Hegemonie, 
+Hier sind wir nnzerstückelt ; 
+Die andern Völker haben sich 
+Auf platter Erde entwickelt. — — 
+
+Und als ich einschlief, du träumte mir, 
+Ich schlenderte wieder im hellen 
+Mondschein die hallenden Strassen entlang, 
+In dem alterthümltchen Collen. 
+
+Und hinter mir ging wieder einher 
+Mein schwarzer, vermummter Begleiter. 
+Ich war so müde, mir brachen die Knie, 
+Doch immer gingen wir weiter. 
+
+Wir gingen weiter. Mein Herz in der Brust 
+War klaffend aufgeschnitten, 
+Und aus der Herzenswunde hervor 
+Die rothen Tropfen glitten. 
+
+
+
+28 
+
+
+
+Ich tauchte manchmal die Finger hinein, 
+Und manchmal ist es geschehen, 
+Dass ich die Hausthürpfosten bestrich 
+Mit dem Blat im Vorübergehen. 
+
+Und jedesmal wenn ich ein Haas 
+Bezeichnet in solcher Weise, 
+Ein Sterbeglöckchen erscholl fernher, 
+Wehmüthig wimmernd and leise. 
+
+Am Himmel aber erblich der Mond, 
+Er wurde immer trüber; 
+Gleich schwarzen Rossen jagten an ihm 
+Die wilden Wolken vorüber. 
+
+Und immer ging hinter mir einher 
+Mit seinem verborgenen Beile 
+Die dunkle Gestalt — so wanderten wir 
+Wohl eine gute Weile. 
+
+Wir gehen und gehen, bis wir zuletzt 
+Wieder zum Domplatz gelangen; 
+Weit offen standen die Pforten dort, 
+Wir sind liineingegangen. 
+
+Es herrschte im ungeheuren Raum 
+Nur Tod und Nacht und Schweigen; 
+Es brannten Ampeln hie und da, 
+Um die Dunkelheit recht zu zeigen. 
+
+
+
+29 
+
+
+
+Ich wandelte lange den Pfeilern entlang 
+Und hörte nur die Tritte 
+Von meinem Begleiter, er folgte mir 
+Auch hier bey jedem Schritte. 
+
+Wir kamen endlich zu einem Ort,- 
+Wo funkelnde Kerzenhelle 
+Und blitzendes Gold und Edelstein; 
+Das war die Drey-Königs-Kapelle. 
+
+Die heiVgen drey Könige jedoch, 
+Die sonst so still dort lagen, 
+O Wunder! sie sassen aufrecht jetzt 
+Auf ihren Sarkophagen. 
+
+Drey Todtengerippe, phantastisch geputzt, 
+Mit Kronen auf den elenden 
+Vergilbten Schädeln, sie trugen auch 
+Das Zepter in knöchernen Händen. 
+
+Wie Hampelmänner bewegten sie 
+Die längstverstorbenen Knochen; 
+Die haben nach Moder und zugleich 
+Nach Weihrauchduft gerochen. 
+
+Der Eine bewegte sogar den Mund 
+Und hielt eine Bede, sehr lange; 
+Er setzte mir auseinander warum 
+Er meinen Bespekt verlange. 
+
+
+
+30 
+
+
+
+Zuerst weil er ein Tod^er sey, 
+
+Und zweitens weil er ein König, 
+
+Und drittens weil er ein Heirger sey, — 
+
+Das alles rührte mich wenig. 
+
+Ich gab ihm zur Antwort lachenden Mnths: 
+Vergebens ist deine Bemühung! 
+Ich sehe, dass du der Vergangenheit 
+Gehörst in jeder Beziefamig. 
+
+Fort! fort von hier! im tiefen Grab, 
+Ist Eure natürliche Stelle. 
+Das Leben nimmt jetzt in Beschlag 
+Die Schätze dieser Kapelle. 
+
+Der Zukunft fröhliche Cavallerie 
+
+Soll hier im Dome hausen. 
+
+Und weicht Ihr nicht willig, so brauch ich Gewalt, 
+
+Und lass Euch mit Kolben lausen! 
+
+So sprach ich und ich drehte mich um, 
+Da sah ich furchtbar blinken 
+Des stummen Begleiters furchtbares Beil — 
+Und er verstand mein Winken. 
+
+Er nahte sich, und mit dem Beil 
+Zer:>chmetterte er die Armen 
+Skelette des Aberglaubens, er schlug 
+Sie nieder ohn* Er bannen. 
+
+
+
+r 
+
+
+
+31 
+
+
+
+Es dröhnte der Hiebe Wiederlmll 
+Aus allen Gewölben, entsetzlich, — 
+Blutströme schössen aus meiner Brust, 
+Und ich erwachte plötzlich. 
+
+
+
+Caput VIU. 
+
+
+
+Von Collen bis Hagen kostet die Post 
+Fünf Thaler sechs Groschen Preussisch. 
+Die Diligence war leider besetzt 
+Und ich kam in die offene Beyschais*. 
+
+Ein Spätherbstmorgen, feucht und grau, 
+Im Schlamme keuchte der Wagen; 
+Doch trotz des schlechten Wetters und Wegs 
+Durchströmte mich süsses Behagen. 
+
+Das ist ja deine Heimathluft ! 
+Die glühende Wange empfand es! 
+Und dieser Landstrassenkoth, er ist 
+Der Dreck meines Vaterlandes! 
+
+Die Pferde wedelten mit dem Schwanz 
+So traulich wie alte Bekannte, 
+Und ihre Mistküchlein dünkten mir schön 
+Wie die Aepfel der Atalante! 
+
+
+
+33 
+
+Wir fuhren durch Mühlheiüi. Die Stadt ist nett, 
+Die Menschen stall und fl«issig. 
+War dort zuletzt im Monat May 
+Des Jahres Ein und dreysig. 
+
+Damals stand alles im Blüthenschmuck 
+
+Und die Sonnenlichte lachten. 
+
+Die Vögel sangen schnsuchtvoll, 
+
+Und die Menschen hofiten und dachten — 
+
+Sic dachten: „Die magere Ritterschaft 
+Wird bald yon hinnen reisen, 
+Und der Ahschi^dstrnnk wird ihnen kredenzt 
+Aus langen Flaschen von Eisen! 
+
+„Und die Freiheit kommt mit Spiel und Tanz, 
+Mit der Fahne, der weiss-blau-rothen ; 
+Vielleicht holt sie sogar aus dem Grab 
+Den Bonaparte, den Todtenl" 
+
+Ach Gott! die Bitter sind immer noch hier, 
+Und manche dieser Gäuche, 
+Di« spindeldürre gekommen in's Land, 
+Die haben jetzt dicke Bauche. 
+
+Die blassen Canaillen, die ausgesehn 
+Wie Liebe, Glauben und Hoffen, 
+Sie haben seitdem in nnserm Wein 
+
+Sich rothe Naaen gesoffen — 
+
+Ueike's DevtteManä. 3 
+
+
+
+34 
+
+
+
+Und die Freiheit hat sich den Fuss verrenkt. 
+Kann nicht mehr springen und stürmen; 
+Die Trikolore in Paris 
+Schaut traurig herab von den Thürmen. 
+
+Der Kaiser ist auferstanden seitdem, 
+Doch die englischen Wärmer haben 
+Aus ihm einen stillen Mann gemacht, 
+Und er liess sich wieder begraben. 
+
+Hab' selber sein Leichenbegängniss gesehn, 
+Ich sah den goldenen Wagen 
+Und die goldenen Siegesgöttinnen drauf, 
+Die den goldenen Sarg getragen. 
+
+Den Elisäischen Feldern entlang. 
+
+Durch des Triumphes Bogen, 
+
+Wohl durch den Nebel, wohl über den Schnee, 
+
+Kam langsam der Zug gezogen. 
+
+Misstönend schauerlich war die Musik. 
+Die Musikanten starrten 
+Vor Kälte. Wehmüthig grüssten mich 
+Die Adler der Standarten. 
+
+
+
+Die Menschen schauten so geisterhaft 
+In alter Erinnerung verloren — 
+Der imperiale Mährchentraum 
+War wieder herauf beschworen. 
+
+
+
+35 
+
+
+
+Ich weinte au jenem Tag. Mir sind 
+Die Thranen in's Ange gekommen, 
+Als ich den verschollenen Liebesrnf, 
+Das Vive TEmperear! vernommen. 
+
+
+
+Caput IX. 
+
+
+
+Von Collen war ich drei Viertel auf Acht 
+Des Morgens fortgereiset; 
+Wir kamen nach Hagen schon gegen Drey, 
+Da wird zu Mittag gespeiset. 
+
+Der Tisch war gedeckt. Hier fand ich ganz 
+Die altgermanische Küche. 
+Sey mir gegrüsst, mein Sauerkraut, 
+Holdselig sind deine Gerüche! 
+
+Gestof^e Kastanien im grünen Kohl! 
+
+So ass ich sie einst bei der Mutter! 
+
+Ihr heimischen Stockfische seid mir gegrüsst! 
+
+Wie schwimmt Ihr klug in der Butter! 
+
+Jedwedem fühlenden Herzen bleibt 
+Das Vaterland ewig theuer — 
+Ich liebe auch recht braun geschmort 
+Die Bücklinge und Eyer. 
+
+
+
+37 
+
+
+
+Wie jaiichzten die Würste im spritzelnden Fett! 
+Die Krammetsvögel, die frommen 
+Gebratenen Englein mit Apfelmnss, 
+Sie zwitscherten mir: Willkommen I 
+
+Willkommen, Landsmann, — zwitscherten sie — 
+Bist lange aasgeblieben, 
+Hast dich mit fremdem Gevögel so lang 
+In der Fremdb herumgetrieben I 
+
+Es stand auf dem Tische eine Gans, 
+Ein stilles, geraithUohes Wesen. 
+Sie hat vielleicht mich einst geliebt, 
+Als wir beide noch jnng gewesen. 
+
+Sie bUckte mich an so bedentungivoll. 
+So iinig, so treu, so wehe! 
+Besass 9tmt sehöne Seele gewiss, . 
+Doch war das Fleisch sehr zäh^ 
+
+Anch einen Sehweiiis^opf trag man anf 
+
+In einer zinneroeii Schüssel; 
+
+Hoch inmei« schmückt man den Schweinen bei ans 
+
+Mit Lorbeerblättern den Rttssel. 
+
+
+
+*Hf ■ IIV I ' ^ 
+
+
+
+€ • p ■ t X. 
+
+
+
+Dicht hinter Hagen ward es Nacht, 
+
+Und ich fühlte in den Gedärmen 
+
+Ein seltsames Frösteln. Ich konnte mich erst 
+
+Zu Unna, im Wirthshans, erwärmen. 
+
+Ein hübsches Mädchen fand ich dort. 
+Die schenkte mir freundlich den Pansch ein; 
+Wie gelbe Seide das Lockenhaar, 
+Die Augen sanft wie Mondschein. 
+
+Den lispelnd westphälisohen Accent 
+Vernahm ich mit WoUnst wieder. 
+Viel süsse Erinnernng dampfte der Pansch, 
+Ich dachte der lieben Brüder, 
+
+Der lieben Westphalen womit ich so oft 
+In Göttingen getrunken, 
+Bis wir gerührt einander an's Herz 
+Und unter die Tische gesunken! 
+
+
+
+39 
+
+
+
+Ich habe sie immer so lieb gehabt, 
+Die lieben, gaten Westphalen, 
+Ein Volk so fest, so sicher, so tren, 
+Ganz ohne Gleissen nnd Prahlen. 
+
+Wie standen sie prächtig auf der Mensar, 
+Mit ihren Lowenherzenl 
+Es fielen so grade, so ehrlich gemeint. 
+Die Quarten and die Terzen. 
+
+Sie fechten gnt, sie trinken gut, 
+
+Und wenn sie die Hand dir reichen, 
+
+Zum Freundscbaftsbündniss, dann weinen sie; 
+
+Sind sentimentale Eichen. 
+
+Der Himmel erhalte dich, wackres Volk, 
+Er segne deine Saaten, 
+Bewahre dich vor Krieg nnd Ruhm, 
+Vor Helden und Heldenthaten. 
+
+Er schenke deinen Söhnen stets 
+Ein sehr gelindes Examen, 
+Und deine Töchter bringe er hübsch 
+Unter die Haube -— Amen! 
+
+
+
+Caput XI. 
+
+
+
+Das ist der Tentobnrger Wald, 
+Den Tacitas beschrieben, 
+Das ist der klassisdie Morast, 
+Wo Varns stecken geblieben. 
+
+Hier schlug ihn der Oheraskwfürst, 
+Der Hermann, der edle Recke; 
+Die deutsche Nationalität, 
+Die siegte in diesem Drecke. 
+
+Wennn Hermann nicht die Schlacht gewann. 
+Mit seinen blonden Horden, 
+So gab es deutsche Freiheit ni^t mehr. 
+Wir wären römisch geworden ! 
+
+In unserem Vaterland herrschten jetzt 
+Nur römische Sprache und Sitten, 
+Vestalen gab* es in München sogar, 
+Die Schwaben hiessen Quirlten! 
+
+
+
+41 
+
+
+
+Der H^ögsttenbe^g wäir' ^n ^w:«|iper 
+Und gFftb#}t^ i» d^» ^^di^rffien 
+Von Ocl)s<^. !^«{|nder ?r«,r' eii^ Aagpr, 
+Und schaute na^h Vpg^li^ct^wifi'mw* 
+
+3i)^hiPfei.fier s^oife T^rpeatip, 
+Wie einst ^i^ römiscl^p |>§men. 
+(Man SQigt, d^sis ^e 4&Aur^b, dez^ Vx\n 
+Besonders wQ^ri^ot^^^d be)[;^wea.) 
+
+J)^ R*^** i^äre k^in ^^ut^^chi^r l^i^inp, 
+Er wäre ein röm'scher Lmnp^ii^. 
+Der Freijigrath Richtete ohne Beim, 
+Wie weil^pd S*|accas Horf^zius. 
+
+Dcir groh^ B^tl^r, Yaier »T^hn, 
+
+Der hiesse ie^\ Qrobii^ta^ 
+
+Me herc^lel |ilß3;|n^9H sprach^ La1;ein, 
+
+Der Marcus TuU^us M^sma^i^^! 
+
+Die W^hrh^itjjifri^iui^^ wU|4e;( jetzt 
+Mit Löw^, 9jäneiH Sch^kaJ^n, 
+Sich ruiufex^ i;n d^ Ar^ni^, (^i^stattt 
+Mit Hunden t^jid kleinen Journale?. 
+
+• 
+Wir hattep Eii;i^ l^e^^ j^fc^t 
+Statt Lfm^e&yät^r drciy Di:tUein4* 
+Wir schnitten uns die Adexxi 9iUf» 
+Den Schergen der Enechtsch^ trntzend. 
+
+
+
+42 
+
+Der Schelling war' ganz ein Seneka, 
+Und käme in solchem Conflikt um. 
+Zu uDs'rem Cornelias sagten wir: 
+Kakatum non est piktom. 
+
+Gottlob! Der Hermann gewann die Schlacht, 
+Die Bömer worden vertrieben, 
+Yaros mit seinen Legionen erlag, 
+Und wir sind Deutsche geblieben! 
+
+Wir blieben deutsch, wir sprechen deutsch, 
+Wie wir es gesprochen haben; 
+Der Esel heisst Esel, nicht asinns. 
+Die Schwaben blieben Schwaben. 
+
+Der Raumer blieb ein deutscher Lump 
+In unserm deutschen Norden. 
+In Reimen dichtet Freiligrath, 
+Ist kein Horaz geworden. 
+
+Gottlob, der Massman spricht kein Latein, 
+Birch-Pfeifer schreibt nur Dramen, 
+Und säuft nicht schnöden Terpentin, 
+Wie Roms galante Damen. 
+
+Hermann, dir verdanken wir das! 
+Drum wird dir, wie sich gebühret. 
+Zu Dettmoldt ein Monument gesetzt; 
+Hab' selber subskribiret. ' 
+
+
+
+€ • p a t Sil. 
+
+
+
+Im nächtlichen Walde hmupelt dahin 
+Die Chaise. Da kracht es plötzlich — 
+Ein Bad ging los. Wir halten still. 
+Das ist nicht sehr ergötzlich. 
+
+Der Postillon steigt ah und eilt 
+In's Dorf, nnd ich yerweilo 
+Um Mittemacht allein im Wald. 
+Bingsam ertont ein Geheale. 
+
+Das sind die Wölfe, die healen so wild, 
+Mit aosgehangerten Stimmen. 
+Wie Lichter in der Dunkelheit 
+Die fenrigen Augen glimmen. 
+
+Sie horten von meiner Ankunft gewiss, 
+Die Bestien, und mir zu Ehre 
+niuminirten sie den Wald, 
+Und singen sie ihre Ohöre. 
+
+
+
+44 
+
+
+
+Das ist ein Ständchen, ich merke es jetzt, 
+
+Ich soll gefeyert werden I 
+
+Ich warf mich gleich in Positur 
+
+und sprach mit gerührten Gehehrden: 
+
+„Mitwolfe! Ich bin glückUch heut 
+In Eurer Mitte zu weilen, 
+Wo so fiel edle Gemüther mir 
+Mit Liebe entgegenhenlen. 
+
+„Was ich in diesem Avgenbliok 
+Empfinde, ist unermessliob ; 
+Ach! diese schSne Stunde bleibt 
+Mir ewig nnvergesslich. 
+
+„Ich danke Euch lür das VertmuB, 
+Womit Ihr mich beehret, 
+Und das Ihr in jeder Früfungascit 
+Durch treue Beweise bew&hret. 
+
+„Mttwolfe! Ihr zweifeltet nie an mir, 
+Ihr Messet Euch nicht ftingen 
+Von Schelmen, die Euch gesagt, ich sey 
+Zn den Hundoi übergegangen, 
+
+,^ch 8^ abtrünnig und werde hM 
+Hofirath in der iiämmerhürde *-<- 
+Dergleichen zu widersprechen war 
+Ganz unter meiner Würde. 
+
+
+
+45 
+
+
+
+„Der Schaafpelz, den ich umgehängt 
+Zuweilen, am mich zn wärmen, 
+Glaubt mir's, er brachte mich nie dahin 
+Für das Glück der Schaafe zu schwärmen. 
+
+„Ich bin kein Schaaf, ich bin kein Hund, 
+Kein Hofrath und kein Schellfisch — 
+Ich bin ein Wolf geblieben, mein Herz 
+Und meine Zähne sind wölfisch. 
+
+,Jch bin ein Wolf und werde stets 
+Auch heulen mit den WÖlftön — 
+Ja, sählt anf mich und keift Htth selbst, 
+Dann wird ftuöh Gott ^Ch fadlfeü!'* 
+
+Das war dM Bede, die ich hielt. 
+Ganz ohne Vorbereitung; 
+Verstümmelt hat Eolb sie abgedruckt 
+In der Allgemeinen Zeitung. 
+
+
+
+€ a p a t XIII. 
+
+
+
+Die Sonne ging auf bey Paderborn 
+
+Mit sehr yerdross'ner Gebehrde. 
+
+Sie treibt in der That ein yerdriesslich Geschäft — 
+
+Beleachten die dämme Erde! 
+
+Hat sie die eine Seite erhellt, 
+und bringt sie mit strahlender Eile 
+Der andern ihr Licht, so yerdnnkelt schon 
+Sich jene mittlerweile. 
+
+Der Stein entrollt dem Sysiphos, 
+Der Danaiden Tonne 
+Wird nie gefüllt, und den Erdenball 
+Beleuchtet vergeblich die Sonne! — 
+
+Und als der Morgennebel zerrann, 
+Da sah ich am Wege ragen, 
+Im Frührothschein, das Bild des Mann*8, 
+Der an das Krens geschlagen. 
+
+
+
+47 
+
+
+
+Mit Wehmuth erfüllt mich jedesmahl 
+Dein Anblick, mein armer Vetter, 
+Der da die Welt erlösen gewollt, 
+Da Narr, da Menschheitsretterl 
+
+Sie liaben dir übel mitgespielt. 
+
+Die Herren vom hohen Bathe. 
+
+Wer hiess dich auch reden so rücksichtslos 
+
+Von der Kirche und vom Staate! 
+
+Zu deinem Malhear war die Buchdruckerey 
+Noch nicht in jenen Tagen 
+Erfunden; Du hättest geschrieben ein Buch 
+Ueber die Himmelsfragen. 
+
+Der Censor hätte gestrichen darin 
+Was etwa anzüglich auf Erden, 
+Und liebend bewahrte dich die Censur 
+Vor dem Gekrenzigtwerden. 
+
+Ach! hättest du nur einen andern Text 
+Zu deiner Bergpredigt genommen, 
+Besassest ja Geist und Talent genug, 
+Und konntest schonen die Frommen! 
+
+Geldwechsler, Banqni^rs, hast du sogar 
+Mit der Peitsche gejagt aus dem Tempel — 
+Unglücklicher Schwärmer,jetzthäng8tduamEreaz 
+
+Als warnendes Exempel! 
+
+
+
+€ a p a t XIV. 
+
+
+
+IS 
+
+D 
+
+
+C 
+
+r 
+I 
+
+
+
+Bin feuchter Wind-, ein kahles Land, § 
+
+Die Chaise wackelt im &chlamtaae, ] 
+
+Doch singt es und klingt es in meinem Qemütb : ( 
+
+Sonne, du klagende Flamme I , 
+
+Das ist der Sohlustreim des alten Lied«, 
+Das oft mekie Amme gesungen ^- 
+„Sonne, da klagende Flamtnel" das hat 
+Wie Waldhornnif geklungm. 
+
+£s kommt im Lied ein Mörder vor, 
+Der lebt* in Lust und Freude; 
+Man findet ihn endlich im Walde gehenkt. 
+An einer grauen Weide. 
+
+Des Mörders Todesurtheil war 
+
+Genagelt am Weidenstamme; 
+
+Das haben die Bächer der Vehme gethan — 
+
+Sonne, du klagende Flamme! ' 
+
+
+
+49 
+
+
+
+Die Sonne war Kläger, sie hatte bewirkt, 
+Dass man den Morder yerdamme. 
+Otilie hatte sterbend geschrien: 
+Sonne, du klagende Flamme! 
+
+Und denk ich des Liedes, so denk* ich auch 
+Der Amme, der lieben Alten; 
+Ich sehe wieder ihr braunes Gesicht, 
+Mit allen Kanaelo und Falten. 
+
+Sie war geboren im Münsterland, 
+Und WQSste, in grosser Menge, 
+Gkspenstergeschichten, gransenhaft, 
+Und Mährchen und Volksgesänge. 
+
+Wie pochte mein Herz, wenn die alte Fraa 
+Von der Königstoehter ersahlte, 
+Die einsam auf der Heide sass 
+Und die goldnen Haare strählte. 
+
+Die Gänse mniste sie hüten dort 
+
+Als Gänsemagd, und trieb sie 
+
+Am Abend die Gänse wieder dnroh's Thor, 
+
+Gar traurig stehen blieb sie. 
+
+Denn angoiagelt über dem Thor 
+Sah sie ein Rosshanpt ragen, 
+Das war der Kopf des armen Pferds, 
+Das sie in die iVemde getragen. 
+Hbxxb*s DeuU^lanä. 4 
+
+
+
+
+50 
+
+nigstochter seufzte tief; 
+
+da, dass da hangest! 
+ferdekopf heranter rief; 
+e! dass da gangest! 
+
+/Königstochter seufzte tief: 
+
+fnn das meine Matter wüsstel 
+|Der Pferdekopf heranter rief: 
+|lhr Herze brechen müsste! 
+I 
+
+/ Mit stockendem Athem horchte ich hin, 
+
+! Wenn die Alte ernster and leiser 
+
+/ Zu sprechen begann and vom Bothbart sprach 
+
+( Von unserm heimlichen Kaiser. 
+
+\. 
+
+Sie hat mir versichert, er sey nicht todt, 
+Wie da glauben die Gelehrten, 
+Er hause versteckt in einem Berg 
+Mit seinen Waifengefährten. 
+
+Kiffhäuser ist der Berg genannt, 
+Und drinnen ist eine Hohle; 
+Die Ampeln erhellen so geisterhaft 
+Die hochgewölbten Saale. 
+
+Ein Marstall ist der erste Saal, 
+
+Und dorten kann man sehen 
+
+Viel tausend Pferde, blankgeschirrt. 
+
+Die an den Krippen stehen. ^ 
+
+
+
+A', 
+
+
+
+51 
+
+
+
+Sie sind gesattelt und gezäumt, 
+
+Jedoch von diesen Bossen 
+
+Kein einziges wiehert, kein einziges stampft, 
+
+Sind still, wie aus Eisen gegossen. 
+
+Im zweiten Saale, auf der Streu, 
+Sieht man Soldaten liegen, 
+Viel tausend Soldaten, bärtiges Volk, 
+Mit kriegerisch trotzigen Zügen. 
+
+Sie sind gerüstet von Kopf bis Fuss, 
+Doch alle diese Braven, 
+Sie rühren sich nicht, bewegen sich nicht, 
+Sie liegen fest und schlafen. 
+
+« 
+
+Hochaufgestapelt im dritten Saal 
+Sind Schwerter, Streitäxte, Speere, 
+Harnische, Helme, von Silber und Stahl, 
+Altfränkische Feuergewehre. 
+
+Sehr wenig Kanonen, jedoch genug 
+Um eine Trophee zu bilden. 
+Hoch ragt daraus eine Fahne hervor, 
+Die Farbe ist schwarz-roth-gülden. 
+
+Der Kaiser bewohnt den vierten Saal. 
+Schon seit Jahrhunderten sitzt er 
+Auf steinernem Stuhl, am steinernen Tisch, 
+Das Haupt auf den Armen stützt er. 
+
+
+
+52 
+
+
+
+Sein Bart, der bis zur Erde waelu» 
+Ist roth wie Feaerflammen, 
+Zuweilen zwinkert er mit dem Aag% 
+Zieht manchmal die Braunen znsammei». 
+
+Schläft er oder denkt er nach? 
+Man kann's nicht genau ermitteln; 
+Doch wenn die rechte Stunde kommt, 
+Wird er gewaltig sich rütteln. 
+
+Die gute Fahne ergreift er dann 
+Und ruft: zu Pferd' I zn Pferde! 
+Sein reisiges Volk erwacht nnd springt 
+Lantrasselnd empor yon der Erde. 
+
+Ein jeder schwingt sich auf sein Bosst 
+Das wiehert und stampft mit den Hufen! 
+Sie reiten hinaus in die klirrende Welt, 
+Und die Trompeten mfea. 
+
+Sie reiten gat, sie schlagen gut, 
+Sie haben ausgeschlafen. 
+Der Kaiser h&lt ein strenges Gericht, 
+Er will die Mörder bestrafen — 
+
+Die Morder, die gemeuchelt einst 
+Die theure, wundersame, 
+Goldlockigte Jungfrau Germania — 
+Sonne, du klagende Flamme I 
+
+
+
+53 
+
+
+
+Wohl mancher, der sich geborgen geglaubt, 
+Und lachend anf seinem Schlos«« sass, 
+Er wird nicht entgehen dem rächenden Strang, 
+Dem Zorne Barbarossas! 
+
+Wie klingen sie lieblich, wie klingen sie süss, 
+Die Mährchen der alten Ammei 
+Mein abergläubisches Herze jauchzt: 
+8onne, du klagende Flamme I 
+
+
+
+C a p a t X¥. 
+
+
+
+Ein feiner Hegen prickelt herab, 
+Eiskalt, wie Nähnadelspitzcn. 
+Die Pferde bewegen traurig den Schwanz, 
+Sie waten im Eoth und schwitzen. 
+
+Der Fostillon stösst in sein Hom, 
+
+Ich kenne das alte Getute — 
+
+„Es reiten drey Reiter zum Thor hinaus!" 
+
+Es wird mir so dämmrig zu Muthe. 
+
+Mich schläferte und ich entschlief. 
+Und siehe I mir träumte am Ende, 
+Dass ich mich in dem Wnnderberg 
+Beim Kaiser Bothbart befände. 
+
+Er sass nicht mehr auf steinernem Stnhl, 
+Am steinernen Tisch, wie ein Steinbild; 
+Auch sah er nicht so ehrwürdig ans, 
+Wie man sich gewöhnlich einbild't. 
+
+
+
+55 
+
+
+
+£r watschelte durch die Sääle hemm 
+Mit mir im traoten Geschwatze. 
+Er zeigte wie ein Antiquar 
+Mir seine Cnriosa und Schatze. 
+
+Im Saale der Waffen erklärte er mir 
+Wie man sich der Kolben bediene. 
+Von einigen Schwertern rieb er den Kost 
+Mit seinem Hermeline. 
+
+Er nahm einen Pfauen wedel zur Hand, 
+Und reinigte vom Staube. 
+Gar manchen Harnisch, gar manchen Helm, 
+Auch manche Pickelhaube. 
+
+Die Fahne stäubte er gleichfalls ab, 
+Und er sprach: „mein grösster Stolz ist, 
+Dass noch keine Motte die Seide zerfrass, 
+Und auch kein Wurm im Holz ist." 
+
+Und als wir kamen in den Saal, 
+Wo schlafend am Boden liegen 
+Viel tausend Krieger, kampfbereit, 
+Der Alte sprach mit Vergnügen: 
+
+„Hier müssen wir leiser reden und gehn, 
+Damit wir nicht wecken die Leute; 
+Wieder verflossen sind hundert Jahr 
+Und Löhnungstag ist heute.' 
+
+
+
+ti 
+
+
+
+56 
+
+
+
+Und fiiebe! der Kaiser nahte skh sacht 
+Den schlafenden Soldaten, 
+Und steckte heimlich in die Tasch' 
+Jedwedem einen Dukaten. 
+
+Er spraeh mit schmunzelndem Gesicht, 
+Als ich ihn ansah verwundert: 
+„Ich zahle einen Dukaten per Mann, 
+Als Sold> nach jedem Jahrhundert." 
+
+Im Saale wo die Pferde stehn 
+In langen, schweigenden Reihen, 
+Da rieb der Kaiser sich die Hand', 
+Schien sonderbar sich zu freuen. 
+
+Er zählte die Gäule, Stuek vor Stuck, 
+Und kl'atschelte ihnen die Rippen; 
+Er zählte und zählte, mit ängstlicher Hast 
+Bewegten sieh seine Lippen. 
+
+„Das ist noch nicht die rechte Zahl" — 
+Sprach er zuletzt verdrossen — 
+„Soldaten und Waffen hab' ich genung, 
+Doch fehlt es noch an Rossen. 
+
+„Rosskämme hab* ich ausgeschickt 
+In alle Welt, die kaufen 
+Für mich die besten Pferde ein, 
+Hab' schon einen guten Haufen. 
+
+
+
+57 
+
+
+
+^ch warte bis die Zahl komplett 
+Dann scUag* ich los nnd befreye 
+Mein Vaterland, mein deutsches Volk, 
+Das meiner harret mit Trene.'* 
+
+So sprach der Kaiser, ich aber rief: 
+Schlag' los, dn alter Geselle, 
+Schlag' los, nnd hast dn nicht Pferde genug, 
+Nimm Esel an ihrer Stelle. 
+
+Der IRothbart erwiederte lichelnd: „Es hat 
+Mit dem Schlagen gar keine Eile, 
+Man baute nicht Born in einem Tag, 
+Gut Ding will haben Weile. 
+
+„Wer heute nieht kommt, kommt morgen gewiss, 
+Nur langsam wächst die Eiche, 
+Und ehi va piano va sano, so heisst 
+Das Sprüchwort im römischen Reiche.' 
+
+
+
+i> 
+
+
+
+Caput X¥l. 
+
+
+
+\ 
+
+
+
+Das Stossen des Wagens weckte mich* auf. 
+Doch sanken die Angenlieder 
+Bald wieder zu, und ich entschlief 
+Und träamte vom Rothbart wieder. 
+
+Qing wieder schwatzend mit ihm herum 
+Durch alle die hallenden Sääle; 
+Er frag mich dies, er frng mich das, 
+Verlangte, dass ich erzähle. 
+
+Er hatte aus der Oberwelt 
+
+Seit vielen, vielen Jahren, 
+
+Wohl seit dem siebenjährigen Krieg, 
+
+Kein Sterbenswort erfahren. 
+
+Er frug nach Moses Mendelssohn, 
+Nach der Karschin, mit Intresse 
+Frag er nach der Gräfin Dübarry, 
+Des fünfzehnten Ludwigs Maitresse. 
+
+
+
+59 
+
+
+
+O Kaiser, rief ich, wie bist die zurück I 
+Der Moses ist längst gestorben, 
+Nebst seiner Bebekka, auch Abraham, 
+Der Sohn, ist gestorben, verdorben. 
+
+Der Abraham hatte mit Lea erzeugt 
+Ein Bübchen, Felix heisst er. 
+Der brachte es weit im Christcnthnm, 
+Ist schon Capellenmeister. 
+
+Die alte Earschin ist gleichfalls todt, 
+Auch die Tochter isc todt, die Klenke; 
+Helmine Chezj, die Enkelin, 
+Ist noch am Leben, ich denke. 
+
+Die Dübarry lebte Instig nnd flott. 
+
+So lange Ludwig regierte, 
+
+Der fünfzehnte nämlich, sie war schon alt 
+
+Als man sie gnillotinirte. 
+
+Der Konig Ludwig der fünfzehnte starb 
+Ganz ruhig in seinem Bette, 
+Der sechszehnte aber ward guillotinirt 
+Mit der Königin Antoinette. 
+
+Die Königin zeigte grossen Muth, 
+Ganz wie es sie gebührte, 
+Die Dübarry aber weinte und schrie 
+Als man sie gnillotinirte. 
+
+
+
+60 
+
+
+
+Der Kaiser blieb plötzlich stille steho, 
+Und sah mich an mit den stieren 
+Augen und sprach: „Um Gotteswiirn, 
+Was ist das, guilloäniren?*' 
+
+Das Gnillotiniren — erklärt« ich ihm — 
+Ist eine neue Methode, 
+Womit man die Leute jeglichen Stands 
+Vom Leben bringt zu Tode. 
+
+Bey dieser Methode bedient man sich 
+Auch einer nenen Maschine, 
+Die hat erfanden Herr Goillotin, 
+Drnm nennt man sie Guillotine. 
+
+Du wirst hier an ein Brett geschnallt; — 
+Das senkt sich; -* du wirst geschoben 
+Geschwinde zwischen swey Pfosten; — es hängt 
+Ein dreyeckig Beil gans oben; — 
+
+Men* zieht eine Schnur, dann schiesst herab 
+Das Beil, ganz lustig und munter; — 
+Bey dieser Gelegenheit fällt dein Kopf 
+In einen Sack hinunter. 
+
+Der Kaiser fiel mir in die Red: 
+„Schweig still, ron deiner Maschine 
+Will ich nichts wissen, Gott bewahr', 
+Dass ich mich ihrer bediene! 
+
+
+
+61 
+
+,y\}eT Kiönig and die KoDiginn! 
+Geschnallt! an einem Brettel 
+Das ist ja gegen allen Respekt 
+und alle Etiqnette! 
+
+
+
+„Und da, wer bist da, dass da es wagst 
+Mich so vertraolich za datzen? 
+Warte, da Bürschchen, ich werde dir schon 
+Die kecken Flügel stotzen! 
+
+„Es regt mir die innerste Galle anf, 
+Wenn ich dich höre sprechen. 
+Dein Odem schon ist Hochverrath 
+Und Majestätsverbrechen !' 
+
+
+
+n» 
+
+
+
+Als solchermassen in Eifer gerieth 
+
+Der Alte and sonder Schränken 
+
+Und Schonung mich anschnob, da platzten heraus 
+
+Auch mir die geheimsten Gedanken. 
+
+Herr Bothhart — rief ich laut — da bist 
+Ein altes Fabelwesen, 
+Geh', leg* dich schlafen, wir werden uns 
+Auch ohne dich erlösen. 
+
+Die Republikaner lachen uns aus 
+Sehn sie an unserer Spitze 
+So ein Gespenst mit Zepter und Krön*; 
+Sie rissen schlechte Witze . 
+
+
+
+62 
+
+
+
+Auch deiue Fahne gefällt mir nicht mehr, 
+Die aldentschen Narren verdarben 
+Mir schon in der Burschenschaft die Lust 
+An den schwarz-roth-goldnen Farben. 
+
+Das Beste wäre du bliebest zu Haus, 
+Hier in dem alten Kiffhäuser — 
+Bedenk' ich die Sache ganz genau, 
+So brauchen wir gar keinen Kaiser. 
+
+
+
+€ a p a t X¥ll. 
+
+
+
+Ich habe mich mit dem Kaiser gezankt 
+Im Traum, im Traum versteht sich, — 
+Im wachenden Znstand sprechen wir nicht 
+Mit Fürsten so widersetzig. 
+
+Nur träumend, im idealen Traum, 
+Wagt ihnen der Deutsche zu sagen 
+Die deutsche Meinung, die er so tief 
+Im treuen Herzen getragen. 
+
+Als ich erwacht* fuhr ich einem Wald 
+Vorbey, der Anblick der Bäume, 
+Der nackten hölzernen Wirklichkeit 
+Verscheuchte meine Träume. 
+
+Die Eichen schüttelten ernsthaft das Haupt, 
+Die Birken und Birkenreiser 
+Sie nickten so warnend — und ich ridf: 
+Vergieb mir, mein thenrer Kaiser! 
+
+
+
+64 
+
+
+
+Vergieb mir, o Bothbart, das rasche Wort! 
+Ich weiss, du bist yiel weiser 
+Als ich, ich habe so wenig Geduld — 
+Doch komme do bald, mein Kaiser! 
+
+Behagt dir das Gnillotiniren nicht, 
+So bleib bey den alten Mitteln: 
+Bas Schwert für Edelleate, der Strick 
+Für Bürger nnd Bauern in Kitteln. 
+
+Nur manchmal wechsle ab, und lass 
+
+Den Adel hängen, und köpfe 
+
+Ein bischen die Bürger und Bauern, wir sind 
+
+Ja alle Gottesgeschöpfe. 
+
+Stcir wieder her das Halsgericht, 
+Das peinliche Carls des fünften, 
+Und theile wieder ein das Volk 
+Nach Standen, Gilden und Zünften. 
+
+Das alte heilige römische Reich, 
+StelFs wieder her, das ganze, 
+Gieb uns den modrigsten Plunder zurück 
+Mit allem Firlifanze. 
+
+Das Mittelalter, immerhin, 
+
+Das wahre, wie es gewesen. 
+
+Ich will es ertragen — erlöse vnB nmr 
+
+Von jenem Zwitterwesen, 
+
+
+
+65 
+
+
+
+Vou jenem Kamaschenritterthum, 
+
+Das ekelhaft ein Gemisch ist 
+
+Von gothischem Wahn und modernem Lug, 
+
+Das weder Fleisch noch Fisch ist. 
+
+Jag' fort das Comödiantenpack, 
+Und schliesse die Schauspielhänser, 
+Wo man die Vorzeit parodirt — 
+Komme du bald, o Kaiser! 
+
+
+
+Hbinf/8 Deutsehland, 
+
+
+
+Caput XVIII. 
+
+
+
+Minden ist eine feste Burg, 
+
+Hat gute Wehr' nnd Waflfenl 
+
+Mit preassischen Festungen hab' ich jedoch 
+
+Nicht gerne was zu schaffen. 
+
+Wir kamen dort an zur Abendzeit. 
+Die Planken der Zugbrück stöhnten 
+So schaurig, als wir hinüber gerollt; 
+Die dunklen Gräben gähnten. 
+
+Die hohen Bastionen schauten mich an, 
+So drohend und verdrossen; 
+Das grosse Thor ging rasselnd auf, 
+Ward rasselnd wieder geschlossen. 
+
+Ach! meine Seele ward betrübt 
+Wie des Odysseus Seele, 
+Als er gehört, dass Polyphem 
+Den Felsblock schob ror die Höhle. 
+
+
+
+67 
+
+Es tr^t ao dea Wagen ein Corporal 
+Und frug uus: wie wir hiessen? 
+Ich heisae Niemand, bin Augenarzt 
+Und steche den Staar den Biesen. 
+
+Im Wirthshans ward mir noch schlimmer su Math, 
+Das Essen wollt mir nicht sobmeckeo. 
+Ging «chlafen sogleich, doch sehlief ich nicht, 
+Mich drückten $o schwer die Decken. 
+
+Es war ein breites Federbett, 
+Gardinen von rothem Damaste, 
+Der Himmel von Yerblicbenem Gold, 
+Mit einem schinntslgen QuAste. 
+
+Verfloohter Quast I der die gantse Naeht 
+Die liebe Buhe mir raubte I 
+Er hing mir, wie des Damokles Sah wert, 
+So droitend über üesKx Haupte! 
+
+Schien manchmal ein Schlangenkopf zu sejn, 
+Und ich hörte ihn heimUch zischen: 
+Da bist und bleibst in der Festang jetzt, 
+Du kannst nicht mehr entwischen I 
+
+O, dasa ich wäre — seufzte ich -^ 
+Dass ich zu Hause vnxe, 
+Be/ meiner lieben Frau in Paris, 
+Im FflvbourgPoissoni^re! 
+
+
+
+68 
+
+
+
+Ich fühlte, wie über die Stirne mir 
+Auch maochmal etwas gestrichen, 
+Gleich einer kalten Censorhand, 
+Und meine Gedanken wichen — 
+
+Gensd'armen in Leichenlaken gehüllt, 
+Ein weisses Spukgewirre, 
+Umringte mein Bett, ich hörte auch 
+Unheimliches Kettengeklirre. 
+
+Ach! die Gespenster schleppten mich fort, 
+Und ich haV mich endlich befunden 
+An einer steilen Felsenwand; 
+Dort war ich festgebunden. 
+
+Der böse schmutzige Betthimmelqnast ! 
+Ich fand ihn gleichfalls wieder, 
+Doch sah er jetzt wie ein Geyer aus, 
+Mit Krallen und schwarzem Gefieder. 
+
+Er glich dem bekannten Adler jetzt, 
+Und hielt meinen Leib umklammert; 
+Er frass mir die Leber ans der Brust, 
+Ich habe gestöhnt und gejammert. 
+
+Ich jammerte lange — da krähte der Hahn, 
+Und der Fiebertraum erblasste. 
+Ich lag zu Minden im schwitzenden Bett, 
+Der Adler ward wieder zum Quaste. 
+
+
+
+69 
+
+Ich reiste fort mit Extrapost, 
+Und schöpfte freyen Odem 
+Erst dranssen in der freyen Natur 
+Auf Bükkebargschem Boden. 
+
+
+
+€ a p a t XIX« 
+
+
+
+0, Danton, du hast dich sehr geirrt 
+Und mnsstest den Irthum bässen! 
+Mitnehmen kann man das Vaterland 
+An den Sohlen, an den Füssen. 
+
+Das halbe Fürstentham Bäckebnrg 
+Blieb mir an den Stiefeln kleben; 
+So lehmigte Wege habe ich wohl 
+Noch nie gesehen im Leben. 
+
+Zu Bückebnrg stieg ich ab in der Stadt, 
+Um dort za betrachten die Stammburg, 
+Wo mein Grossvater geboren ward; 
+Die Grossmnter war aus Hamburg. 
+
+Ich kam nach Hannoyer um Mittagzeit, 
+Und liess mir die Stiefel putzen. 
+Ich ging sogleich die Stadt zn besehn, 
+Ich reise gern mit Nutzen. 
+
+
+
+71 
+
+
+
+Mein Gott! da sieht es sauber ans! 
+Der Eoth liegt nicht auf den Gassen. 
+
+
+
+I 
+
+
+
+Caput XX. 
+
+
+
+Von Harburg fuhr ich in einer Stund' 
+Nach Hamburg. Es war schon Abend. 
+Die Sterne am Himmel grüssten mich, 
+Die Luft war lind und labend. 
+
+Und als ich zu meiner Frau Mutter kam, 
+Erschrak sie fast vor Freude; 
+Sie rief „mein liebes Kind !" und schlug 
+Zusammen die Hände beide. 
+
+„Mein liebes Kind, wohl drejzehn Jahr 
+Verflossen unterdessen! 
+Du wirst gewiss sehr hungrig seyn — 
+Sag' an, was willst du essen? 
+
+„Ich habe Fisch und Gänsefleisch 
+Und schöne Apfelsinen." 
+So gieb mir Fisch und Gänsefleisch 
+Und schöne Apfelsinen. 
+
+
+
+73 
+
+
+
+Und als ich ass mit grossem ApHit, 
+Die Mutter ward glücklich und munter, 
+Sie frag wohl dies, sie frog wohl das, 
+Verfängliche Fragen mitunter. 
+
+„Mein liebes Kind! und wirst du auch 
+Recht sorgsam gepflegt in der Fremde? 
+Versteht deine Frau die Haushaltung, 
+Und flickt sie dir Strümpfe und Hemde?" 
+
+Der Fisch ist gut, lieb Mütterlein, 
+Doch muss man ihn schweigend yerzehren; 
+Man kriegt so leicht eine Grat' in den Hals, 
+Du darfst mich jetzt nicht stören. 
+
+Und als ich den braven Fisch verzehrt, 
+Die Gans ward aufgetragen. 
+Die Mutter frng wieder wohl dies, wohl das. 
+Mitunter verfängliche Fragen. 
+
+„Mein liebes Kind! in welchem Land 
+Lässt sich am besten leben? 
+Hier oder in Frankreich? und welchem Volk 
+Wirst du den Vorzug geben?" 
+
+Die deutsche Gans, lieb Mütterlein, 
+Ist gut, jedoch die Franzosen, 
+Sie stopfen die Gänse besser als wir. 
+Auch haben sie bessere Saucen. — 
+
+
+
+74 
+
+
+
+Und als die Gans sich wieder empfahl, 
+Da machten ihre Aufwartung 
+Die Apfelsinen, sie schmeckten so süss, 
+Ganz über alle Erwartung. 
+
+Die Mutter aber fing wieder an 
+Zu fragen sehr vergnüglich, 
+Nach tausend Dingen, mitunter sogar 
+Nach Dingen die sehr anzüglich« 
+
+„Mein liebes Kind! wie denkst du jetzt? 
+Treibst du noch immer aus Neigung 
+Die Politik? Zu welcher Parthey 
+Gehörst du mit Ueberzeugung ?*' 
+
+Die Apfelsinen, lieb Mütterlein, 
+Sind gut, und mit wahrem Vergnügen 
+Verschlucke ich den süssen Saft, 
+Und ich lasse die Schaalen liegen. 
+
+
+
+] 
+
+
+
+€ » p a t XXI. 
+
+
+
+Die Stadt, zur Hälfte abgebrannt, 
+Wird aufgebaut allmählig; 
+Wie'n Pndel, der halb geschoren ist, 
+Siet Hamburg aus, trübselig. 
+
+Gar manche Gassen fehlen mir, 
+Die ich nur ungern yermisse — 
+Wo ist das Haus, wo ich geküsst 
+Der Liel^e erste Küsse? 
+
+Wo ist die Druckerey, wo ich 
+Die Reisebilder druckte? 
+Wo ist der Austerkeller, wo ich 
+Die ersten Austern schluckte? 
+
+Und der Dreckwall, wo ist der Dreckwall hin? 
+Ich kann ihn vergeblich suchen! 
+Wo ist der Pavillon, wo ich 
+Gegessen so manchen Kuchen? 
+
+
+
+76 
+
+
+
+Wo ist das Rathhaus, worin der Senat 
+Und die Bürgerschaft gethronet? 
+Ein Baub der Flammen! Die Flamme hat 
+Das Heiligste nicht verschonet. 
+
+Die Leute seufzten noch vor Angst, 
+Und mit wehmüth'gem Gesichte 
+Erzählten sie mir vom grossen Brand 
+Die schreckliche Geschichte: 
+
+„Es brannte an allen Ecken zugleich, 
+Man sah nur Bauch und Flammen I 
+Die Kirchenthürme loderten auf 
+Und stürzten krachend zusammen. 
+
+„Die alte Börse ist verbrannt, 
+Wo unsere Väter gewandelt, 
+Und mit einander Jahrhunderte lang 
+So redlich als möglich gehandelt. 
+
+„Die Bank, die silberne Seele der Stadt, 
+Und die Bücher wo eingeschrieben 
+Jedweden Mannes Banko-Werth, 
+Gottlob! sie sind uns geblieben! 
+
+„Gottlob! man koUektirte für nns 
+Selbst bei den fernsten Nazionen — 
+Ein gutes Geschäft — die Collekte betrag 
+Wohl an die acht Millionen. 
+
+
+
+77 
+
+„Aus allen Ländern floss das Geld 
+In unsre offnen Hände, 
+Anch Victualien nahmen wir an, 
+Verschmähten keine Spende. 
+
+„Man schickte nns Kleider und Betten genug, 
+Anch Brod und Fleisch und Suppen! 
+Der König von Preussen wollte sogar 
+tTns schicken seine Truppen. 
+
+
+
+„Der materielle Schaden ward 
+Vergütet, das liess sich schätzen — 
+Jedoch den Schrecken, unseren Schreck, 
+Den kann uns niemand ersetzen!'* 
+
+
+
+Aufmunternd sprach ich: Ihr lieben Leut, 
+Ihr müsst nicht jammern und flennen, 
+Troya war" eine bessere Stadt 
+Und musste doch verbrennen. 
+
+Baut Eure Häuser wieder auf 
+Und trocknet Eure Pfützen, 
+Und schafft Euch bess're Gesetze an, 
+Und bess're Feuerspritzen. 
+
+Giesst nicht zu viel Cajenne-Piment 
+
+In Eure Mokturtelsuppen, * 
+
+Auch Eure Karpfen sind Euch nicht gesund, 
+
+Ihr kocht sie so fett mit den Schuppen. 
+
+
+
+i 
+
+
+
+78 
+
+Kalkuten schaden £ach nicht viel 
+Doch hütet Euch vor der Tücke 
+Des Vogels, der sein Ej gelegt 
+In des Bürgermeisters Perücke. 
+
+Wer dieser fatale Vogel ist, 
+Ich brauch es Euch nicht zu sagen -^ 
+Denk' ich an ihn, so dreht sich herum 
+Das Essen in meinem Magen. 
+
+
+
+Hoch mehr voritodert als die Stadt 
+Sind mir di« Mengchen erscbiene», 
+Sie geh'n bo betrübt und gebrochen herum, 
+Wie wandelnde Bninen. 
+
+Die mageren sind noch dünner jetzt, 
+Noch fetter sind die feisten, 
+Die Kinder sind all, die Alten sind 
+Kindisch geworden, die meisten. 
+
+Gar manche, die ich als Kilher verlieäs, 
+Fand ich ala Ochsen wieder; 
+Gar mancbes kleine Gänschen ward 
+Zur Gans mit stolzem Gefieder. 
+
+Die alle Gndel fand ich geschminkt 
+Und geputzt wie eine Srrene; 
+Hat schwarze Locken sich angeschafft 
+Und blendc-nd weisse Zähne. 
+
+
+
+80 
+
+
+
+Am besten hat sich konservirt 
+
+Mein Freund der Papierverkäufer; 
+
+Sein Haar ward gelb und umwallt sein Haupt, 
+
+Siebt aus wie Johannes der Täufer. 
+
+Den * * * * den sah ich nur von fern, 
+Er huschte mir rasch vorüber; 
+Ich höre, sein Geist ist abgebrannt 
+Und war versichert bey Biber. 
+
+Auch meinen alten Censor sah 
+Ich wieder. Im Nebel, gebücket, 
+Begegnet* er mir auf dem Gänsemarkt, 
+Schien sehr darnieder gedrücket. 
+
+Wir schüttelten uns die Hände, es schwamm 
+Im Auge des Manns eine Thränc. 
+Wie freute er sich, mich wieder zu sehn ! 
+Es war eine rührende Scene. — 
+
+Nicht alle fand ich. Mancher hat 
+Das Zeitliche gesegnet. 
+Ach! meinem Gumpelino sogar 
+Bin ich nicht mehr begegnet. 
+
+Der Edle hatte ausgehaucht 
+
+Die grosse Seele so eben. 
+
+Und wird als verklärter Seraph jetzt 
+
+Am Throne Jehovahs schweben. 
+
+
+
+81 
+
+Vergebens itochu ich überall 
+Den Grammen Adonis, der Tutam 
+Und Nachtgeschin Von Poraelan 
+Feil bot in Himbnrgi GaoMn. 
+
+SsTraa, der (reae Fadel, ist todt. 
+Ein grosser Verlost! Ich Wette, 
+Dass Csjnpe lieber ein ganzes Schock 
+Schriftsteller rerloTcn hätte. 
+
+Die Popalazion des Hambniger Staats 
+Besteht, seit Menschengedenken, 
+Ans Jnden und Christen; es pflegen anch 
+Die letztren oichi viel in verschenken. 
+
+Die Christen sind alle siemlicb gut, 
+Anch essen sie gut zn Mittag, 
+Und ihre Wechsel bezahlen sie prompt, 
+Hoch Tor dem letzten Bespittag. 
+
+Die Juden theiten sich wieder ein 
+In Ewe; verschiedne Fartheyen; 
+Die Alten gehn in die Srnagog" 
+Und in den Tempel die Neuen. 
+
+Die Neuen essen SchweineSeiscfa, 
+Zeigen sich widersetiig, 
+Sind Demokraten; die Alteo sind 
+Vielmehr aristokrätsig. 
+BsnrB'B OmitMand. t 
+
+
+
+82 
+
+
+
+Ich liebe die Alten, ich liebe die Nen'n 
+Doch schwör ich, beim ewigen Gotte, 
+Ich liebe gewisse Fischchen noch mehr, 
+Man heisst sie geräucherte Sprotte. 
+
+
+
+Caput XXlll. 
+
+
+
+Als Bepublik war Hamburg nie 
+
+So gross wie Venedig und Florenz^ 
+
+Doch Hamburg hat bessere Austern; man speis 
+
+Die besten im Keller von Lorenz. 
+
+Es war ein schöner Abend, als ich 
+
+Mich hinbegab mit Campen; 
+
+Wir wollten mit einander dort 
+
+In Rheinwein und Austern schlampampen. 
+
+Auch gute Gesellschaft fand ich dort, 
+Mit Freude *sah ich wieder 
+Manch alten Genossen, z. B. Chaufepi^, 
+Auch manche neue ßrüder. 
+
+Da war der Wille, dessen Gesicht 
+£in Stammbuch, worin mit Hieben 
+Die akademischen Feinde sich 
+Recht leserlich eingeschrieben. 
+
+
+
+84 
+
+
+
+Da war der Fnck9, ein blinder Heid, 
+Und persönlicher Feind des Jehovah, 
+Glaubt nur an Hegel und etwa noch 
+An die Venus des Canova. 
+
+Mein Campe war Amph3rtrio 
+Und lächelte vor Wonne; 
+Sein Auge stralte Seligkeit, 
+Wie eine verklärte Madonne. 
+
+Ich ass und trank« mit gutem Ap'iit, 
+Und dachte in iiieinem Gemüthe: 
+ffDer Campe ist wirklich ein grosser llann, 
+Tst aller Verleger Bliithe. 
+
+„Gin andrer Verleger hatte mich 
+Vielleicht rerhnngem lassen. 
+Der aber giebt mir zu ^nken sogar; 
+Werde ihn nietaals verlasseft. 
+
+„loh danke deib Schöpfer in der Höh', 
+Der diesen Soft der Heben' 
+Erschuf, und zum Verleger mir 
+Den Julius Oatnpe gegeben! 
+
+„Tch danke dem Schöpfer in der Höh', 
+Der, durch sein grosses Werde, 
+Die Austern erschaffen in der See 
+Und den Rheinwein auf der Ektte! 
+
+
+
+
+
+
+85 
+
+„Der snch Citroaen WMbHn Vieu, 
+Die Auitarn xu bethaoeD -- 
+Kall Itue mich, Vater, dieie Nacht 
+Du Boten irut verdniMil" 
+
+Der Rheiawoii) Btüamt mioh inunsF waioh 
+Ucd 15st jednedes ZerwflrfQiss 
+Id mainet Bnut, entttändet darinn 
+Der MeDMheDlIeb« Bedarbiu- 
+
+Ea treibt mich ans dnn Zimmer hinaDs, 
+Ich muBs in den Slrassen schlendern ; 
+Die Seele sucht eine Seele and späh't 
+Nach zärtlich weisaen Oewändern. 
+
+In solchen Momenten lerfliesse ich fast 
+Vor Wehmuth und vor Sehnen; 
+Die Katzen scheinen mir alle gran. 
+Die Weiber alle Helenen. 
+
+Und als ich auf die Drehbahn kam, 
+Da sah leb im Monden Bchimio er 
+Ein hehres Weib, ein wanderbar 
+HocbbnaigeB Frane 
+
+
+
+Ihr Antlitz war rund und kerngeannd, 
+nie Angen vie blaae Turlioaeen, 
+Die Wangen wie Rosen, wie Kirschen der Ml 
+Auch etwa« rüihlich die Nase. 
+
+
+
+Uua^' 
+
+
+
+86 
+
+
+
+Ihr Hanpt bedeckte eine Mutz' 
+Von weissem gesteiftem Linnen, 
+Gefaltet wie eine Mauerkron', 
+Mit Thfirmchen und zackigen Zinnen. 
+
+Sie trag eine weisse Tunika, 
+
+Bis an die Waden reichend. 
+
+Und welche Waden I Das Fassgestell 
+
+Zwey dorischen Säulen gleichend. 
+
+Die weltlichste Natürlichkeit 
+Könnt man in den Zügen lesen; 
+Doch das übermenschliche Hintertheil 
+Yerrieth ein höheres Wesen. 
+
+Sie trat zu mir heran und sprach: 
+„Willkommen an der Elbe, 
+Nach dreyzehnjähr'ger Abweseuheit — 
+Ich sehe du bist noch derselbe! 
+
+„Du suchst die schönen Seelen vielleicht, 
+Die dir so oft begegen't 
+Und mit dir geschwärmt die Nacht hindurch. 
+In dieser schönen Gegend. 
+
+„Das Leben verschlang sie, das Ungethüm, 
+Die hundertköpfige Hyder; 
+Du findest nicht die alte Zeit 
+Und ,die Zeit<;enössinnen wieder! 
+
+
+
+87 
+
+„Da findeal die holden Blnmen nicht mehr, 
+Die das junge Herz Terg;älter[; 
+Hier blühten sie — jetzt Bind sie verweliil. 
+Und der Starm hat gie entblättert. 
+
+„Verwelkt, entblättert, zertreteii sogar 
+Von rohen SchicksalsfUaaen — 
+Uein Freund, du ist anf Erden das Loos 
+Von Allem Schönen and Süsseal" 
+
+Wer bist dn? — rief ich — da schsost mich ai 
+Wie'n Traam ans alten Zeilen — 
+
+Wo wohnst da, grassea Franenbild? 
+Und darf ich dich begleiten? 
+
+Da lächelte das Weib nnd gpr&ch: 
+„Du irrst dich, ich bin eine feine, 
+Anständ'ge, moralische Person; 
+Du irrst dich, ich hin nicht so Eine. 
+
+„Ich bin nicht so eine kleine Mamsell, 
+
+So eine welsche Lorettinu — 
+Denn wisse: ich bin Hammonie, 
+Hamburgs beschützende Göttinn ! 
+
+„Du stützest und erschreckst sogar, 
+Da sonst so muthiger Sänger! 
+Willst dn mich noch begleiten jetzt? 
+Wohlan, so lög're nicht länger." ^ 
+
+
+
+88 
+
+
+
+Ich aber lachte laut und rief: 
+Ich folge auf der Stelle — 
+Schrat' du voran, ich folge dir, 
+Und ging* e» in die HÖUel 
+
+
+
+Wie ich die en^ Sahltrepp' hinauf 
+Gekommen, ich kann es nicht sagen; 
+Eh hahen unsichtbare Qeieter mich 
+Vielleicht hinaufgetragen. 
+
+Eier, in HamtnoniHB Kämmerlein, 
+Verfloeeen mir schnell die Stunden. 
+Die OSctinn gestand die Sympathie, 
+Die sie immer Kr mich empfinden. 
+
+
+
+„Siehst du" — aprach sie — .,in froherer Zeit 
+
+War mir am mdsten tbeaer 
+
+Der Sänger, der den^Mesaiae besang 
+
+Aaf seiner fVommen Leyer. 
+
+„Dort enf der Commode steht noch jelit 
+Die Büste von meinem Klopstock, 
+Jedoch seit Jahren dient sie mir ' 
+Sat noch als Raabeiikopfslock. 
+
+
+
+90 
+
+
+
+„Da bist mein Liebling jetzt, es hängt 
+Dein Bildniss zn Hänpten des Bettes; 
+Und siebst du, ein fViscber Lorbeer umkränzt 
+Den Nahmen des holden Portraites. 
+
+,,Nnr dass du meine Söhne so oft 
+Genergelt, ich mnss es gestehen, 
+Hat mich zuweilen tief verletzt; 
+Das darf nicht mehr geschehen. 
+
+„Es hat die Zeit dich hoffentlich 
+Von solcher Unart geheilet, 
+Und dir eine grössere Toleranz 
+Sogar für Narren ertheilet. 
+
+„Doch sprich, wie kam der Gedanke dir 
+Zu reisen nach dem Norden 
+In solcher Jahrzeit? Das Wetter ist 
+Schon winterlich geworden!" 
+
+O, meine Göttin! — erwiederte ich — 
+£s schlafen tief im Grunde 
+Des Menschenherzens Gedanken, die oft 
+Erwachen zur unrechten Stunde. 
+
+Es ging mir äusserlich ziemlich gut. 
+Doch innerlich war ich beklommen. 
+Und die Beklemm niss täglich wuchs — 
+Ich hatte das Heimweh bekommen. 
+
+
+
+91 
+
+Die soDBt so leichte rronzÖsUche Lnft, 
+Sie ÜDg mich an xa drUcken, 
+Ich muMte Ätbem schöpfea hier 
+In DenUchland, um nicht zu ersticken. 
+
+Ich sehnte mich nach TorTgemch, 
+Nach deutschem Tabaksdampfei 
+Es bebte mein Foss vor Ungeduld, 
+Dass er dentschen Boden BtampFe. 
+
+Ich senkte des Nachts, nnd sehnte mich, 
+Daas ich sie vriedersähe, 
+Die alte Fraa, die am Datnmlbor wohnt; 
+Das Lotlchen wohnt in der Nähe. 
+
+Auch jenem edlen allen Herrn, 
+
+Uer immer mich ausgescholien 
+
+Und immer grossmüthig beschützt, auch ihm 
+
+Hat mancher Seufzer gegolten. 
+
+Ich wollte wieder aas seinem Mund 
+
+Vernehmen den „dummen Jungenf 
+Da« hat mir immer wie Mosih 
+Im Herzen nachgeklungen. 
+
+Ich lehnte mich nach dem blauen Rauch, 
+Der aufsteigt aus deutschen Seh oru sie inen. 
+Nach niedersächsiachen Nachtigall 'n. 
+Nach stillen Buche nh einen. 
+
+
+
+
+92 
+
+
+
+Ich sehnte mich nach den Plätzen sogar, 
+Nach jenen Leidensstaeionen, 
+Wo ich geschleppt das Jugendkrens 
+Und meine Dornenkronen. 
+
+Ich wollte wdnen wo ich einst 
+Geweint die hittersten Thränen — 
+Ich glaabe Vaterlandsliebe nennt 
+Man dieses thörigte Sehnen. 
+
+Ich spreche nicht gern davon; es ist 
+Nar eine Krankheit im Grande. 
+Verschämten Gemüthes, verberge ich stets 
+Dem Fubliko meine Wände. 
+
+Fatal ist mir das Lampenpack, 
+Das, am die Herzen za rühren, 
+Den Fatriotismas trägt znr Schaa 
+Mit allen seinen Geschwüren. 
+
+Schamlose schäbbige Bettler sind's, 
+Almosen wollen sie haben — 
+Ein'n Pfennig Popularitöt 
+Für Menzel and seine Schwaben! 
+
+» 
+
+O meine Gottin, da hast mich hent 
+In weicher Stimmung gefanden; 
+Bin etwas krank, doch pfleg* ich mich, 
+Und ich werde bald gesunden.* 
+
+
+
+i> 
+
+
+
+93 
+
+Ja ich hin krank, ud() du könntest mir 
+
+Die Seele sehi erfriscben 
+
+Darcb eine gute Tasse Thee; 
+
+Dn mtust ihn mit Bnm veTmischen. 
+
+
+
+i 
+
+
+
+Caput XX\. 
+
+
+
+Die Göttin hat mir Thee gekocht 
+Und Bum hineingegossen; 
+Sie seiher aber hat den Rum 
+Ganz ohne Thee genossen. 
+
+An meine Schulter lehnte sie 
+
+Ihr Haapt, (die Mauerkrone, 
+
+Die Mütze, ward etwas zerknittert davon) 
+
+Und sie sprach mit sanftem Tone: 
+
+,^ch dachte manchmal mit Schrecken dran, 
+
+Dass du in dem sittenlosen 
+
+Paris so ganz ohne Aufsicht lehst, 
+
+Bei jenen frivolen Franzosen. 
+
+„Da schlenderst dort hemm, und hast 
+Nicht mahl an deiner Seite 
+Einen treuen deutschen Verleger, der dich 
+Als Mentor warne und leite. 
+
+
+
+95 
+
+„Und die VerfÜhruDg ist dort so gross, 
+Dort giebt ea so viele Sylphiden, 
+Die angesnnd, und gar zu leicht 
+Terliert maJt den Seelenfrieden. 
+
+„Geh' nicht zurück und bleib' bei nus; 
+Hier berrechea noch Zacbt aud Sitle, 
+und mftuches stille Vergnügen blüht 
+Auch hier, in unserer Mitt«. 
+
+„Bleib' bei uns in Deutschland, es irij'd dir hier 
+Jetzt beeser als eh'mals munden j 
+Wir schreiten fort, du hast gewiss 
+Den Fortschritt selbst gefnuden. 
+
+„Auch die Censtir ist nicht mehr streng, 
+Hofimann wird älter und milder, 
+Und streicht nicht mehr mit Jugendzoni 
+Dir deine Reisebilder. 
+
+
+
+„Du selbst bist älter und milder jetzt, 
+Wirst dich in manches schicken, 
+Und wirst sogar die Vergangenheit 
+In besserem Lichte erblicken. 
+
+„Ja, da«B es uns früher so schrecklich 
+In Deutschland, ist Uebertreibnng ; 
+Man konnte entrinn eu der Kuechtschal^ 
+In Bum, durch Selbatentleibung. 
+
+
+
+
+96 
+
+
+
+,fG«dankenfreihcit genoms daft Vdlk, 
+Sie war flir die grosBen Massen» 
+Beschränkung traf nur die geringe Zahl 
+Derjenigen, die drucken lassen. 
+
+^jGesetelose Willkür herrschte nie, 
+Dem schlimmsten Demagogen 
+Ward niemals ohne Urtheilspruch 
+Die Staatskokarde entzogen. 
+
+„So ühel war ee in Deatsehlaad hie^ 
+Trotz aller Zeitbedrängniss -^ 
+Glanb* mir, verhungert ist nie ein MiSiMch 
+In einem deutschen Gefängniw. 
+
+„Ss blithte in der Vergangenheit 
+So manche atkoae Erscheinöng 
+Des Glaubens und der Gemüthlichkeit; 
+Jetzt herrscht nur Zw^fitl, Verneinung* 
+
+„Die praktische äussere Freäieit wird einst 
+Das Ideal vertilgen, 
+Das wir im Busen getragen — es war 
+So rein wie der Traum der Liljenl 
+
+
+
+„Auch unsre schone Poesie 
+Erlischt, sie ist schon ein wenig 
+Erloschen; mit anderen Königen stirbt 
+Auch Freiligraths Mohrenk^nig. 
+
+
+
+97 
+
+„Der Enkel wird essen nnd trinken genug, 
+Doch nicht in beschaalicher Stille; 
+Be poltert heran ein Spektakelstfick, 
+Zn Ende geht die Idylle. 
+
+„O, könntest da schweigen, ich würde dir 
+Das Bncb des SchickBals entsi^^ln, 
+Ich liesae dir spätere Zeiten aeh'n 
+In meinen Zaaberspiegeln. 
+
+„Was ich den sterblichen Menschen nie 
+Gezeigt, ich möcht es dir zeigen: 
+Die Zakanft deines Vaterlands — 
+Doch acht dn kannst nicht schweigenl" 
+
+Mein Gott, o Göttin! — rief ich entzückt — 
+Das wäre mein grösstea VergnUgen, 
+Lass mich das kün^ge Dentschland sehn — 
+Ich bin ein Mann nnd verschwi^en. 
+
+
+
+Ich will dir schwören jeden Eid, 
+Den da nar magst begehren, 
+Man Schweigen zn rerbüi^n dir - 
+Sftg an, wie soll ich schwören ? 
+
+Doch jene erwiederte: „Schwöre mii 
+In Vater Abrahams Weise, 
+Wie er Bliesem schwören liess. 
+Als dieser sich gab aur die Reise. 
+lE'B BiiiliMimi, 
+
+
+
+i 
+
+
+
+98 
+
+
+
+^yHeb* «nf das GewftDd und lege die Hand 
+Hier vnten an meine HüfteD, 
+Und schwröre mir VerAchwiegenheit 
+In Eeden und in Schriften!" 
+
+Ein feierlicher Moment 1 Ich war 
+Wie aAgeweht vom Hauche 
+Der Vorzeit, als ich schwur den Eid, 
+Nach uraltem Krssväterbrauche. 
+
+Ich hob das Gew«ind der GrÄttin auf, 
+Und legte an ihre Hüften 
+Die Hand, gelobend Verschwiiegenfaeit 
+In Beden und in SohrÜten. 
+
+
+
+Caput XXVI. 
+
+
+
+Die Wangen der Göttinn glühten so roth, 
+(Ich glaube in die Krone 
+Stieg ihr der Ram) und sie sprach za mir 
+In sehr wehmüthigem Tone: 
+
+
+
+„Ich werde alt. Geboren bin ich 
+Am Tage von Hambnrgs Begründang. 
+Die Matter war Schellfischkoniginn 
+Hier an der Elbe Mündang. 
+
+
+
+„Mein Vater war ein grosser Monarch, 
+Carolas Magnus geheissen, 
+Er war noch m*dcht*ger und kluger sogar 
+Als Friedrich der grosse von Preussen. 
+
+„Der Stuhl ist zu Aachen, auf welchem er 
+Am Tage der Krönung ruhte; 
+Den Stuhl worauf er sass in der Nacht, 
+Den erbte die Mutter, die gute. 
+
+
+
+100 
+
+^Die Mutter hinterliess ihn mir, 
+Ein Möbel von scheinlosem Aenssern, 
+Doch böte mir Rothschild all' sein Geld, 
+Ich würde ihn nicht veränssem. 
+
+„Siehst da, dort in dem Winkel steht 
+Ein alter Sessel, zerrissen 
+Das Leder der Lehne, von Mottenfrass 
+Zernagt das Polsterkissen. 
+
+„Doch gehe hin and hebe auf 
+
+Das Kissen von dem Sessel, 
+
+Da schaast eine runde Oe£fnung dann, 
+
+Darunter einen Kessel — 
+
+
+
+„Das ist ein Zauberkessel worin 
+
+Die magischen Kräfte brauen, 
+
+Und steckst du in die Hündang den Kopf, 
+
+So wirst da die Zukunft schauen — 
+
+
+
+„Die Zukunft Deutschlands erblickst du hier. 
+Gleich wogenden Phantasmen, 
+Doch schandre nicht, wenn aus dem Wust 
+Aufsteigen die Miasmen!" 
+
+Sie sprach's und lachte sonderbar. 
+Ich aber Hess mich nicht schrecken. 
+Neugierig eilte ich den Kopf 
+In die furchtbare Bündung zu stecken. 
+
+
+
+101 
+
+Was ich gesehn, verrathe ich nicht, 
+Ich habe zn schweigen versprochen, 
+Erlaubt ist mir zu sagen kaum, 
+O, Gott! was ich gerochen! 
+
+Ich denke mit Widerwillen noch 
+An jene schnöden, verfluchten 
+Vorspielgerüche, das schien ein Gemisch 
+Von altem Kohl und Juchten. 
+
+Entsetzlich waren die Düfte, o Gott! 
+
+Die sich nachher erhüben; 
+
+Es war als fegte man den Mist 
+
+Aus sechs und dreissig Gruben. 
+
+Ich weiss wohl was Saint-Jnst gesagt 
+Weiland im Wohlfahrtsausschuss : 
+Man heile die grosse Krankheit nicht 
+Mit Rosenöl und Moschus — 
+
+Doch dieser deutsche Zukunftsdufi 
+
+Mocht alles übetragen 
+
+Was meine Nase je geahnt — 
+
+Ich könnt es nicht länger ertragen 
+
+Mir schwanden die Sinne, und als ich aufschlug 
+Die Augen, sass ich an der Seite 
+Der Göttin noch immer, es lehnte mein Haupt 
+An ihre Brust, die breite. 
+
+
+
+102 
+
+Es blitzte ihr Bück, es glühte ihr Mund, 
+Es zuckten die Nüstern der Nase, 
+Bachantisch nmschlting sie den Dichter und sang 
+Mit schaaerlieh wilder Extase: 
+
+„Bleib bei mir in Hamburg, ich liebe dich, 
+Wir wollen trinken und essen 
+Den Wein und die Austern der Gegenwart, 
+Und die dunkle Zukunft vergessen. 
+
+„Den Deckel darauf! damit uns nicht 
+Der Missduft die Freude rertrübet — 
+Ich liebe dieh, wie je ein Weib 
+Einen deutschen Poeten geliebet! 
+
+„Ich küsse dich, und ich fühle wie mich 
+
+Dein Genius begeistert; 
+
+Es hat ein wunderbarer Bausch 
+
+Sich meiner Seele bemeistert. 
+
+• 
+
+„Mir ist, als ob ich auf der Strass' 
+Die Nachtwächter singen hörte — 
+Es sind Hymeneen, Hochzeitmusik, 
+Mein süsser Lustgefabrte ! 
+
+„Jetzt kommen die reitenden Diener auch, 
+Mit üppig lodernden Fackeln, 
+Sie tanzen ehrbar den Fackeltanz, 
+Sic springen und hüpfen und wackeln. 
+
+
+
+103 
+
+„Es kommt der hoch- und wohl weise Senat, 
+Es kommen die Oberalten; 
+Der Bürgermeister räuspert sich 
+Und will eine Rede halten. 
+
+„In glänzender Uniform erscheint 
+Das Corps der Diplomaten; 
+Sie gratuliren mit Vorbehalt 
+Im Namen der Nachbarstaaten. 
+
+„Es kommt die geistliche Depntazion^ 
+Rabiner und PastÖre — 
+Doch ach! da kommt der Hoffmann auch 
+Mit seiner Censorscheere! 
+
+„Die Scheere klirrt in seiner Hand, 
+
+Es rückt der wilde Geselle 
+
+Dir auf den Leib — Er schneidet in*s Fleisch 
+
+Es war die beste Stelle." 
+
+
+
+y 
+
+
+
+Caput XXVU. 
+
+
+
+Was sich in jener Wundernacht 
+Des Weitem zugetragen, 
+Erzähl' ich Each einandermahl, 
+In warmen Sommertagen. 
+
+Das alte Geschlecht der Hencheley 
+Verschwindet Gott sey Dank heut, 
+Es sinkt allmählig in's Grab, es stirbt 
+An seiner LügCDkrankheit. 
+
+Es wächst heran ein neues Geschlecht, 
+Ganz ohne Schminke und Sünden, 
+Mit freien Gedanken, mit freier Lust — 
+Dem werde ich Alles verkünden. 
+
+Schon knospet die Jugend, welche versteht 
+Des Dichters Stoljs und Güte, 
+Und sich an seinem Herzen wärmt, 
+An seinem Sonnengemüthe. 
+
+
+
+105 
+
+Mein Hen ist fiebeiid wie das lidit, 
+Und rein und keosdi wie das Fener; 
+Die edelBten Graräen haben gesummt 
+Die Saiten meiser Lejer, 
+
+Es ist diesdbe Leyer, die einst 
+Mein Vater liess ertonai. 
+Der selige Herr Aristopbaoes, 
+Der Liebling dtx Kamonea. 
+
+Es ist die Leyer, woranf er einst 
+Den Paistecerofi besnngen. 
+Per nm die Basfleia gefreyt. 
+Mit ihr sich emporgeschwungen. 
+
+Im letzten Capitel hab' ich yersncht 
+Ein bischen nachsoahmen 
+Den Schluss der „Vogel", die sind gewiss 
+Das beste von Vaters Dramen. 
+
+Die „Frosche" sind anch vortrefiUch. Man giebt 
+
+In deutscher Uebersetznng 
+
+Sie jetzt auf der Bühne Ton Berlin, 
+
+Zu königlicher Ergetznng. 
+
+Der König liebt das Stack. Das zeugt 
+Von gutem antiqnen Gescbmacke; 
+Den alten amüsirte weit mehr 
+Modernes Froscbgeqaacke. 
+
+
+
+y 
+
+
+
+» 
+
+
+
+106 
+
+Der König liebt das Stück. Jedoch 
+War' noch der Aator am Leben, 
+Ich riethe ihm nicht sich in Person 
+Nach Preussen zu begeben. 
+
+Dem wirklichen Artstophanes, 
+Dem ginge es schlecht, dem Avmen; 
+Wir würden ihn bald begleitet sehn 
+Mit Chören von Gvnsd'armep. 
+
+Der Pöbel bekam' Erlambniss bald 
+Zu schimpfen statt au wedeln; 
+Die Polizei erhielte Befehl' 
+Zu fahnden auf den Edeln. 
+
+O König! Ich meine es gnt mit dir, 
+Und will einen Batfa dir geben: 
+Die todten Dichter, verehre sie nur, 
+Doch schone die da leben. 
+
+Beleidige lebendige Dichter nicht, 
+Sie haben Flammen und Waiffen, 
+Die furchtbarer sind als Jovis Blitz, 
+Den ja der Poet erschaffen. 
+
+• 
+
+Beleid*ge die Götter, die alten und nen*n, 
+Des ganzen Olymps Gelichter, 
+Und den höchsten JehoTah obendrein — 
+Beloid'ge nur nicht den Dichter? 
+
+
+
+107 
+
+Die Grötter bestrafen freilich sehr hart 
+Des Menschen Missethaten, 
+Das Höllenfeaer ist ziemlich heiss, 
+Dort moss man schmoren und braten — 
+
+Doch Heilige giebt es, die ans der Glut 
+Losbeten den Sünder; dnrch Spenden 
+An Kirchen nnd Seelenmessen wird 
+Erworben ein hohes Verwenden. 
+
+Und am Ende der Tage kommt Christus herab 
+Und bricht die Pforten der Hölle; 
+Und hält er anch ein strenges Gericht, 
+Entschlüpfen wird mancher Geselle. 
+
+Doch giebt es Höllen aus deren Haft 
+Unmöglich jede Befreiung; 
+Hier hilft kein Beten, ohnmächtig ist hier 
+Des Welterlosers Verzeihung. 
+
+Kennst du die Holle des Dante nicht. 
+Die schrecklichen Terzetten? 
+Wen da der Dichter hineingesperrt, 
+Den kann kein Gott mehr retten. 
+
+Kein Gott, kein Heiland, erlöst ihn je 
+Aus diesen singenden Flammen! 
+Nimm dich in Acht, dass wir dich nicht 
+Zu solcher Hölle yerdammen. 
+
+
+
+Atta Troll. 
+
+
+
+Ein Sommemachtstraum. 
+
+
+
+> 
+
+^ 
+
+
+
+Atta Troll 
+
+
+
+Ein Sommemachtstraum. 
+
+
+
+von 
+
+
+
+Heinrich Heine. 
+
+
+
+Amsterdam, 
+
+M. H. BINGEB & SOHNS. 
+1857. 
+
+
+
+Motto: 
+
+Aus dem schimmornden, weissen Zelte hervor 
+Tritt der schlachtgerttstete, fürstliche Mohr; 
+So tritt ans schimmernder Wolken Thor 
+Der Mond, der verfinsterte, dunkle, hervor. 
+
+'Der MohrenlOrat Y. Ferd. Frciligrath.) 
+
+
+
+Druck von M. U. Binger u. Söhne. 
+
+
+
+Vorrede. 
+
+
+
+Der Atta Troll entstand im Spätherbste 1841 und 
+ward fragmentarisch abgedruckt in der „Eleganten 
+Welt," als mein Freund Heinrich Laube wieder die 
+Bedakzion derselben übernommen hatte. Inhalt und 
+Zuschnitt des Gedichtes mussten den zahmen Bedürf- 
+nissen jener Zeitschrift entsprechen; ich schrieb vor- 
+läufig nur die Capitel, die gedruckt werden konnten, 
+und auch diese erlitten manche Variante. Ich hegte 
+die Absicht in späterer Vervollständigung das Ganze 
+herauszugeben, aber es blieb immer bei dem lobens- 
+werthen Vorsatze, und wie allen grossen Werken der 
+Deutschen, wie dem Cöllner Dome, dem Schelling'- 
+
+
+
+n YOKREDE. 
+
+sehen Gotte, der preussischen Constitnzion &c. ging es 
+auch dem Atta Troll — er ward nicht fertig. In sol- 
+cher unfertigen Gestalt, leidlich aufgestützt und nnr 
+äasserlich gerundet, übergehe ich ihn heute dem Pn- 
+bliko, einem Drange gehorchend, der wahrlich nicht 
+Ton innen kommt. 
+
+Der Atta Troll entstand, wie gesagt, im Spätherb- 
+ste 1841, zu einer Zeit, als die grosse Erneute, wo 
+die verschiedenfarbigsten Feinde sich gegen mich zu- 
+sammengerottet, noch nicht ganz ausgelärmt hatte. Es 
+war eine sehr grosse Emeute, und ich hätte nie ge- 
+glaubt, dass Deutschland so viele faule Aepfel her- 
+vorbringt, wie mir damals an den Kopf flogen! Unser 
+Vaterland ist ein gesegnetes Land; es wachsen hier 
+freilich keine Citronen und keine Goldorangen, auch 
+krüppelt sich der Lorbeer nur mühsam fort auf deut- 
+schem Boden, aber faule Aepfel gedeihen bei uns in 
+erfreulichster Fülle, und alle unsere grossen Dichter 
+wussten davon ein Lied zu singen. Bei jener Emente, 
+wo ich Krone und Kopf verlieren sollte, verlor ich 
+keins von beiden, und die absurden Anschuldigungen, 
+womit man den Pöbel gegen mich aufhetzte, sint seit- 
+dem, ohne dass ich mich zu einer Widerrede hersb- 
+znlaflsen brauohte, aufs kläglichste verschollen. Die 
+
+
+
+V O B R B D B. III 
+
+Z^t übernahm meine Becfatfertigung and auch die 
+respectiten dentschen Begierangen, ich moss es dank- 
+bar anerkennen, haben sich in dieser Beziehung ter« 
+dient um mich gemacht Die Verhaftsbefehle, die von 
+der dentflohen Grrense an, anf jeder Station, die Heim- 
+kehr des Dichters mit Sehnsncht erwarten, werden 
+gehörig renovirt, jedes Jahr, nm die heilige Weih- 
+nachtzeit, wenn an den CbristMamen die gemüthlichen 
+Lämpchen funkeln« Wegen solcher Unsicherheit der 
+Wege, wird mir das Beisen in den dentschen Oaaen 
+schier rerleidet, ich feyere desshalb meine Weihnach- 
+ten in der Fremde, nnd werde auch in der Fremde, 
+im Exil, meine Tage beschliessen. Die wackern Gim- 
+pen für Licht und Wahrheit^ die mich der Wankel- 
+mtithigkeit und des Enechtsinns beschuldigten, gehen 
+unterdessen im Vaterlande sehr sicher umher, als 
+wohlbestallte Staatsdiener, oder als Wnrdeträger einer 
+Gilde, oder als Stammgäste eines Clubs, wo sie sich 
+des Abends patriotisch erquicken am Bebensafle des 
+Vater Bhein und an meerumschlnngenen scblesswig* 
+holsteinschen Austern. 
+
+Ich habe oben mit besonderer Absicht angedeutet, 
+in welcher Periode der Atta Troll entstanden ist. Da- 
+mals blähte die sogenannte politische Dichtkunst. Die 
+
+
+
+IV YORRBDE. 
+
+Opposizion, wie Rage sagt, verkaufte ihr Leder und 
+ward Poesie. Die Musen bekamen die strenge Weisung, 
+sich hinfuhro nicht mehr müssig und leichtfertig nm- 
+herzutreiben, sondern in vaterländischen Dienst zu tre- 
+ten, etwa als Marketenderinnen der Freiheit oder als 
+Wäscherinuen der christlich germanischen Nazionali- 
+t'ät Es erhub sich im deutschen Bardenhain ganz be- 
+sonders jener vague, unfruchtbare Pathos, jener nutzlose 
+Enthusiasmusdunst, der sich mit Todesverachtung in 
+einen Ocean von Allgemeinheiten stürzte, und mich 
+immer an den amerikanischen Matrosen erinnerte, wel- 
+cher für den General Jackson so überschwänglich 
+begeistert war, dass er einst von der Spitze eines 
+Mastbaums ins Meer hinabsprang, indem er ausrief: 
+„ich sterbe far den General Jackson!*' Ja, obgleich 
+wir Deutschen noch keine Flotte besassen, so hatten 
+wir doch schon viele begeisterte Matrosen, die für den 
+General Jackson starben, in Versen und in Prosa. 
+Das Talent war damals eine sehr missliche Begabung, 
+denn es brachte in den Verdacht der Charakterlosig- 
+keit. Die scheelsüchtige Impotenz hatte endlich, nach 
+tausencyährigen Nachgrübeln, vihre grosse Waffe gefun- 
+den gegen die Uebermüthen des Genius ; sie fand i^un- 
+lieh die Antithese von Talent und Charakter. Es war 
+
+
+
+TOKR£l>S. V 
+
+fast persönlich schmeichelhaft für die grosse Menge, 
+wenn sie behaupten hörte: die braven Leote seyen 
+freilich in der Regel sehr schlechte Musikanten, dafür 
+jedoch seyen die gaten Musikanten gewöhnlich nichts 
+
+• 
+
+weniger als brave Leute, die Brarheit aber sey in der 
+Welt die Hauptsache, nicht die Musik. Der leere Kopf 
+pochte jetzt mit Fug auf sein volles Herz, und die 
+Gesinnung war Trumpf. Ich erinnere mich eines da- 
+maligen Schriftstellers, der es sich als ein besonderes 
+Verdienst anrechnete, dass er nicht schreiben könne; 
+für seinen hölzernen Styl bekam er einen silbernen 
+Ehrenbecher. 
+
+Bei den ewigen Gtöttern! damals galt es die unver- 
+änsserlichen Rechte des Geistes zu vertreten, zumal 
+in der Poesie. Wie eine solche Vertretung das grosse 
+Geschäft meines Lebens war, so habe ich sie am al- 
+lerwenigsten im vorliegenden Gedicht ausser Augen 
+gelassen, und sowohl Tonart als Stoff desselben war 
+ein Protest gegen die Plebiscita der Tagestribünen. 
+Und in der That, schon die ersten Fragmente, die 
+vom Atta Troll gedruckt wurden, erregten die Galle 
+meiner Charakterheldenj meiner Römer, die mich nicht 
+bloss der litterarischen, sondern auch der gesellschaft- 
+lichen Reakzion, ja sogar der Verhöhnung heiligster 
+
+
+
+VI T O R R » D E. 
+
+Menschheits-Ideen beschnldigten. Was den Üsthetiflchen 
+Wertfa meines Poems betriiFty so gab ich ihn gern 
+Preiss, wie ich es auch heute noch thne; ich schrieb 
+dasselbe %n meiner eignen Lust nnd Frende, in der 
+grillenhaften Tranmweise jener romantischen Sehnle, 
+wo ich meine angenehmsten Jagendjahre verlebt, nnd 
+znletzt den Schalmeister geprügelt habe. In dieser 
+Beziehung ist mein Gedicht vielleicht verwerflich. 
+Aber du lügst, Bratns, du lügst, Oassins, and anch 
+da lägst, Asinins, wenn Ihr behauptet, mein Spott 
+träfe jene Ideen, die eine kostbare Errungenschaft der 
+Menschheit sind und für die ich selber so viel gestritten 
+nnd gelitten habe. Nein, eben weil dem Dichter jene 
+Ideen in herrlichster Klarheit und Grosse beständig 
+vorschweben, ergreift ihn desto unwiderstehlicher die 
+Lachlust, wenn er sieht, wie roh, plump nnd täppisch 
+von der beschränkten Zeitgenossenschaft jene Ideen 
+anfgei'asst werden können. Er scherzt dann gleichsam 
+üb<yr ihre teniporelle Bärenhant. Es giebt Spiegel, 
+welche so verschoben geschliffen sind, dass selbst ein 
+Apollo sich darin als eine Karikatur abspiegeln moss 
+und uns zum Lachen reitzt. Wir lachen aber alsdann 
+nur über das Zerrbild, nicht über den Gott. 
+Noch ein Wort Bedarf es einer besondem Ver- 
+
+
+
+T O X K B I» K. 
+
+
+
+wafanmg, dM die Pttodia ehies FroHgfath'sehMi 
+Gedichtes, welche ans dem Atta TroO muiebinftl 
+mathwillig henrorkichert, and gleichsam seine komi- 
+sche Unterlage bildet, keineswegs eine Misswfirdigang 
+des Dichters bezweckt? Ich schätze denselben hoch, 
+zumal jetzt, nnd ich zahle ihn la den bedentendstea 
+Dichtern, die seit der JoliasreTolozion in Deutschland 
+anfgetreten sind. Seine erste Gedichtesammlang kam 
+mir sehr spät za Gesicht, nämlich eben zur Zeit als 
+der Atta Troll entstand. £s mochte wohl an meiner 
+damaligen Stimmung liegen, dass namentlich der Moh- 
+renfurst so belustigend auf mich wirkte. Diese Produk- 
+zion wird übrigens als die gelungendste gerühmt. Fttr 
+I<eser, welche diese Produkzion gar nicht kennen — 
+and es mag deren wohl In China und Japan geben, 
+sogar am Niger und am Senegal — für diese bemerke 
+ich, dass der Mohrenkönig, der zu Anfang des Oe* 
+dichtes aus seinem weissen Zelte, wie eine Mondiln* 
+stemiss, hervortritt, auch eine schwarze ileliebte h§* 
+sitzt, über deren dunkles Antlitz die wefssen Srrsiis«' 
+federn nicken. Aber kriegsmuthig rerUUst er »U, m 
+zieht in die Negerschlacht, wo da rasselt 4i« Tr^l»' 
+mel mit Schädeln behangen — aeb! er Mit^ 4i>rl 
+sein schwarzes Waterloo und wird ro« 4^ ««^-i-ai 
+
+
+
+Tm y O K B £ D £. 
+
+an die Weissen verkanft. Diese schleppen den edlen 1 
+Afrikaner nach Europa, und hier finden wir ihn wie- 
+der im Dienste einer hernmziehenden Rentergesell- 
+schaft, die ihm, bei ihren Konstvorstellangen, die tür- i 
+kische Trommel anvertraut hat. Da steht er nun, finster 
+und ernsthaft, am Eingange der Beitbahn und trom- 
+melt, doch während des Trommeins denkt er an seine 
+ehemalige Grössci er denkt daran, dass er einst ein 
+absoluter Monarch war, am fernen, fernen Niger, und 
+dass er gejagt den Löwen, den Tiger — 
+
+„Sein Aage ward nass; mit dumpfem Klang 
+Schlag er das Fell, dass es rasselnd zersprang." 
+
+
+
+Geschrieben zu Paris im Dezember 1846. 
+
+Heinrieh Hein«. 
+
+
+
+l 
+
+
+
+Caput 1. 
+
+
+
+Rings iimragt von danklen Bergen, 
+Die sich trotzig übergipfeln, 
+Und von wilden Wasserstürzen 
+Eingelallet, wie ein Traumbild, 
+
+Liegt im Thal das elegante 
+Canterets. Die weissen Häuschen 
+Mit Baikonen; schone Damen 
+Stehn darauf und lachen herzlich. 
+
+Herzlich lachend schann sie nieder 
+Auf den wimmelnd bunten Marktplatz, 
+Wo da tanzen Bär und Bärinn, 
+Bei des Dudelsackes Klängen. 
+
+Atta Troll und seine Gattinn, 
+Die geheissen schwarze Mumma, 
+Sind die Tänzer, und es jubeln 
+Vor Bewundrung die Baskesen. 
+
+Heimb's Atta Troll. 
+
+
+
+Steif und ernsthaft, mit Grandezza, 
+Tanzt der edle Atta Troll, 
+Doch der zott'gen Ehehälfte 
+Fehlt die Würde, fehlt der Anstand. 
+
+Ja, es will mich schier bedünken, 
+Dass sie manchmal cancanire 
+Und gemüthlos frechen Steisswurfs 
+An die Grand*-Chaumi^re erinn're.. 
+
+Auch der wackre Bärenführer, 
+Der sie an der Kette leitet. 
+Scheint die Immoralität 
+Ihres Tanzes zu bemerken. 
+
+Und er langt ihr manchmal über 
+Ein'ge Hiebe mit der Peitsche, 
+Und die schwarze Mumma heult dann, 
+Dass die Berge wiederhallen. 
+
+Dieser Bärenführer trägt 
+Sechs Madonnen auf dem Spitzhut, 
+Die sein Haupt vor Feindeskugeln 
+Oder Läusen schützen sollen. 
+
+Ueber seine Schulter hängt 
+Eine bunte Altardecke, 
+Die als Mantel sich gebährdet; 
+Drunter lauscht Fistol und Messer. 
+
+
+
+War ein Mönch in seiner Jugend, 
+Später ward er lUlnberhanptmann, 
+Beides zu vereinigen nahm er 
+Endlich Dienste bei Don Carlos. 
+
+Als Don Carlos fliehen musste 
+
+Mit der ganzen Tafelrande, 
+
+Und die meisten Paladine 
+
+Nach honettem Handwerk griffen — 
+
+(Herr Schnapphahnski wurde Autor) 
+Da ward nnser Glaub ensritter 
+Bärenführer, zog durch's Land 
+Mit dem Atta Troll und Mamma. 
+
+Und er lässt die beiden tanzen 
+Vor dem Volke, auf den Märkten; — 
+Aaf dem Markt von Cauterets 
+Tanzt gefesselt Atta Troll! 
+
+Atta Troll, der einst gehaaset, 
+Wie ein stolzer Fürst der Wildniss, 
+Aaf den freien Bergeshöhen, 
+Tanzt im Thal vor Menschenpöbel! 
+
+Und sogar für schnödes Geld 
+Mass er tanzen, er, der weiland, 
+In des Schreckens Majestät 
+Sich 80 welterhaben fühlte! 
+
+
+
+Denkt er seiner Jugendtage, 
+Der verlornen Waldesherrschaft, 
+Dann erbmmmen dankle Lante 
+Ans der Seele Atta Trolls; 
+
+Finster schaut er wie ein schwarzer 
+Freiligr'athscher Mohrenfurst, 
+Und wie dieser schlecht getrommelt, 
+Also tanzt er schlecht yor Ingrimm. 
+
+Doch statt Mitgefühl erregt er 
+
+Nur Gelächter. Selbst Juliette 
+
+Lacht herunter vom Balkone 
+
+Ob den Sprüngen der Verzweiflung. — 
+
+Juliette hat im Busen 
+Kein Gemüth. sie ist Französinn, 
+Lebt nach aussen; doch ihr Aeuss'res 
+Ist entzückend, ist bezaubernd. 
+
+Ihre Blicke sind ein süsses 
+Strahlennetz, in dessen Maschen 
+Unser Herz, gleich einem Fischlein 
+Sich verfängt und zärtlich zappelt. 
+
+
+
+Caput II. 
+
+
+
+Dass ein schwarzer Freiligrilthscher 
+Mohrenfürst sehnsüchtig lospankt 
+Auf das Fell der grossen Trommel, 
+Bis es prasselnd laut entzweispringt: 
+
+Das ist wahrhaft trommelrührend 
+Und auch trommelfellerschütternd — 
+Aber denkt Euch einen Bären, 
+Der sich von der Kette losreisstl 
+
+Die Musik und das Gelächter 
+Sie verstummen, und mit Angstschrei 
+Stürzt vom Markte fort das Volk, 
+Und die Damen sie erbleichen. 
+
+Ja, von seiner Sklavenfessel 
+Hat sich plötzlich losgerissen 
+Atta Troll. Mit wilden Sprüngen 
+Durch die engen Strassen rennend — 
+
+
+
+6 
+
+
+
+(Jeder macht ihm höflich Platz) — 
+Klettert er hinauf die Felsen, 
+Schaut hinunter, wie yerhöhnend, 
+Und verschwindet im Gebirge. 
+
+Auf dem leeren Marktplatz bleiben 
+Ganz allein die schwarze Mumma 
+Und der Bärenführer. Rasend 
+Schmeisst. er seinen Hut zur Erde, 
+
+Trampelt drauf, er tritt mit Füssen 
+Die Madonnen! reisst die Decke 
+Sich vom scheasslich nackten Leib, 
+Flucht und jammert über Undank, 
+
+Ueber schwarzen B&renandank! 
+Denn er habe Atta Troll 
+Stets wie einen Freand behandelt 
+Und im Tanzen unterrichtet. 
+
+Alles hab' er ihm tu danken, 
+Selbst das Leben! Bot man doch 
+Ihm vergebens hundert Thaler 
+Für die Haut des Atta Troll ! 
+
+Auf die arme schwarze Mumma, 
+Die, ein Bild des stummen Grames, 
+Flehend, auf den Hintertatzen, 
+Vor dem Hocherzümten stehn blieb, 
+
+
+
+Fällt des Hocherzürnten Wath 
+Endlich doppelt schwer, er schlägt sie. 
+Nennt sie Eöniginn Christine, 
+Aach Frau Munoz und Putana — — 
+
+Das geschah an einem schönen, 
+Warmen Sommernachmittage, 
+Und die Nacht, die jenem Tage 
+Lieblich folgte war süperbe. 
+
+Ich verbrachte fast die Hälfte 
+Jener Nacht auf dem Balkone. 
+Neben mir stand Juliette 
+Und betrachtete die Sterne. 
+
+Seufzend sprach sie: ach, die Sterne 
+Sind am schönsten in Paris, 
+Wenn sie dort, des Winterabends, 
+In dem Strassenkoth sich spiegeln. 
+
+
+
+Caput III. 
+
+
+
+Traum der Sommeniacht! Phantastisch 
+Zwecklos ist mein Lied. Ja, zwecklos 
+Wie die Liebe, wie das Leben, 
+Wie der Schöpfer sammt der Schöpfang! 
+
+Nur der eignen Lust gehorchend, 
+Gallopirend oder fliet^end. 
+Tummelt sich im Fabelreiche 
+Mein geliebter Pegasus. 
+
+Ist kein nützlich tugendhafter 
+Karrengaol des Bürgerthums, 
+Noch ein Schlachtpferd der Parthey wnth, 
+Das pathetisch stampft und wiehert! 
+
+Goldbeschlagen sind die Hufen 
+Meines weissen Flügelrössleins, 
+Perlenschnüre sind die Zügel, 
+Und ich lass sie lastig schiessen. 
+
+
+
+Trage mich wohin du willst! 
+Ueber luftig steilen Bergpfad, 
+Wo Kaskaden angstvoll kreischend 
+Vor des Unsinns Abgrnnd warnen! 
+
+Trage mich darch stille Thäler, 
+Wo die Eichen ernsthaft ragen 
+Und den Wnrzelknorm entrieselt 
+Uralt süsser Sagenquell! 
+
+Lass mich trinken dort und nässen 
+Meine Augen — ach, ich lechze 
+Nach dem lichten Wunderwasser 
+Welches sehend macht und wissend. 
+
+Jede Blindheit weicht! mein Blick 
+Dringt bis in die tiefste Steinklnft' 
+In die Höhle Atta Trolls — 
+Ich verstehe seine Reden ! 
+
+Sonderbari wie wohlbekannt 
+Dünkt mir diese Bärensprache! 
+Hab' ich nicht in theurer Heimath 
+Früh vernommen diese Laute? 
+
+
+
+Caput IV. 
+
+
+
+Konceval, du edles Thal! 
+Wenn ich deinen Namen höre, 
+Bebt und duftet mir im Herzen 
+Die verschoUne blaue Blume! 
+
+Glänzend steigt empor die Traumwelt, 
+Die jahrtausendlich versunken, 
+Und die grossen Geisteraugen 
+S«haun mich an, dass ich erschrecke! 
+
+Und es klirrt und tos't! Es kämpfen 
+Sarazen und Frankenritter; 
+Wie verzweifelnd, wie verblutend, 
+Klingen Roland's Waldhornrüfe! 
+
+In dem Thal von Bonceval, 
+Unfern von der Rolandsscharte — 
+So geheissen, weil der Held, 
+Um sich einen Weg zu bahnen. 
+
+
+
+11 
+
+
+
+Mit dem guten Schwert Duranda 
+Also todesgrimmig einhieb 
+In die Feliswand, dass die Spttren 
+Bis auf heut'gem Tage sichtbar — 
+
+Dort in einer düstren Steinscfalncht, 
+Die umwachsen von dem Buschwerk 
+Wilder Tannen, tief verborgen, 
+Liegt die Höhle Atta Trolls. 
+
+Dort, im Schoosse der Familie, 
+Kuht er aus von den Strapazen 
+Seiner Flucht und von der Mühsal 
+Seiner Yölkerschau und Weltfahrt. 
+
+Süsses Wiedersehn! Die Jungen 
+Fand er in der theuren Höhle, 
+Wo er sie gezeugt mit Mnnima; 
+Söhne vier und Töchter zwei. 
+
+Wohlgeleckte Bärenjungfrau'n, 
+Blond von Haar, wie Pred'gerstöchter ; 
+Braun die Buben, nur der Jüngste 
+Mit dem einzigen Ohr ist schwarz. 
+
+Dieser Jüngste war das Herzblatt 
+Seiner Mutter, die ihm spielend 
+Abgebissen einst ein Ohr; 
+Und sie frass es auf vor Liebe. 
+
+
+
+12 
+
+
+
+Ist ein genialer Jüngling, 
+Für Gymnastik sehr begabt, 
+Und er schlägt die Parzelbämne 
+Wie der Tarnkunstmeister Massman. 
+
+Blüthe autochthoner Bildung, 
+Liebt er nur die Muttersprache, 
+Lernte nimmer den Jargon 
+Des Hellenen und des Bömlings. 
+
+Frisch und frey und fromm und fröhlich, 
+Ist verhasst ihm alle Seife, 
+Luxus des modernen Waschens, 
+Wie dem Turnkunstmeister Massman, 
+
+Am genialsten ist der Jüngling, 
+Wenn er klettert auf dem Baume, 
+Der, entlang der steilsten Felswand, 
+Aus der tiefen Schlucht emporsteigt 
+
+Und hinaufragt bis zur Koppe, 
+Wo des Nachts die ganze Sippschaft 
+Sich versammelt um den Vater, 
+Kosend in der Abendkühle. 
+
+Gern erzählt alsdann der Alte, 
+Was er in der Welt erlebte, 
+Wie er Menschen vier und Städte 
+Einst geseh'n, auch yiel erduldet, 
+
+
+
+ä 
+
+
+
+13 
+
+Gleich dem edlen LaertiadeD, 
+Diesem nur darin unähnlich, 
+]Ü)as8 die Gattinn mit ihm reiste, 
+Seine schwarze Penelope. 
+
+Auch erzählt dann Atta Troll 
+Von dem kolossalen Beifall, 
+Den er einst dnrch seine Tanzkunst 
+Eingeämdtet hei den Menschen. 
+
+Er versichert, Jung und Alt 
+Habe jubelnd ihn bewundert. 
+Wenn er tanzte auf den IVOirkten, 
+Bei der Sackpfeif süssen Tönen. 
+
+Und die Damen ganz besonders. 
+Diese zarten Eennerinnen, 
+Hätten rasend applandirt 
+Und ihm huldreich zngeäugelt. 
+
+O, der Künstlereitelkeiten! 
+Schmunzelnd denkt der alte Tanzbär 
+An die Zeit wo sein Talent 
+Vor dem Pnbliko sich zeigte. 
+
+Uebermannt von Selbstbegeistnmg, 
+Will er durch die That bekunden, 
+Dass er nicht ein armer Prahlhans, 
+Dass er wirklich gross als Tänzer — 
+
+
+
+14 
+
+
+
+Und vom Boden springt er plötzlich, 
+Stellt sich auf die Hintertatzen, 
+Und wie ehmals tanzt er wieder 
+Seinen Leibtanz, die Gavotte. 
+
+Stumm, mit aufgesperrten Schnauzen, 
+Schauen zu die Bärenjungen, 
+Wie der Vater hin und her springt 
+Wunderbar im Mondenscheine. 
+
+
+
+Caput V. 
+
+
+
+In der Höhle, bei den Seinen, 
+Liegt gemüthskrank auf dem Bücken 
+Atta Troll, nachdenklich saugt er 
+Au den Tatzen, saugt und brummt: 
+
+^Mumma, Mumma, schwarze Perle, 
+Die ich in dem Meer des Lebens 
+Aufgefischt, im Meer des Lebens 
+Hab' ich wieder dich verloren! 
+
+.„Werd' ich nie dich wiedersehen, 
+Oder nur jenseits des Grabes, 
+Wo von Erdenzotteln frey 
+Sich verkläret deine Seele? 
+
+„Ach! vorher möcht' ich noch einmal 
+Lecken an der holden Schnantze, 
+Meiner Mumma, die so süsse, 
+Wie mit Honigseim bestrichen! 
+
+
+
+
+16 
+
+
+
+„Möchte auch noch einmal schnüffeln 
+Den Gerach, der eigenthümlich 
+Meiner thearen schwarzen Mumma, 
+Und wie Bosenduft so lieblich! 
+
+
+
+„Aber ach! die Mamma schmachtet 
+
+In den Fesseln jener Brut, 
+
+Die den Namen Menschen führet. 
+
+Und sich Herr'n der SchöpfuDg dunkelt. 
+
+„Tod und Hölle! Diese Menschen, 
+Diese Erzaristokraten, 
+Schaa'n auf das gesammte Thierreich 
+Frech und adelstolz herunter, 
+
+„Bauben Weiber uns und Kinder, 
+Fesseln uns, misshandeln, tödten 
+Uns sogar, um zu verschachern 
+Unsre Haut und nnsem Leichnam! 
+
+
+
+„Und sie glauben sich berechtigt 
+Solche ünthat auszuüben 
+Ganz besonders gegen Bären, 
+Und sie nennen's Menschenrechte. 
+
+„Menschenrephte ! Menschenrechte ! 
+Wer hat Euch damit belehnt? 
+Nimmer that es die Natur, 
+Diese ist nicht unnatürlich. 
+
+
+
+17 
+
+„Menschenrechte! Wer gab Euch 
+Diese Privilegien? 
+Wahrlich nimmer die Vernunft, 
+Die ist nicht so unvernünftig ! 
+
+„Menschen, seid Ihre twa besser 
+Als wir Andre, weil gesotten 
+Und gebraten Eure Speisen? 
+Wir verzehren roh die nnsern, 
+
+
+
+„Doch das Resultat am Ende 
+Ist dasselbe — Nein, es adelt 
+Nicht die Atzung ; der ist edel, 
+Welcher edel fühlt und handelt. 
+
+
+
+„Menschen, seid Ihr etwa besser, 
+Weil Ihr Wissenschaft und Künste 
+Mit Erfolg betreibt? Wir Andre 
+Sind nicht auf den Kopf gefallen. 
+
+„Giebt es nicht gelehrte Hunde? 
+Und auch Pferde, welche rechnen 
+Wie Commerziennlthe ? Trommeln 
+Nicht die Hasen ganz vorzüglich? 
+
+„Hat sich nicht in Hydrostatik 
+Mancher Biber ausgezeichnet? 
+Und verdankt man nicht den Störchen 
+Die Erfindung der Klystiere? 
+
+BsUiB*S Alta Troll 2 
+
+
+
+18 
+
+„Schreiben E«el nicht Kritiken? 
+Spielen Aifen nicht Komödi«? 
+Giebt es eine grössre J^iimin 
+Als Batayja, die Heerk^tz? 
+
+
+
+„Singen nicht die Nachtigallen? 
+Ist der Freiligrath kein Dichter? 
+Wer besang' den LÖwen besser 
+Als sein Landsmann das Kameel? 
+
+„In der Tanzkunst hab' ich selber 
+
+Es 80 weit gebracht wie Baum^r 
+
+In der Schreibknnst — schreibt er besser 
+
+Als iok tflvDze, ich der Bär? 
+
+„Menschen, warum seid Ihr besser 
+Als wir Ankdre? Aufrecht tragt Ihr 
+Zwar das H^upt» jedoch im Haupte 
+Kriechen niedrig die Gedanken. 
+
+„Meojseihei^, s§id Ihr etwa besser 
+Als wir Andre, weil. Eu'r Fell. 
+Glatt uQd gleissend? Biesen Vorzug 
+Müsst ^hr mit den Schlangen theilen. 
+
+„Menschenvolk, zweibeinige Schlangen, 
+Ich begreife wohl, warum Ihr 
+Hosen tragt! Mit fremder Wolle 
+Deckt ihr Euro Schlangennackthcit. 
+
+
+
+19 
+
+„Kinder! hütet Euch vor jenen 
+Unbehaarten Missgeschöpfen! 
+Meine Töchter! Tränt nur keinem 
+Unthier, welches Hosen tragt!" 
+
+Weiter will ich nicht berichten, 
+Wie der Bär in seinem frechen 
+Gleichheitsschwindel raisonnirte 
+Anf das menschliche Geschlecht. 
+
+Denn am Ende bin ich selber 
+Aueh ein Mensch, nnd wiederholen 
+Will ich nimmer die Sottisen 
+Die am Ende sehr bel^id'gend. 
+
+Ja, ich bin ein Mensch, bin besser 
+Als die andern Säagethiere; 
+Die Ihfressen der Gebnrt 
+Werd^ ich niaunennehr verlängilen. 
+
+Und im; Kampf mit andern Bestien 
+Wer(£' üch immer trealich kämpfen 
+Für die Menschheit» für die heil'gen 
+Angebornen M^eoschenrechte. 
+
+
+
+Caput ¥1« 
+
+
+
+Doch es ist vielleicht erspriesslich 
+Für den Mensch^, der den höhern 
+Viehstand hildet, dass er wisse 
+Was da nnten raisonnirt wird. 
+
+Ja, da nnten in den düstern 
+Jammersphären der Gesellschaft, 
+In den niedem Thierweltschichten, 
+Brütet Elend, Stolz und Groll. 
+
+Was natnrgeschichtlich immer 
+Also auch gewohnheitsrechtlich 
+Seit Jahrtausenden bestanden, 
+Wird negirt mit frecher Schnanze. 
+
+Von den Alten wird den Jungen 
+Eingebrummt die böse Irrlehr, 
+Die auf Erden die Gultur 
+Und Humanität bedroht. 
+
+
+
+21 
+
+„Kinder" — grommelt Atta Troll, 
+Und er wälzt sich hin und her 
+Auf dem teppichlosen Lager — 
+„Kinder nns gehört die Znknnft! 
+
+„Dächte jeder Bär, und dächten 
+Alle Thiere so wie ich, 
+Mit vereinten Kräften würden 
+Wir bekämpfen die Tyrannen. 
+
+„Es verbände sich der Eber 
+Mit dem Boss, der Elephant > 
+Schlänge brüderlich den Bussel 
+Um das Hörn des wackem Ochsen; 
+
+„Bär nnd Wolf, von jeder Farbe, 
+Bock und Affe, selbst der Hase, 
+Wirkten ein'ge Zeit gemeinsam, 
+Und der Sieg könnt* uns nicht fehlen. 
+
+„Einheit, Einheit ist das erste 
+Zeitbedürfniss. Einzeln wurden 
+Wir geknechtet, doch verbunden 
+Uebertölpeln wir die Zwingherrn. 
+
+„Einheit, Einheit! und wir siegen 
+Und es stürzt das Begiment 
+Schnöden Monopols! Wir stiften 
+Ein gerechtes Animalreich. 
+
+
+
+22 
+
+„Grundgesetz sey volle Gleichheit 
+Aller Gotteskreatnren, 
+Ohne Unterschied des Glauhens 
+Und des Fells und des Geruches. 
+
+„Strenge Gleichheit! Jeder Esel 
+Sey befugt zum höchsten Staatsamt, 
+Und der Löwe soll dagegen 
+Mit dem Sack zur Mühle traben. 
+
+„Was den Hand betrifit, so ist er 
+
+Freilich ein serviler Köter, 
+
+Weil Jahrtausende hindurch 
+
+Ihn der Mensch wie'n Hund behandelt; 
+
+„Doch an unserm Freistaat geben 
+Wir ihm wieder seine alten 
+Unveräusserlichen Bechte, 
+Und er wird sich bald veredeln. 
+
+„Ja, sogar die Juden sollen 
+Volles Bürgerrecht gemessen, 
+Und gesetzlich gleichgestellt seyn 
+Allen andern Säugethieren. 
+
+„Nur das Tanzen auf den Märkten 
+Sey den Juden nicht gestattet; 
+Dies Amendement, ich mach* es 
+Im Int'ressc meiner Kunst. 
+
+
+
+23 
+
+
+
+„Denn der Sinn für Styl, für strenge 
+Plastik der Bewegung, fehlt 
+Jener Ba^e, sie verdürben 
+Den Geschmack des Publikums." 
+
+
+
+€ a p a I \n. 
+
+
+
+Düster in der dfistem Höhle, 
+Hockt im trauten Kreis der Seinen 
+Atta Troll, der Menschenfeind, 
+Und er brammt nnd fletscht die Zähne: 
+
+„Menschen, schnippische Kanaillen! 
+Lächelt nnri Von Eurem Lächeln 
+Wie von Eurem Joch wird endlich 
+Uns der grosse Tag erlösen! 
+
+
+
+„Mich verletzte stets am meisten 
+Jenes sanersüsse Zucken 
+Um das Maul — ganz uuerträglich 
+Wirkt auf mich dies Menschenlächeln! 
+
+
+
+„Wenn ich in dem weissen Antlitz 
+Das fatale^ Zucken schaute 
+Drehten sich herum entrüstet 
+Mir im Bauche die Gedärme. 
+
+
+
+25 
+
+„Weit impertinenter noch 
+Als durch Worte, offenbart sich 
+Darch das Lächeln eines Menschen 
+Seiner Seele tiefste Frechheit. 
+
+„Immer lächeln sie! Sogar 
+Wo der Anstand einen tiefen 
+Ernst erfordert, in der Liebe 
+Fejerlichstem Augenblick! 
+
+„Immer lächeln sie! Sie lächeln 
+Selbst im Tanzen. Sie entweihen 
+Solchermassen diese Kunst 
+Die ein Cultus bleiben sollte. 
+
+,^a, der Tanz, in alten Zeiten, 
+War ein frommer Akt des Glaubens; 
+Um den Altar drehte heilig 
+Sich der priesterliche Beigen. 
+
+„Also Tor der Bundeslade 
+Tanzte weiland König David ; 
+Tanzen war ein Gottesdienst, 
+War ein Beten mit den Beinen! 
+
+„Also hab' auch ich den Tanz 
+Einst begriffen, wenn ich tanzte 
+Auf den Märkten vor dem Volk, 
+Dass mir grossen Bejfall zollte. 
+
+
+
+26 
+
+
+
+Dieser Beyfall, ich gesteh' ob, 
+That mir manchmal wohl im Helfen; 
+Denn Bewandrang seihst dem Feinde 
+Abzutrotzen, dass ist süss! 
+
+
+
+„Aber selbst im Enthusiasmus 
+Lächeln sie. Ohnmächtig ist 
+Selbst die Tanzkunst sie zu bessern, 
+Und sie bleiben stets frivol." 
+
+
+
+Caput ¥111. 
+
+
+
+Mancher tugendhafte Bürger 
+Duftet schlecht amf Erden, während 
+Fürstenknechte mit Layendel 
+Oder Ambra parfumirt sind. 
+
+Jungfräuliche Seelen giebt es, 
+Die nach grüner Seife rieoheu, 
+und das Laster hat zuweilen 
+Sich mit Bosenöhl gewaschen. 
+
+Darum rümpfe nicht die Nase, 
+Thenrer Leser, wenn die Hohle 
+Atta Trolls dich nicht erinnert 
+An Arabiens Spesereyn. 
+
+Weile mit mir in dem Dunstkreis. 
+In dem Trüben Missgeruche 
+Wo der Held zu seinem Sohne 
+Wie aus einer Wolke spricht: 
+
+
+
+28 
+
+
+
+„Kind, mein Kind, du meiner Lenden 
+Jüngster SprÖssling, leg' dein Einohr 
+An die Schnautze des Erzengers 
+Und sang' ein mein ernstes Wort! 
+
+„Hüte dich vor Menschendenkart, 
+Sie verdirbt dir Leib und Seele; 
+Unter allen Menschen giebt es 
+Keinen ordentlichen Menschen. 
+
+„Selbst die Deutschen, einst die Bessern, 
+Selbst die Söhne Tnisklons, 
+Unsre Vettern ans der Urzeit, 
+Diese gleichfalls sind entartet. 
+
+„Sind jetzt glanbenlos und gottlos, 
+Fred'gen gar den Atheismus — 
+Kind, mein Kind, nimm dich in Acht 
+Vor dem Fenerbach nnd Bauer ! 
+
+„Werde nur kein Atheist, 
+
+So ein Unbär ohne Ehrfurcht 
+
+Vor dem Schöpfer — ja ein Schöpfer 
+
+Hat erschaffen dieses Weltall! 
+
+,^n der Höhe, Sonn' und Mond, 
+Auch die Sterne, (die geschwänzten 
+Gleichfalls wie die ungeschwänzten) 
+Sind der Abglanz seiner Allmacht. 
+
+
+
+29 
+
+„In der Tiefe, Land und Meer, 
+Sind das Echo seines Bnhmes, 
+Und jedwede Greatnr 
+Preiset seine Herrlichkeiten. 
+
+„Selbst das kleinste Silberläuschen, 
+Das im Bart des greisen Pilgers 
+Theil nimmt an der Erdenwallfahrt. 
+Singt des Ew'gen Lobgesang! 
+
+,^roben in dem Sternenzelte, 
+Aof dem goldnen Herrscherstahle, 
+Weltregierend, majestätisch, 
+Sitzt ein kolossaler Eisbär 
+
+„Fleckenlos und schneeweis glänzend 
+Ist sein Pelz; es schmückt sein Hanpt 
+Eine Krön' von Diamanten, 
+Die durch alle Himmel leuchtet. 
+
+y^ dem Antlitz Harmonie 
+Und des Denkens stumme Thaten; 
+Mit dem Scepter winkt er nur 
+Und die Sphären klingen, singen. 
+
+
+
+„Ihm zu Füssen sitzen fromm 
+Bärenheil'ge, die auf Erden 
+Still geduldet, in den Tatzen 
+Ihres Martyrthumes Palmen. 
+
+
+
+80 
+
+„Manchmal springt der Eine auf, 
+Auch der Andre, wie vom heirgen 
+Geist geweckt, nnd sieh! da tanzen 
+Sie den feierlichsten Hochtanz — 
+
+„Hocbtanz, wo der Strahl der Gnade 
+Das Talent entbehrlich machte, 
+Und vor Seeligkeit die Seele 
+Ans der Haut zu springen sncht! 
+
+„Werde ich unwürdiger Troll 
+Einstens solchen Heils theilbaftig? 
+Und aus irdisch niedrer Trübsal 
+Uebergehn in's Beich der Wonne? 
+
+„Werd' ich selber, himmelstrnnken, 
+Droben in dem Sternenzelte, 
+Mit der Glorie, mit der Palme, 
+Tanzen vor dem Thron des Herrn?*' 
+
+
+
+Caput IX. 
+
+
+
+Wie die schavlaclurothe ZuBge, 
+Die ein schwarzer Freiligräth^scher 
+Mohrenforst verhöhnend grimmig 
+Aus dem düsterxi Maul heTvorstreckt: 
+
+Also tritt der Mond aus dankelm. 
+Wolkenhimmei Fernher hrauaen 
+Wasserstürze, ewig schlaflos 
+Und verdriesslich in der Nacht. 
+
+Atta Troll steht auf der Koppe 
+Seines Lieblingsfelsens, einsam, 
+Einsam, und er healt hinunter 
+In den Nachtwind, in den Abgrund: 
+
+„Ja, ich bin ein Bär, ich bin es 
+
+Bin es den Ihr Zottelb'ar, 
+
+Brumbär, Isegrim und Petz 
+
+Und Gott weiss, wie sonst noch nennet. 
+
+
+
+32 
+
+„Ja, ich bin ein Bär, ich bin es, 
+Bin die ungeschlachte Bestie, 
+Bin das plumpe Trampelthier, 
+Eures Hohnes, Eures Lächelns! 
+
+„Bin die Zielscheib' Eures Witzes, 
+Bin das Ungethüm, womit 
+Ihr die Kinder schreckt des Abends, 
+Die nnart'gen Menschenkinder. 
+
+„Bin das rohe Spottgebilde 
+Eurer Ammenmährchen, bin es. 
+Und ich ruf es laut hinunter 
+In die schnöde Menschenwelt. 
+
+„Hört es, hört, ich bin ein Bär, 
+Nimmer schäm' ich mich des Ursprungs 
+Und bin stolz darauf, als stammt* ich 
+Ab von Moses Mendelsohn!" 
+
+
+
+Caput X« 
+
+
+
+Zwo Gestalten, wild und mürrisch, 
+Und aaf allen Vieren ratschend, 
+Brechen Bahn sich durch den dnnklen 
+Tannengnind, nm Mitternacht. 
+
+Dass ist Atta Troll, der Vater, 
+und sein Söhnchen, Junker Einohr. 
+Wo der Wald sich dämmernd lichtet, 
+Bei dem Blntstein, stehn sie stille. 
+
+„Dieser Stein" — brummt Atta Troll — 
+,j8t der Altar, wo Druiden 
+In der Zeit des Aberglaubens 
+Menschenopfer abgeschlachtet. 
+
+„0, der schauderhaften Greuel! 
+
+Denk' ich dran, sträubt sich das Haar 
+
+Auf dem Bücken mir — Zur Ehre 
+
+Gottes wurde Blut vergossen ! 
+Heihb'8 AUa Troll. S 
+
+
+
+34 
+
+„Jetzt sind freilich aufgeklärter 
+Diese Menschen, und sie tödten 
+Nicht einander mehr aus Eifer 
+Für die himmlischen Int'ressen; 
+
+„Nein, nicht mehr der fromme Wahn, 
+Nicht die Schwärmerei, nicht Tollheit, 
+Sondern Eigennutz und Selbstsucht 
+Treibt sie jetzt zu Mord und Todtschlag. 
+
+
+
+„Nach den Gütern dieser Erde 
+Greifen alle um die Wette, 
+Und das ist ein ewiges Kaufen, 
+Und ein jeder stiehlt für sich ! 
+
+
+
+„Ja, das Erbe der Gesammtheit 
+Wird dem Einzelnen zur Beute, 
+Und von Hechten des Besitzes 
+Spricht er dann, von Eigenthum! 
+
+„Eigenthum! Becht des Besitzes! 
+O, des Diebstahls! 0, der Lüge! 
+Solch Gemisch von List und Unsinn 
+Konnte nur der Mensch erfinden. 
+
+
+
+„Keine Eigenthümer schuf 
+Die Natur, denn taschenlos. 
+Ohne Taschen in den Pelzen, 
+Kommen wir zur Welt, wir alle. 
+
+
+
+35 
+
+„Keinem von uns Allen wurden 
+Angeboren solche Säckclien 
+In dem äussern Leibesfelle, 
+Um den Diebstahl zu verbergen. 
+
+„Nur der Mensch, das glatte Wesen, 
+Das mit fremder Wolle künstlich 
+Sich bekleidet, wnsst' auch künstlich 
+Sich mit Taschen zu versorgen. 
+
+
+
+„Eine Tasche! Unnatürlich 
+Ist sie wie das Eigenthum, 
+Wie die Rechte des Besitzes — 
+Taschendiebe sind die Menschen! 
+
+
+
+„Glühend hass ich sie! Vererben 
+Will ich dir, mein Sohn, den Hass. 
+Hier auf diesem Altar sollst du 
+Ewigen Hass den Menschen schworen! 
+
+„Sej der Todtfeind jener argen 
+Unterdrücker, unversöhnlich. 
+Bis an's Ende deiner Tage, — 
+Schwör* es, schwor* es hier, mein Sohn!" 
+
+Und der Jüngling schwur, wie eh'mals 
+Hannibal. Der Mond beschien 
+Grässlich gelb den alten Blutstein 
+Und die beiden Misanthropen. ' 
+
+
+
+36 
+
+Später wollen wir berichten 
+Wie der Jnngbär treu geblieben 
+Seinem Eidschwar; nnsre Leyer 
+Feyert ihn im nächsten Epos. 
+
+Was den Atta anbetrifft, 
+So yerlassen wir ihn gleichfalls, 
+Doch um später ihn zn treffen, 
+Desto sichrer, mit der Kogel. 
+
+Deine Untersnchnngsakten, 
+Hochverrather an der Menschheit 
+Miy'estät! sind jetzt geschlossen; 
+Morgen wird anf dich gefahndet 
+
+
+
+Caput XI« 
+
+
+
+Wie verschlaf 116 Bajaderen 
+Schau n die Berge, stehen i^rostelnd 
+In den weissen Nebelhemden, 
+Die der Morgenwind bewegt. 
+
+Doch sie werden bald ermuntert 
+Von dem Sonnengott, er streift 
+Ihnen ab die letzte Hülle 
+Und bestrahlt die nackte Schönheit! 
+
+In der Morgenfrühe war ich 
+Mit Laskaro ausgezogen 
+Auf die Bärenjagd. Um Mittag 
+Kamen wir zum Pont-d*E8pagne. 
+
+So geheissen ist die Brücke, 
+Die aus Frankreich führt nach Spanien, 
+Nach dem Land der Westbarbaren, 
+Die um tausend Jahr zurück sind. 
+
+
+
+38 
+
+Sind zurück um tausend Jahre 
+In moderner Weltgesittung — 
+Meine eignen Ostbarbaren 
+Sind es nur um ein Jahrhundert. 
+
+Zögernd, fast verzagt, yerliess ich 
+Den geweihten ßoden Frankreichs, 
+Dieses Vaterlands der Freiheit 
+Und der Frauen, die ich liebe, 
+
+Mitten auf dem Font-d'Espagne 
+Sass ein armer Spanier. Elend 
+Lauschte aas des Mantels Löchern, 
+Elend lauschte aus den Augen. 
+
+Eine alte Mandoline 
+Kneipte er mit magern Fingern; 
+Schriller Misslaut, der verhöhnend 
+Aus den Klüften wiederhallte. 
+
+Manchmal beugt* er sich hinunter 
+Nach dem Abgrund und er lachte, 
+Klimperte nachher noch toller 
+Und er sang dabei die Worte: 
+
+
+
+„Mitten drin in meinem Herzen 
+Steht ein kleines güldnes Tischchen 
+Um das kleine güldne Tischchen 
+Stehn vier kleine güldne Stühlchen. 
+
+
+
+^ 
+
+
+
+39 
+
+„Anf den güldnen Stühlchen sitzen 
+Kleine Dämchen, güldne Pfeile 
+Im Chignon; sie spielen Karten, 
+Aber Clara nur gewinnt. 
+
+^Sie gewinnt nnd lächelt schalkhaft. 
+Ach! in meinem Herzen, Clara, 
+Wirst da jedesmal gewinnen. 
+Denn du hast ja alle Trümpfe/' — 
+
+Weiter wandernd, zu mir selber 
+Sprach ich: Sonderbar, der Wahnsinn 
+Sitzt und singt auf jener Brücke, 
+Die ans Frankreich führt nach Spanien. 
+
+Ist der tolle Bnrsch' das Sinnbild 
+Vom Ideentausch der Länder? 
+Oder ist er seines Volkes 
+Sinnverrücktes Titelblatt? 
+
+Gegen Abend erst erreichten 
+
+Wir die klägliche Fosada, 
+
+Wo die Ollea-Potrida 
+
+Dampfte in der schmatz'gen Schüssel. 
+
+Dorten ass ich auch Garbanzos, 
+Gross nnd schwer wie Flintenkageln, 
+Unverdaulich selbst dem Deutschen, 
+Der mit Klösen aufgewachsen. 
+
+
+
+40 
+
+
+
+Und ein Seitenstück der Küche 
+War das Bett. Ganz mit Insekten 
+Wie gepfeffert — Achl die Wanzen 
+Sind des Menschen schlimmste Feinde. 
+
+Schlimmer als der Zorn von tausend 
+Elephanten ist die Feindschaft 
+Einer einz*gen kleinen Wanze, 
+Die auf deinem Lager kriecht. 
+
+Mnsst dich ruhig beissen lassen — 
+Das ist schlimm — Noch schlimmer ist es, 
+Wenn du sie zerdrückst: der Missduft 
+Quält dich dann die ganze Nacht. 
+
+Ja, das Schrecklichste auf Erden 
+Ist der Kampf mit Ungeziefer, 
+Dem Gestank als Waffe dient — 
+Das Duell mit einer Wanze! 
+
+
+
+Caput XII. 
+
+
+
+Wie sie schwärmen, die Poeten, 
+Selbst die zahmen! und sie singen 
+Und sie sagen: die Natur 
+Sei ein grosser Tempel Gottes; 
+
+Sei ein Tempel, dessen PHlehte 
+Von dem Rnhm des Schöpfers zengten, 
+Sonne, Mond nnd Sterne hingen 
+Bort als Lampen in der Kuppel. 
+
+Immerhin, Ihr guten Leute! 
+Doch gesteht, in diesem Tempel 
+Sind die Treppen unbequem — 
+Niedertrachtig schlechte Treppen! 
+
+Dieses Ab- und Niedersteigen, 
+Bergaufklimmen und das Springen 
+Ueber Blöcke, es ermüdet 
+Meine Seel' und meine Beine. 
+
+
+
+
+42 
+
+
+
+Neben mir schritt der Laskaro, 
+Blass nnd lang, wie eine Kerze; 
+Niemals spricht er, niemals lacht er, 
+Er, der todte Sohn der Hexe. 
+
+Ja, es heisst, er sei ein Todter, 
+Längstverstorben, doch der Matter, 
+Der Uraka, Zauberkünste 
+Hielten scheinbar ihn am Leben. — 
+
+Die verwünschten Tempeltreppen! 
+Dass ich stolpernd in den Abgrnnd 
+Nicht den Hals gebrochen mehrmals, 
+Ist mir hent' noch unbegreiflich. 
+
+Wie die Wasserstürze kreischten! 
+Wie der Wind die Tannen peitschte, 
+Dass sie heulten! Plötzlich platztea 
+Anch die Wolken — schlechtes Wetter! 
+
+In der kleinen Fischerhütte, 
+An dem Lac-de-Gobe fanden 
+Wir ein Obdach nnd Forellen; 
+Diese aber schmeckten köstlich. 
+
+In dem Folsterstnhle lehnte. 
+Krank nnd gran, der alte Fährmann. 
+Seine beiden schönen Nichten, 
+Gleich zwei Engeln, pflegten seiner. 
+
+
+
+43 
+
+Dicke Engel, etwas flämisch, 
+Wie entsprangen ans dem Rahmen 
+Eines Rnbens: goldne Locken 
+Kerngesunde, klare Angen, 
+
+Grübchen in Zinoberwangen, 
+Drin die Schalkheit heimlich kichert, 
+Und die Glieder stark ond üppig, 
+Lnst nnd Furcht zugleich erregend. 
+
+Hübsche, herzliche Geschöpfe, 
+Die sich köstlich disputirten: 
+Welcher Trank dem siechen Oheim 
+Wohl am besten munden wurde? 
+
+Beicht die Eine ihm die Schale 
+Mit gekochten Lindenblnthen, 
+Dringt die Andre auf ihn ein 
+Mit Hollnnderblnmen-Anfguif. 
+
+
+
+„Keins von beiden will ich faafen'' — 
+Rief der Alte ungeduldig — 
+„Holt mir Wein, daie ich den Giften 
+Einen bessern Trunk kisedenzer* 
+
+
+
+Ob es wirklich Wein gewefeo^ 
+Was ich trank am Lae-d«^obe, 
+Weiss ich nicht. In BfMWSchweJg hAii* UU 
+Wohl geglaubt, ce wäre M omin«. 
+
+
+
+> 
+
+
+
+• 
+
+
+
+44 
+
+
+
+Von dem besten schwarzen Bocksfell 
+War der Schlauch; er stank rorzftglich. 
+Doch der Alte trank so freudig, 
+Und er ward gesund und heiter. 
+
+Er erzählte uns die Thaten 
+Der Banditen und der Schmuggler, 
+Die da hausen, frei und f^ank, 
+In den PyrenäenwSldeni. 
+
+Auch von älteren Geschichten 
+Wnsst' er viele, unter andern 
+Aach die Kämpfe der Giganten 
+Mit den Bären in der Vorzeit. 
+
+Ja, die Riesen und die Bären 
+Stritten weiland um die Herrschaft 
+Dieser Berge, dieser Thäler, 
+£h' die Menschen eingewandert. 
+
+Bei der Menschen Ankunft flohen 
+Aus dem Lande fort die Riesen, 
+Wie yerblüfit; denn wenig Hirn 
+Steckt in solchen grossen Köpfen. 
+
+Auch behauptet man: die Tölpel, 
+Als sie an das Meer gelangten 
+und gesehn, wie sich der Himmel 
+In der blauen Fiuth gespiegelt, 
+
+
+
+45 
+
+Hätten sie geglaubt, das Meer 
+Sei der Himmel, und sie stürzten 
+Sich hinein mit Gottvertrauen ; 
+Seyen sämmtlich dort ersoffen. 
+
+Was die Bären anbeträfe, 
+So Tertiige jetzt der Mensch 
+Sie allmählig, jährlich schwände 
+Ihre Zahl, in dem Gtebirge. 
+
+„So macht Einer" — sprach der Alte 
+„Platz dem Andern auf der Erde. 
+Nach dem Untergang der Menschen 
+Kommt die Herrschaft an die Zwerge, 
+
+„An die winzig klugen Lentchen, 
+Die im Schooss der Berge hausen, 
+In des Beichthums goldnen Schachten, 
+Emsig klaubend, emsig sammelnd. 
+
+„Wie sie lauem aus den Iiöchern, 
+Mit den pfiffig kleinen Köpfchen, 
+Sah ich selber oft im Mondschein, 
+Und mir graute vor der Zukunft! 
+
+„Vor der Geldmacht jener Knirpse ! 
+Ach, ich fürchte, unsre Enkel 
+Werden sich wie dumme Biesen 
+In den Wasserhimmel flüchten!" 
+
+
+
+JK»> 
+
+
+
+Caput XUI. 
+
+
+
+In dem schwarzen Felsenkessel 
+Raht der See, das tiefe Wasser. 
+Melancholisch bleiche Sterne 
+Schau'n vom Himmel. Nacht and Stille. 
+
+Nacht und Stille. Raderschläge. 
+Wie ein plätscherndes Geheimniss 
+Schwimmt der Kahn. Des Fährmanns Rolle 
+Uebernahmen seine Nichten. 
+
+Rädern flink und froh. Im Dunkeln 
+Leuchten manchmal ihre stämmig 
+Nackten Arme, sternbeglänzt, 
+und die grossen blauen Augen. 
+
+Mir zur Seite sitzt Laskaro, 
+Wie gewöhnlich Mass und schweigsam. 
+Mich durchschauert der Gedanke: 
+Ist er wirklich nur ein Todter? 
+
+
+
+47 
+
+Bin ich etwa selbst gestorben, 
+Und ich schiffe jetzt hinunter , 
+Mit gespenstischen Gefährten, 
+In das kalte Reich der Schatten? 
+
+Dieser See, ist er des Stjxes 
+Düstre Flnth? Lässt Froserpine 
+In Ermangelnng des Charon, 
+Mich durch ihre Zofen holen? 
+
+Nein, ich bin noch nicht gestorben 
+Und erloschen — In der Seele 
+Glüht mir noch und jauchzt und lodert 
+Die lebend'ge Lehensflamme. 
+
+Diese Mädchen, die das Buder 
+Lustig schwingen und auch manchmal 
+Mit dem Wasser, das herabtriluft, 
+Mich bespritzen, lachend, schäkernd — - 
+
+Diese frischen, drallen Dirnen 
+Sind fürwahr nicht geisterhafte 
+Eammerkatzen aus der Hölle, 
+Nicht die Zofen Proserpinens ! 
+
+Dass ich ganz mich überzeuge 
+Ihrer Oberweltlichkeit, 
+Und der eignen Lebensfülle 
+Auch thatsächlich mich versichre, 
+
+
+
+48 
+
+
+
+Brückt' ich hastig meine Lippen 
+Auf die rothen Wangengrilbchen, 
+Und ich machte den Vernanftschlim 
+Ja, ich küBse, also leb' ich! 
+
+Angelangt an's Ufer, küsst* ich 
+Noch einmal die guten Mädchen; 
+Nur in dieser Münse liessen 
+Sie das Fährgeld sich bezahlen. 
+
+
+
+Caput XIV« 
+
+
+
+Aus dem sonn'gen Goldgrand lachen 
+Violette Bergeshöhen, 
+Und am Abhang klebt ein Dörfchen, 
+Wie ein keckes Vogelnest. 
+
+Als ich dort hinaufklomm, fand ich 
+
+Dass die Alten ausgeflogen 
+
+Und zurückgeblieben nur 
+
+Junge Brut, die noch nicht flügge. 
+
+Hübsche Bübchen, kleine Mädchen, 
+Fast vermummt in scharlachrothen 
+Oder weissen wollnen Kappen; 
+Spielten Brautfahrt, auf dem Marktplatz. 
+
+Liessen sich im Spiel nicht stören. 
+Und ich sah, wie der verliebte 
+Mäuseprinz pathetisch kniete 
+Vor der Katzenkaiserstochter. 
+
+Hkine's Atta Troll. 4 
+
+
+
+50 
+
+
+
+Armer Prinz! Er wird vermählt 
+Mit der Schönen. Mürrisch zankt sie, 
+und sie beisst ihn, und sie frisst ihn: 
+Todte Maus, das Spiel ist ans. 
+
+Fast den ganzen Tag verweilt' ich 
+Bei den Kindern, und wir schwatzten 
+Sehr vertraut. Sie wollten wissen, 
+Wer ich sei und was ich triebe? 
+
+Lieben Freunde — sprach ich -« Dentachland 
+Heisst das Land, wo ich geboren; 
+Bären giebt es dort in Menge, 
+Und ich wurde Bärenjäger. 
+
+Manchem zog ich dort das Fell 
+Ueber seine Bärenohren. 
+Wohl mitunter ward ich selber 
+Stark gezaust von Bärentatzen. 
+
+Doch mit schlechtgeleckten Tölpeln 
+Täglich mich herumzubalgen 
+In der theuren Heimath, dessen 
+Ward ich endlich überdrüssig. 
+
+Und ich bin hierhergekommen 
+Bessres Waidwerk aufzusuchen; 
+Meine Kraft will ich versuchen 
+An dem grossen Atta Troll. 
+
+
+
+51 
+
+
+
+Dieser ist ein edler Gegner, 
+Meiner würdig. Ach! in Deutschland 
+Hab* ich manchen Kampf bestanden, 
+Wo ich mich des Sieges schämte. — 
+
+Als ich Abschied nahm, da tanzten 
+Um mich her die kleinen Wesen 
+Eine Ronde und sie sangen: 
+Girofflino, Girofflette! 
+
+Keck und zierlich trat zuletzt 
+Vor mir hin die AlleijüDgste, 
+Enixte zweimal, dreimal, viermal, 
+Und sie sang mit feiner Stimme: 
+
+„Wenn der König mir begegnet, 
+Mach* ich ihm zwei Beverenzen, 
+Und begegnet mir die Kön'gin, 
+Mach' ich Beverenzen drei. 
+
+„Aber kommt mir gar der Teufel 
+In den Weg mit seinen Hörnern, 
+Knix' ich zweimal, dreimal, viermal * 
+GirofOino, Girofflette T 
+
+Girofflino, Girofflette! 
+
+Wiederholt' das Chor, und neckend 
+
+Wirbelte um meine Beine 
+
+Sich der Bingeltanz und Singsang. 
+
+
+
+52 
+
+
+
+Während ich in*s Thal hinabstieg, 
+Scholl mir nach, verhallend lieblich, 
+Immerfort, wie Vogelzwitschern: 
+Girofflino, Girofflette! 
+
+
+
+pal X¥. 
+
+
+
+Riesenhafte Eelsenblöcke, 
+Missgestaltet mid yeraent, 
+Schau'n mich an gleich XJngetfafimen, 
+Die Tersteinert, ans der üneit. 
+
+Seltsam! Grane Wolken aehweben 
+Drüber hin, wie Doppelg^tnger; 
+Sind ein blödes Conterfej 
+Jener wilden Steinfigoreo. 
+
+In der Feme raa't der Stonbaeh, 
+Und der Wind henli in den F^^bren; 
+Ein Geränach, daa imerbittlieb 
+Und fatal wie die Vemreiflong« 
+
+Schanerliche TSiiuaakmUol 
+Schwarse Dohlenaeb^aren iltoeo 
+Anf yerwittert moneb«» T«oo«o, 
+Flattern mit den Uhmen ¥iüi(/»lß. 
+
+
+
+
+
+54 
+
+
+
+Neben iLir geht der Laskaro, 
+Blass und schweigsam, und ich selber 
+Mag wohl wie der Wahnsinn aussehn, 
+Den der leid'ge Tod begleitet. 
+
+Eine hässlich wüste Gegend. 
+Liegt darauf ein Fluch? Ich glaube 
+Blut zu sehen an den Wurzeln 
+Jenes Baums, der ganz verkrüppelt 
+
+Er beschattet eine Hütte, 
+Die verschämt sich in der Erde 
+Halb versteckt, wie furchtsam flehend 
+Schaut dich an das arme Strohdach. 
+
+Die Bewohner dieser Hütte 
+Sind Cagoten Ueberbleibsel 
+Eines Stamms, der tief im Dunkeln 
+Sein zertretnes Dasein fristet. 
+
+In den Herzen der Baskesen 
+Würmelt heute noch der Abscheu 
+Vor Cagoten. Düstres Erbtheil 
+Aus der düstern Glaubenszeit. 
+
+In dem Dome zu Bagn^es 
+Lauscht ein enges Gitterpfortches; 
+Dieses, sagte mir der Küster, 
+War die Thüre der Cagoten. 
+
+
+
+55 
+
+Streng versagt war ihnen ehemals 
+Jeder andre Kircheneingang, 
+Und sie kamen wie verstohlen 
+In das Gotteshans geschlichen. 
+
+Dort anf einem niedern Schemel 
+Sass der Cagot, einsam betend 
+Und gesondert, wie verpestet, 
+Von der übrigen Gemeinde. — 
+
+
+
+Aber die geweihten Kerzen 
+Des Jahrhunderts flackern lustig, 
+Und das Licht verscheucht die bösen 
+Mittelalterlichen Schatten! — 
+
+Steh*n blieb draussen der Laskaro, 
+Während ich in des Oagoten 
+Niedre Hütte trat. Ich reichte 
+Freundlich meine Hand dem Bruder. 
+
+Und ich küsste auch sein Kind, 
+Das, am Busen seines Weibes 
+Angeklammert, gierig saugte; 
+Einer kranken Spinne glich es. 
+
+
+
+Caput XVI. 
+
+
+
+Schaust da diese Bergesgipfel 
+
+Aus der Fem*, so strahlen sie, 
+
+Wie geschmückt mit Gold und Purpur, 
+
+Fürstlich stolz im Sonnenglauze. 
+
+Aber in der Nähe schwindet 
+Diese Pracht, und wie bei andern 
+Irdischen Erhabenheiten 
+Täuschten dich die LichtefFekte. 
+
+Was dir Gold und Purpur dünkte, 
+Ach, das ist nur eitel Schnee, 
+Eitel Schnee, der blöd und kläglich 
+In der Einsamkeit sich langweilt. 
+
+Oben in der Nähe hört' ich 
+Wie der arme Schnee geknistert, 
+und den fühllos kalten Winden 
+Air sein weisses Elend klagte. 
+
+
+
+57 
+
+
+
+„0, wie laugsam — seufzt* er — schleichen 
+In der Oede hier die Standen! 
+Diese Standen ohne Ende, 
+Wie gefror'ne Ewigkeiten! 
+
+„O, ich armer Schnee! O, war* ich, 
+Statt anf diese Bergeshöhen, 
+War* ich doch in's Thal gefallen, 
+In das Thal, wo Blumen blühen! 
+
+„Hingeschmolzen war* ich dann 
+Als ein Bächlein, und des Dorfes 
+Schönstes Mädchen wüsche lächelnd 
+Ihr Gesicht mit meiner Welle. 
+
+„Ja, ich war' vielleicht geschwommen 
+Bis in*s Meer, wo ich zur Perle 
+Werden konnte, um am Ende 
+Eine Königskron* zu zieren!" 
+
+Als ich diese Reden horte. 
+Sprach ich: „Liebster Schnee, ich zweifle, 
+Dass im Thale solch' ein glänzend 
+Schicksal dich erwartet hätte. 
+
+„Tröste dich. Nur wen'ge unten 
+Werden Perlen, und du fielest 
+Dort vielleicht in eine Pfütze, 
+Und ein Dreck wärst du geworden!'* 
+
+
+
+58 
+
+
+
+Wahrend ich in solcher "Weise 
+Mit dem Schnee Gespräche führte, 
+Fiel ein Schuss, und ans den Lüften 
+Stürzt herah ein brauner Geyer. 
+
+Späss*chen War's von dem Laskaro, 
+J'agerspässchen. T)och sein Antlitz 
+Blieb wie immer starr und ernsthaft. 
+Nur der Lauf der Flinte rauchte. 
+
+Eine Feder riss er schweigend 
+Aus dem Steiss des Vogels, steckte 
+Sie auf seinen spitzen Filzhut, 
+Und er schritt des Weges weiter. 
+
+Schier unheimlich war der Anblick, 
+Wie sein Schatten mit der Feder 
+Auf dem weissen Schnee der Koppen, 
+Schwarz und lang, sich hinbewegte. 
+
+
+
+€ a p a t X¥ll. 
+
+
+
+Ist ein Thal gleich einer Gasse, 
+Geisrerholilweg ist (^er Name; 
+Schroffe Felsen ragen schwindlicht 
+Hoch empor za jeder Seite. 
+
+
+
+Dort, am schaurig steilsten Ahhaog, 
+Lngt in*s Thal, wie eine Warte, 
+Der üraka keckes Hänslein; 
+Dorthin folgt ich dem Laskaro. 
+
+Mit der Matter hielt er Hath, 
+In geheimster Zeichensprache, 
+Wie der Atta Troll gelockt 
+Und getödtet werden könne. 
+
+Denn wir hatten seine Fährte 
+Gnt erspürt. Entrinnen könnt' er 
+Uns nicht mehr. Gezählt sind deine 
+Lebenfitage, Atta Troll! 
+
+
+
+60 
+
+Ob die Alte, die Uraka, 
+Wirklich eine aasgezeichnet 
+Grosse Hexe, wie die Leute 
+In den Pyrenä'n behaupten, 
+
+Will ich nimmermehr entscheiden. 
+So viel weiss ich, dass ihr Aeuss'res 
+Sehr verdächtig. Sehr verdächtig 
+Triefen ihre rothen Augen. 
+
+Bös und schielend ist der Blick; 
+Und es heisst, den armen Kühen, 
+Die sie anblickt, trockne plötzlich 
+In der Euter alle Milch. 
+
+Man versichert gar, sie habe, 
+Streichelnd mit den dürren Händen, 
+Manches fette Schwein getödtet 
+Und sogar die stärksten Ochsen. 
+
+Solcherlei Verbrechens wurde 
+Sie zuweilen auch verklagt 
+Bei dem Friedensrichter. Aber 
+Dieser war ein Voltairianer, 
+
+Ein modernes, flaches Weltkind, 
+Ohne Tiefsinn, ohne Glauben, 
+Und die Kläger wurden skeptisch 
+Fast verhöhnend, abgewiesen. 
+
+
+
+61 
+
+
+
+Offiziel treibt die Uraka 
+Ein Geschäft, das sehr honett: 
+Denn sie handelt mit Bergkr'äatern 
+und mit aasgestopften Vögeln. 
+
+Voll von solchen Naturalien 
+War die Hütte. Schrecklich rochen 
+Bilsenkraut und Kaknksblnmen, 
+Pissewurz und Todtenflieder. 
+
+Eine CoUekzion von Geiern 
+War vortrefflich aufgestellt, 
+lilit den ausgestreckten Flügeln 
+Und den ungeheuren Schnäbeln. 
+
+War's der Duft der tollen Pflanzen, 
+Der betäubend mir zu Kopf stieg? 
+Wundersam ward mir zu Mathe 
+Bei dem Anblick dieser Vogel. 
+
+Sind yielleicht verwünschte Menschen, 
+Die durch Zauberkunst in diesem 
+ünglückseFgen ausgestopften 
+Vogelzustand sich befinden. 
+
+Seh'n mich an so starr und leidend. 
+
+Und zugleich so ungeduldig; 
+
+Manchmal scheinen sie auch scheu 
+
+Nach der Hexe hinzuschielen. .i 
+
+( 
+
+
+
+62 
+
+Biese aber, die Uraka, 
+Eanert neben ihrem Sobne, 
+Dem Laskaro, am Kamine. 
+Kochen Blei an4 giessen Kugeln. 
+
+Giessen jene Schicksalskugel, 
+Die den Atta Troll getödtet. 
+Wie die Flammen hastig zuckten 
+Ueber das Gesicht der Hexe! 
+
+Sie bewegt die düniien Lippen 
+ünaafhörlich, aber lautlos 
+Murmelt sie den Druden segen, 
+Dass der Kugelguss gedeihe? 
+
+Manchmal kichert sie und nickt sie 
+Ihrem Sohne. Aber dieser 
+Fördert sein Geschäft so ernsthaft 
+Und so schweigsam wie der Tod. — 
+
+Schwül bedrückt von Schauernisseo, 
+Ging ich, freye Luft zu schöpfen, 
+An das Fenster, und ich schaute 
+Dort hinab in 's weite Thal. 
+
+Was ich sah zu jener Stunde — 
+Zwischen Mitternacht und Eins — 
+Werd' ich treu und hübsch berichten 
+In den folgenden Capiteln, 
+
+
+
+( 
+
+
+
+Caput XVUI. 
+
+
+
+Und es war die Zeit des Vollmonds, 
+In der Nacht Yor Sankt JohanniSy 
+Wo der Spuk der wilden Jagd 
+Umzieht durch den Geisterhohlweg. 
+
+Aus dem Fenster yon Uraka*8 
+Hezennest könnt' ich vortrefiQich 
+Bas Gespensterheer betrachten. 
+Wie es dnrch die Gasse hinzog. 
+
+Hatte einen gnten Platz 
+Den Spektakel anznschauen; 
+Ich genoss den rollen Anblick 
+Grabentstiegner Todtenfreade. 
+
+Peitschenknall, Hallo und Hussa! 
+Bossgewiehr, Gebell yon Hunden! 
+Jagdhomtöne und Gelächter! 
+Wie das jauchzend wiederhall(el 
+
+
+
+64 
+
+
+
+Lief voraus, gleichsam als Vortrab, 
+Abentheuerliches Hochwild, 
+Hirsch' und Säue, radelweis; 
+Hetzend hinterdrein die Mente. 
+
+
+
+Jäger ans verschiednen Zonen 
+und ans gar verschiednen Zeiten; 
+Neben Nimrod von Assyrien 
+JEUtt z. B. Carl X. 
+
+Hoch auf weissen Rossen sansten 
+Sie dahin. Zn Fnsse folgten 
+Die Piqeure mit der Koppel 
+Und die Pagen mit den Fackeln. 
+
+Mancher in dem wüsten Zuge 
+Schien mir wohlbekannt — der Bitter, 
+Der in goldner Rüstung glänzte, 
+War es nicht der König Arthus? 
+
+Und Herr Ogier, der Däne, 
+Trug er nicht den schillernd grünen 
+Bingenpanzer, dass er aussah 
+Wie ein grosser Wetterfrosch? 
+
+Auch der Helden des Gedankens 
+Sah ich manchen in dem Zuge. 
+Ich erkannte unsern Wolfgang 
+An dem heitern Glanz der Augen — 
+
+
+
+1 .li 
+:-V.i 
+
+
+
+
+
+
+
+
+
+
+«0 
+
+
+
+a<* 
+
+
+
+if«»' 
+
+
+
+,a«» 
+
+
+
+
+
+
+
+
+
+der 
+der 
+
+
+
+
+
+
+
+Cs.**^ 
+
+
+
+i.^t^i'^ 
+
+
+
+^€0 
+
+
+
+
+^«fte ^^ i^- 
+
+
+
+«tVft« 
+
+
+
+
+
+
+•« S«" 
+
+
+
+
+
+
+
+
+
+,Vi»*^* 
+
+
+
+66 
+
+Werden nicht die alten Jungfern, 
+Die gehätschelt seine Buhe, 
+Sich entsetzen, wenn sie hören, 
+Dass der Franz ein wilder Jäger! 
+
+Wenn es manchmal im Gallopp geht, 
+Schaut der grosse William spöttisch 
+Auf den armen Commentator, 
+Der im Eselstrab ihm nachfolgt. 
+
+Ganz ohnmächtig, fest sich krampend 
+An den Sattelknopf des Grauchens, 
+Doch im Tode, wie im Leben, 
+Seinem Autor treulich folgend. 
+
+Auch der Damen sah ich viele 
+In dem tollen Geisterzuge, 
+Ganz besonders schöne Nymphen, 
+Schlanke, jugendliche Leiber. 
+
+Rittlings Sassen sie zu Pferde, 
+Mythologisch splitternackt; 
+Doch die Haaren fielen lockigt 
+Lang herab, wie goldne Mäntel. 
+
+Trugen Kränze auf den Häuptern, 
+Und mit keck zurückgebog'nen, 
+üebermüth'gen Posituren 
+Schwangen sie belaubte Stäbe. 
+
+
+
+67 
+
+Neben ihnen sah ich ein'ge 
+Zugeknöpfte Bitterfränlein, 
+Schräg anf Damensätteln sitzend, 
+Und den Falken auf der Faust. 
+
+Parodistisch hinterdrein, 
+Auf Schindmähren, magern Kleppern, 
+Kitt ein Tross von komödiantisch 
+Aufgeputzten Weibspersonen, 
+
+Deren Antlitz reitzend lieblich, 
+Aber auch ein bischen frech. 
+Schrie'n, wie rasend, mit den vollen 
+Liederlich geschminkten Backen. 
+
+Wie das jubelnd wiederhallte! 
+JagdhomtÖne und Gelächter! 
+Bossgewiehr, Gebell von Hunden! 
+Peitschenknall, Hallo und Hussa! 
+
+
+
+Caput XIX. 
+
+
+
+Aber d^* d^r S^lidiflieit itle^Mt' 
+Bagten in des' Znges ]Mtitteii 
+Drei Gestklten — Nie rergedö' ich 
+Diesel lioldbn !^raxienbllder; 
+
+Leicht erkÖtinbar' waf' die' Eine' 
+An dem l3.k\htäotä^ anf dBtt ^üxpiff; 
+Stolz 'Wie' eine rdnö Bildsähr, 
+Biti' einher die gjrbsti^ Göttin; 
+
+Hochgeschürzte Tunika, 
+Brast nnd Hüfte halb bedeckend. 
+Fackellicht nnd Mondschein spielten 
+Lüstern um die weissen Glieder. 
+
+Auch das Antlitz weiss wie Marmor, 
+Und wie Marmor kalt. Entsetzlich 
+War die Starrheit und die Blässe 
+Dieser strengen edlen Züge. 
+
+
+
+.69 
+
+Doch in .ihrem schwarzen Auge 
+Loderte ein granenhaftes 
+Und unheimlich .aüsses Eeaer, 
+Seelenblendend iimd yersahrend. 
+
+Wie ,¥Qraiidert ist iDiana, 
+Die, im Uebermnih ,^^r )Kea8r<}hbeit, 
+Einst den Afcteop .verhirschlie 
+Und den tHonden pneUgegehepI 
+
+iBüflst jsie jetet für diefle Silnde 
+In galantester /Gesellschaft? 
+Wie iOin sputo^d arm^P 'Welt^ind 
+Eahit .pie nächtlich dujrQh i^ip JjVLfie. 
+
+Spät z^ar, tfkber desto stÄrl^^r 
+Ist erwacht in ihr .die iWollust, 
+und eß hrennt in ihren Al^QP 
+.Wie ejo .waj^rer t£(ölle.i;[l\rand. 
+
+Die yerloitpe :Zeit ber^^ut pie, 
+Wo die Idänner sp^öner wai;en, 
+Und die Qpaintität er/set^t :ihr 
+Jetpt Fi^HÄicih^ ^ QsftUAät. 
+
+Neben ilur ifitl; ,eine Schone, 
+Deren Zjig^ nicht so griechisch 
+Streng gemeMQP« doch sie strahljben 
+Von des ß^np^wnBWjs Anwiith. 
+
+
+
+70 
+
+Dieses war die Fee Abunde, 
+Die ich leicht erkennen konnte 
+An der Süsse ihres Lächelns 
+Und am herzlich tollen Lachen! 
+
+Ein Gesicht, gesund und rosig, 
+Wie gemalt von Meister Grenze, 
+Mand in Herzform, stets geöfinet, 
+Und entzückend weisse Zahne. 
+
+Trag ein flatternd blanes Nachtkleid; 
+Das der Wind zu lüften sachte — 
+Selbst in meinen besten Träamen 
+Sah ich nimmer solche Schultern! 
+
+Wenig fehlte nnd ich sprang 
+Aus dem Fenster, sie zu küssen! 
+Dieses war' mir schlecht bekommen, 
+Denn den Hals hätt' ich gebrochen. 
+
+Ach! sie hätte nur gelacht, 
+Wenn ich unten in dem Abgrund 
+Blutend fiel zu ihren Füssen -^ 
+Ach! ich kenne solches Lachen! 
+
+Und das dritte Franenbild, 
+Das dein Herz so tief bewegte, 
+War es eine Teufelinne 
+Wie die andern zwo Gestalten? 
+
+
+
+71 
+
+
+
+Ob*s ein Tenfel oder Engel, 
+Weiss ich nicht. Genau bei Weibern 
+Weiss man niemals, wo der Engel 
+Aufhört und der Teufel anfängt. 
+
+Auf dem gluthenkranken Antlitz 
+Lag des Morgenlandes Zauber, 
+Auch die Kleider mahnten kostbar 
+An Schehezeradens Mährchen. 
+
+Sanfte Lippen, wie Grenaten, 
+Ein gebagnes Liljennaschen, 
+Und die Glieder schlank und kühlig 
+Wie die Palme der Oase. 
+
+Lehnte hoch auf weissem Zelter, 
+Dessen Goldzaum von zwey Mohren 
+Ward geleitet, die zu Fuss 
+An der Fürstin Seite trabten. 
+
+Wirklich eine Fürstin war sie, 
+
+War Judäas Königinn, 
+
+Des Herodes schönes Weib, 
+
+Die des Täufers Haupt begehrt hat. 
+
+Dieser Blutschuld halber ward sie 
+Auch vermaledeit; als Nachtspuk 
+Muss sie bis zum jüngsten Tage 
+Reiten mit der wilden Jagd. 
+
+
+
+?? 
+
+
+
+In den jPjlnden .tr»gt ,6le in^n^er 
+Jepe ßchüssel mit d^m ^^n|)tp 
+Des Johannes, nnd sie kpsst es; 
+Ja, ^^i^ küsst d»ß Hat^pt mit Jjif|)^|i]A8t. 
+
+Denp slo liebte ein^t Johaq^em ~ 
+In der Bibel steht es .p.icht, 
+Doqh im Vplkp ,lebt die Sage 
+Von Herodias' blyjt*gejr ^iebe — 
+
+Anders war ja nnerklärlich 
+Das Gelji.stp jener jDame — 
+yird e^p Wei|) ^&s Hanp^t begehren 
+Eines Mann's, d.en sie nicht hebt? 
+
+War vielleicht ein bischep böse 
+Auf den liiebaten, Hess ihn köpfen; 
+Aber als sie i^nf der Schüssel 
+Das geliebjte Hs^ppt erblip^te, 
+
+
+
+Weinte sie und ward yerrückt, 
+und sie starb in Liebeswahnsinn. 
+(Liebeswahnsinn! Pleonasmnsi 
+Liebe ist ja schon ein Wahnsinn ]) 
+
+Nachtlich auferstehend ti:ägt sie, 
+Wie gesagt, das blnt'ge Haupt 
+In der Hand, auf ihrer <fagdfahrt - 
+Doch mit toller Weiberlaune 
+
+
+
+^ 
+
+
+
+73 
+
+ScUeadert de das Haopft zmreilcii 
+Durch die Lüfte, kindisch lachend. 
+Und sie fängt es sehr behende 
+Wieder anf, wie einen Spielball. 
+
+Als sie mir Torübemtt, 
+Schaate sie mich an nnd nickte 
+So kokett zugleich und schmachteod. 
+Das mein tiefistes Hen erbebte. 
+
+Dreim^ aqf und n|e4enrogeod 
+Fuhr der Zag Yorbei« und dreimal 
+Im Yornberreiten grnsste 
+Mich das liebliche Gespenst 
+
+Als der Zug bereits erblichen 
+Und verklungen das Getümmel, 
+
+Loderte mir im Gehirne 
+
+■ • < 
+
+lomier fort der holde Grqss. 
+
+Und die ganze Nacht hindorch 
+Wälzte ich die müden Glieder 
+Auf der Streu — (denn Federbetten 
+Gab*8 nicht in Urakas Hütte) — 
+
+Und ich san^ : was jaaae bedeatra 
+Das ^heimnissTolle Nicken? 
+Warum hast da mich sp zärtlich 
+Angesehn, Herodias? 
+
+
+
+Caput XX. 
+
+
+
+Sonnenaufgang. Goldne Pfeile 
+Schiessen nach den weissen Nebeln 
+Die sich rothen, wie verwandet, 
+und in Glanz und Licht zerrinnen, 
+
+Endlich ist der Sieg erfochten , 
+Und der Tag, der Triumphator, 
+Tritt, in strahlend voller Glorie, 
+Auf den Nacken des Gebirges. 
+
+Der Gevögel laute Sippschaft 
+Zwitschert in verborgnen Nestern, 
+Und ein Ejäuterduft erhebt sich, 
+Wie*n Concert von Wohlgerüchen. 
+
+In der ersten Morgenfrühe 
+Waren wir in's Thal gestiegen, 
+Und derweilen der Laskaro 
+Seines Bären Spar verfolgte. 
+
+
+
+«^ 
+
+
+
+Mh 
+
+
+
+lei 
+
+
+
+Wo die UfiBK QKÜe 
+
+
+
+
+El et^giiflr imfäi wjQdc odnmdht 
+
+Wie Bad Temdh imfl To4 im4 Walncdn«^ 
+
+Und wMtdk jfSDBD SeitBrixmML, 
+
+Die itdk täk am 
+
+
+
+Die dM lCt>i:genrp£)i r«f8cbeiiclite; 
+SigC, w«SmL «u^ Ihr «ntflofa^^ 
+Sftgt^ wo iuMMt Ihr «w Ta^? 
+
+Untor alten Tfimj^eHi'fraQtioeri], 
+Irgenihro as d«r SfW»»g»», 
+(Also 3»ta«8t ^) hlf^ Diaiua 
+Sich T«r Cbfäati Tag«0b«ri«<di«ft. 
+
+
+
+y 
+
+
+
+^3 
+
+
+
+Nur in ^^ftprji^cJit'gegi fljiyikjpl 
+W^gt /3fp es Jbeinif9rzu^e^en, 
+Und 8ip ^rept ^jph ^^n ^^s ^Wftid^erks 
+Mit d^p ^)^eidni^9li^ ^iMpie^teR- 
+
+Auch ^ie ^^hQnp J^leß AhJu^^^p 
+Fürqbt^t jsich .vor N/a2^i;e^ipQ, 
+Und den Tßß hindfirch i^Qr^jBi^t ,^e 
+In dem «ic^prjp .^^B^'*»- 
+
+Feme, in ^em ^^t^le(p. ^epre 
+D^r iPom^ntik, ni^r errmphbfl* 
+Auf , des jElabelijp^s^ klügeln. 
+
+Niena^ ^ert .(iprt ,die Sorge, 
+Jfiemals l^det doi;t jejiiii 'E^ampfscbiff 
+Mit neugierigen JBhi^sij^j-n, 
+Tabaq^;feifen ip .dep jMftuJ^. 
+
+Niemals donjgt .dqrtfcin das blöde 
+Dumpfl^ngweirgp .Glockenlämep, 
+Jene ti:jiben Pufldm^ftmp-^^n^e, 
+Die den Fe^n so verhasat. 
+
+Dort in ^ngestoxti^pi |>o][i8i^, 
+Und in ew'ger Jugend blü^lJCfj^, 
+Besidirt die heitre Dame, 
+Unare .Wpflde ;Fri^\i Ab^p^^e. 
+
+
+
+77 
+
+Lac]i<»n(l' ^^U de dbrt' ^i)ä^efrieh 
+Unter UÖheü Söiiüänblimidn, 
+Mit dem kdi^üflen' Gefolge 
+Weltentrüc^tdir Paladiiie; 
+
+Af^' dti, Hetödiati, 
+
+Skg, wof bis«' du? — A'chi icÜ-v^lss es 
+Dil' bist tbdt und liä^t bägtbbeti' 
+Bei der S'tadt Jerbschbläjiin^ 
+
+Starred lleieHdcfsclilsif am Ta^c^ 
+äc^lä^t du' in dem MTarinoiissii'^e;' 
+Doch um MlttefrnacOü^ erweckt' dlcih^ 
+Peitschenknall, Hallof*ited'Htrisü? 
+
+Und' ää fblg§r d^ti' Tvlldetf Hbi'ittig^ 
+Mit Diaii^'und Abundeh, 
+Mit den h&it«(it[ JagdgenOsS^; 
+Denen ErfeüiE' und ^uaPttttlk'äsät iili 
+
+Welitie' koittielie ä^sdAlsöbaft! 
+Könnt ich nälifmiic» iflit Hn^b^j^^iil, 
+Durch die^W&ldet! Dit^zWSdti'^ 
+Ritt ich'fi^tfe<^*HetbdlaS^^- 
+
+Denn iclf' liet^j^' didi' sAh M'ikikni' 
+Mehr ^d^jeti^' dtl^etengjotliÜi 
+Mehr afl6 jcfnö^Feö'deiflTöi'dfeiä, 
+Lieb' ich df^h; da'todtb Jüditr' 
+
+
+
+78 
+
+
+
+Ja, ich liebe dichl Ich merk' es 
+An dem Zittern meiner Seele. 
+Liebe mich und sei mein Liebchen, 
+Schönes Weib, Herodias I 
+
+Liebe mich und sei mein Liebchen! 
+Schleudre fort den blut'gen Dummkopf 
+Sammt der Schüssel, und geniesse 
+Schmackhaft bessere Gerichte. 
+
+Bin so recht der rechte Bitter, 
+Den du brauchst — Mich kümmer t*s wenig 
+Dass du todt und gar verdammt bist — 
+Habe keine Vorurtheile — 
+
+Hapert*s doch mit meiner eignen 
+Seeligkeit, und ob ich selber 
+Noch dem Leben angehöre. 
+Daran zweifle ich zuweilen! 
+
+Nimm mich an als deinen Ritter, 
+Deinen Cayali^r-serrente ; 
+Werde deinen Mantel tragen 
+und auch alle deine Launen. 
+
+Jede Nacht, an deiner Seite, 
+Beit' ich mit dem wilden Heere, 
+Und wir kosen und wir lachen 
+Ueber meine tollen Beden. 
+
+
+
+79 
+
+Werde dir die Zeit verkürzen 
+In der Nacht — Jedoch am Tage 
+Schwindet jede Lust und weinend 
+Sitz' ich dann auf deinem Grabe. 
+
+Ja, am Tage sitz' ich weinend 
+Auf dem Schutt der Eönigsgrüfte, 
+Auf dem Grabe der Geliebten, 
+Bei der Stadt Jemscholayim. 
+
+Alte Juden, die yorbeigehn, 
+Glauben dann gewiss, ich traure 
+Ob dem Untergang des Tempels 
+Und der Stadt Jeruscholajim. 
+
+
+
+C a p a t XXI« 
+
+
+
+Argonanteb ohne'' Sbh'iff*, 
+Die zu pQSBgeh'n itn GVbirgei 
+Und'abstött de^ gbldneii Viiefss^ 
+Nur ein Bföbfifeni > e>kielttö ' — 
+
+
+
+Ach! wir sind nnr arme Teufel, 
+Helden von modernem Zuschnitt, 
+Und kein klassischer Poet 
+Wird uns im Gesang verew'gen! 
+
+Und wir haben doch erlitten 
+Grosse NÖthen! Welcher Begen 
+Ueberfiel uns auf der Koppe, 
+Wo kein Baum und kein Fiaker! 
+
+Wolkenbruch! (Das Bruchband platzte). 
+Kübelweiss stürzt' es herunter! 
+Jason ward gewiss auf Eolchis 
+Nicht dnrchnässt von solchem Sturzbad. 
+
+
+
+81 
+
+„Einen Begenschirm ! Ich gebe 
+Sechs und dreissig Könige 
+Jetzt für einen Begenschirm!" 
+Bief ich, und das Wasser troff. 
+
+Sterbensmüde, sehr verdriesslich, 
+Wie begossene Pudel, kamen 
+Wir in später Nacht zurück 
+Nach der hohen Hexenhütte. 
+
+Bort am lichten Feuerheerde 
+Sass Uraka und sie kämmte 
+Ihren grossen, dicken Mops. 
+Diesem gab sie schnell den Lanfpass, 
+
+Um mit uns sich zu beschäftigen. 
+Sie bereitete mein Lager, 
+Löste mir die Espardillen, 
+Dieses unbequeme Fusszeng, 
+
+Half mir heim Entkleiden, zog mir 
+Auch die Hosen aus; sie klebten 
+Mir am Beine, eng und treu, 
+Wie die Freundschaft eines Tölpels. 
+
+„Einen Schlafrock! Sechs und dreissig 
+
+Könige f&r einen trocknen 
+
+Schlafrock!" rief ich, und es dampfte 
+
+Mir das nasse Hemd am Leibe, 
+H EIMERS Atta l^olh 6 
+
+
+
+86- 
+
+Frostend) aähnflhlappflWMb standi ich 
+Eine Weila.' ac doBb Heerdes, 
+Wie betiuttti vom; Beiuri aanb: ieit 
+Endliieii' nieden auf die Streu. 
+
+Eonnt^' niobl; sehlafSsD. IBihfleUMl sefiant* ich 
+Nach der^ Hex' dibr anii Kanyi» sasr 
+Und deipk ObefiieUy. des Sotmea). 
+Den sie. ehonftdi» enllüfaidet, 
+
+Anf dem) SoUooss hielte. Ilfr aar Sflite, 
+Aufrecht^, stand dar dioka^Jtföpfliv 
+Und in seinen YardbrpfotoBi 
+Hi^ti er sehr ' geadnolBtt dm Töftfelltn. 
+
+Ansr d^mß Xöpüchmi ruäiur. Uralnii 
+Rothes Fett^-beetricditdamiti 
+Ihres Sohnaa Bcasifö nnä Bi^igsen^ 
+Bieb sie, fafiaügi zittacnd) fafasü^r. 
+
+Ubd devwesif sk; liftb midlsaUitQ^ 
+SnmniteisiQ» ein« Wiegwilledthenf 
+Näselnd» fein; . danwischeii) aelti*mt 
+BoÄ^tarteii i d«si QtMrtb»»' Ftawuett . 
+
+Wie eini Iioiehnai«^, (^Ibr undi kn^Uem, 
+Lag der Sohn • i»t S^o^st!' der» IVMter; 
+Todofitrayrigi.wefttf geöffdfeM 
+Starron i sein« blektei . Aagen« 
+
+
+
+88 
+
+Ist ei< WitMiOhi öin< Vei^tüdi^b'iKBr, 
+Bern dic> Mti11»rliel>e nikditlidh' 
+Mit ökt g&aAsMiAii Itektitisttlbe' 
+Eiii; ^Mf&k'^ett^ Ijt^m' düt^ibV?' ^ 
+
+Wundei^^^ Tiöbel*1iälbStoUlaf!' 
+Wb^'dle (&>lida^]:< blbiehi^ müdö 
+Wie gebtmdetly inad- die Siätie* 
+Ueberreizt ütid' ge^iMAioh- WitcHI^ 
+
+Wie) d;0r E^r&tfti^dafid im- ^iiüoffef ' 
+Mi^h^g^peiäigrliSdhmer&lich gKibellid 
+Sann ieir mfob ^ WO» i^h dergMblilsii 
+Schon gc»6chetii?'Sätfll' V^e&eü»j 
+
+Wie der Windsag: im KaaAAW 
+Mich gfigfagttigei Slan^ wie Aefdizcfh 
+Von getrocknet ankteii Seelen > — ' 
+Schloten' wohlbekftnnte Stiifiiüetfj' 
+
+Doch zameitft» wardt ich* geqnMlt^ 
+Von^ den* aasgbvtojxfteH Vögeln,* 
+Die, SLVi£' elij^iA' Bret^.zoi Häoirten 
+Neben meiB^I^ liadsei^' standen} 
+
+
+
+LangiiaaK schaneHicb bewe^n^ « 
+Sie- die FJügeli udd' 8ie> beagten- 
+Sich zvt mir hek'abV> mit' iHngen 
+Schnäl^lB^tdie wie-MeosehenDfaseil» 
+
+
+
+84 
+
+Ach! wo hab' ich solche Nasen 
+Schon gesehn? War es za Hamburg 
+Oder Frankfurt, in der Gasse? 
+Qualvoll dämmernd die Erinn*mng! 
+
+Endlich übermannte gänzlich 
+Mich der Schlaf, und an die Stelle 
+Wachender Phantasmen trat 
+Ein gesunder, fester Traum. 
+
+Und mir trilumte, dass die Hütte 
+Plötzlich ward zu einem Ballsaal, 
+Der von Säulen hochgetragen 
+Und erhellt von Girandolen, 
+
+Unsichtbare Musikanten 
+Spielten aus Robert-le-Diable 
+Die verruchten Nonnentönze; 
+Ging dort ganz allein spatzieren. 
+
+Endlich aber öffnen sich 
+Weit die Pforten, und es kommen, 
+Langsam feierlichen Schrittes, 
+Gar verwunderliche Gäste. 
+
+Lauter Bären und Gespenster! 
+Aufrecht wandelnd, führt ein jeder 
+Von den Bären ein Gespenst, 
+Das vermummt im weissen Grabtuch. 
+
+
+
+85 
+
+Solcherweis gepaart, begannen 
+Sie zu walzen, auf und nieder, 
+Durch den Saal. Kurioser Anblick! 
+Zum Erschrecken und zum Lachen! 
+
+Denn den plumpen Bären ward es 
+Herzlich sauer Schritt zu halten 
+Mit den weissen Luftgebilden, 
+Die sich wirbelnd leicht bewegten. 
+
+Unerbittlich fortgerissen 
+Wurden jene armen Bestien, 
+Und ihr Schnaufen überdröhnte 
+Fast den Brummbass des Orchesters. 
+
+Manchmal walzten sich die Paare 
+Auf den Leib, und dem Gespenste, 
+Das ihn anstiess, gab der Bär 
+Ein'ge Tritte in den Hintern. 
+
+Manchmal auch, im Tanzgetümmel, 
+Riss der Bär das Leichenlaken 
+Von dem Haupt des Tanzgenossen; 
+Kam ein Todtenkopf zum Vorschein. 
+
+Endlich aber jauchzten schmetternd 
+Die Trompeten und die Zimbeln, 
+Und es donnerten die Pauken, 
+Und es kam die Gallopade. 
+
+
+
+86 
+
+Diese imvmt* ich AiQht ^s ^Bo^ 
+Denn ma iitngQSclilaclitor fSi^f 
+Tf At iBiir anf Aie ^ähiMiraa^eii, 
+
+
+
+Caput XXII. 
+
+
+
+^JUäbtOy xB 'der SoDneinlnMckke, 
+Paiteehte rsdüiB IPhmmBDtoBae, 
+Und er bidte Bbhon wir MtlMit 
+Seine HimfeBaMihM; ivtdlltniet -— 
+
+Wählend ick im fSläilale teg 
+Und 'Tcn tB&rbn und «(BiesiMstoi&i, 
+JDie sieh wnndedlich ninschlmigea, 
+Tolle Ambeükmi ftnomte. 
+
+jüJtftBg «wvr'a, iidb Jek erwaehlb» 
+Und iich iand juti^h @awE allein. 
+/Meine Wirtliin nsd Iia&aaro 
+Gingen kraf die Jf^pA sehen foiibe. 
+
+In der Hütte blieb .zurück 
+Nur der Af ops. Am Feaerheerde 
+Stand ^ aufreobt ^or dem Kiossd, 
+In den FfoJBn ^aen Löffel. 
+
+
+
+88 
+
+Schien vortrefflich abgerichtet, 
+Wenn die Sappe überkochte, 
+Schnell darin heramzurühren 
+Und die Blasen abzoschänmen. 
+
+Aber bin ich selbst behext? 
+
+Oder lodert mir im Kopfe 
+
+Noch das Fieber? Meinen Ohren 
+
+Glaub* ich kanm «r- es spricht der Mops! 
+
+Ja, er spricht, und zwar gemüthlich 
+Schwäbisch ist die Mundart; träumend, 
+Wie verloren in Gedanken, 
+Spricht er folgendergestalt: 
+
+„O, ich, armer Schwabendichter t 
+In der Fremde muss ich traurig 
+Als verwünschter Mops verschmachten, 
+Und den Hexenkessel hüten! 
+
+„Welch ein schändliches Verbrechen 
+Ist die Zauberei! Wie tragisch 
+Ist mein Schicksal: menschlich fühlen 
+In der Hülle eines Hundes! 
+
+„War ich doch daheim geblieben, 
+Bei den trauten Schulgenossen! 
+Das sind keine Hexenmeister. 
+Sie bezaubern keinen Menschen. 
+
+
+
+89 
+
+,,Wär' ich doch daheim geblieben, 
+Bei Carl Mayer, bei den süssen 
+Gelbveiglein des Vaterlandes, 
+Bei den frommen Metzelsnppen ! 
+
+„Heute sterb' ich fast vor Heimweh — 
+Sehen möcht' ich nur den Bauch, 
+Der emporsteigt ans dem Schornstein, 
+Wenn man Nudeln kocht in Stukkert!" 
+
+Als ich dies vernahm, ergriff mich 
+Tiefe Bührung; von dem Lager 
+Sprang ich auf, an das Kamin 
+Setzt* ich mich, und sprach mitleidig: 
+
+„Edler Sänger, wie geriethest 
+Du im diese Hexenhütte? 
+Und warum hat man so grausam 
+Dich in einen Hund verwandelt?" 
+
+Jener aber rief mit Freude : 
+,^lso sind Sie kein Franzose? 
+Sind ein Deutscher und verstanden 
+Meinen stillen Monolog? 
+
+„Ach, Herr Landsmann,, welch ein Unglück, 
+Dass der Legazionsrath KöUe, 
+Wenn wir bei Tabak und Bier 
+In der Kneipe diskurirten. 
+
+
+
+96 
+
+^^mmer dutf den Satz ^zurückkam, 
+Man dHwürbe »nnr durah .ßdisea 
+Jene lEmflnn^, di« er tsellwr ^ 
+AQS(^r^«iDde nubgefaraelifc! 
+
+y^üju «mir nan die volle .ffiöaiste 
+Von >deQ -Beinw .absulante, 
+UiDfl ^mfi SiöUe dnir idie rfeiiMfin 
+
+„Nilbm sloh .Ahflolüdd Ton ^er JSaiAath, 
+Und oof naßiner BUdwigweHe 
+Kam iah amck iden I^isenJktn, 
+;N«^ 4er <£[4ine .«kr WoiJka. 
+
+„Bracht* iiir «ia Bwp W^uflssfielfraiben 
+Vom Jastnuis Keiner; daohte 
+Nicht daran« .dasa (di«8ßr Mwwmd 
+In ^erj)tfidw^ steht mit .Hejcßn. 
+
+„Freundlich »akm ^ioh auf Usaka, 
+Doch es wuchs, .«m immem :8<^eisken, 
+Biepe ^raondlicbkei^ a^rartend 
+Endlich gar m r^inmahimiist. 
+
+„J^ 08 ß^kwie ^ X]inB«ebt 
+ScheasfÜKch auf im welken Sasen 
+Dieser ^iiwhafiten Vettel, 
+Und sie wollte malh FerXähireo. 
+
+
+
+91 
+
+
+
+„Dooh )ioh tflelifte: >acb, tentsehtrld^n 
+Sie, ida^ani'! bin kein >Jdi¥ol«r 
+Gocitiidanar, ich ^facore 
+Zq der £HflftitfiraQhiüe SkdMrabens. 
+
+,^ttllcbkeit oBt niwre Mme, 
+und fiiß ^tv^ iironi dickatea I^der 
+ünterho^oü '<- whl vffCfg^em 
+Sie 0iQ^ weht «an «nekier ITagend:! 
+
+ADdf^e JPfiiiiittwii»» «od $mAt» 
+XieiiciiQi^SiObiaft, jedpch Aie Xoemd 
+Hfib^ «^« 4iß iMimaboiifliefafeec. 
+
+„Das ist nnicor eiM*@e8 fOnti 
+Ba«b$n ^i# ünir nitdit iden .«Mich 
+Beligimieii ^ttohnantel« 
+TF«Ifiber looeiva ^osse idedktü 
+
+nM$o isppftciii fldh, (dodi 'iroeisch 
+Lächelte 4Aß tVTtth, und dadielDd 
+Jitiikm sie /eine Kistelseiie 
+IM tosnlwt* I9amtt suain iEEaiipt. 
+
+„Ich empfavii alsbald em Mtes 
+JMMSgefiM, als übeisöge 
+Eine Gänaohant die Gdieder. 
+Doch >dJie Haut von teinßr Gans 
+
+
+
+92 
+
+„War es nicht, es war vielmehr 
+Eines Hundes Fell — seit jener 
+Unheilstnnd' bin ich verwandelt. 
+Wie Sie sehn, in einen Mopsl" 
+
+Armer Schelm! Vor lauter Schluchzen 
+Konnte er nicht weiter sprechen, 
+und er weinte so beträglich, 
+Dass er fast zerfloss in Thränen. 
+
+„Hören Sie/' sprach ich mit Wehmuth, 
+„Kann ich etwa von dem Hundsfell 
+Sie befrein, und Sie der Dichtkunst 
+Und der Menschheit wiedergeben?*' 
+
+Jener aber hub wie trostlos 
+Und verzweiflungsvoll die Pfoten 
+In die Hohe, und mit Seufzen 
+Und mit Stöhnen sprach er endlich: 
+
+„Bis zum jüngsten Tage bleib' ich 
+Eingekerkert in der Mopshant, 
+Wenn nicht einer Jungfrau Grossmuth 
+Mich erlöst aus der Verwünschung. 
+
+„Ja, nur eine reine Jungfrau, 
+Die noch keinen Mann berührt hat, 
+Und die folgende Bedingung 
+Treu erfüllt, kann mich erlösen: 
+
+
+
+93 
+
+„Diese reine Jungfrau muss 
+In der Nacht von Sankt-Silvester 
+Die Gedichte Gustav Ffizer*8 
+Lesen — ohne einzuschlafen! 
+
+„Blieh sie wach hei der Lektüre, 
+Schloss sie nicht die keuschen Augen 
+Dann hin ich entzauhert, menschlich 
+Athm* ich auf, ich hin entmopst I'' 
+
+„Ach, in diesem Falle" — sprach ich 
+„Kann ich seihst nicht unternehmen 
+Das Erlösungswerk; denn erstens 
+Bin ich keine reine Jungfrau, 
+
+„Und im Stande war* ich zweitens 
+Noch viel wen*ger, die Gedichte 
+Gustav Ffizer's je zu lesen, 
+Ohne dabei einzuschlafen." 
+
+
+
+Caput XXIU. 
+
+
+
+Attfe' dööi Spuk' rfet HfeXöttwirthscSlrft 
+Steige T*ir iri'fif' th^' liertniter; 
+
+Boden' in dcim FbslÜVeii: 
+
+Fort, (5e8pWStefr'N%'ditgesi<?Ht^!^ 
+"LuftgMld&V Piebentn^zm^! 
+
+Wir bescIiSft'gefl* utils vettrönfÖg" 
+Wieder mit* dbü' A^ta' Troll: 
+
+In der Höhle, bei den Jungen 
+Liegt der Alte, und er scbräft, 
+Mit dem Schnarchen des Gerechten; 
+Endlich wacht er gähnend auf. 
+
+Neben ihm hockt Junker Einohr, 
+Und er kratzt sich an dem Kopfe 
+Wie ein Dichter, der den Beim sucht; 
+Auch scandirt er an den Tatzen. 
+
+
+
+^5 
+
+Gleichfalls* aH' des^ Viktors S^e; 
+Liege«' trüamettd' mif d'ein Kücken, 
+Unsohiildteih^ vierAissge' Eiljeii) 
+Atta Tiüli^^ getieJ^e- Töbfater; 
+
+Welc&€M attitycHe GedfänKen 
+Schmachte« in dbi* BltithenErMler 
+Bifiber' wedMeii' Bareojfcmgfiraa^ii?^ 
+Thräfrenfbiicilff siiid illre Blicke.^ 
+
+Ganz. beMuden; «oUeiiHt die' JOngste 
+Tief bew6gn I0 iteem^' B^tn^a* 
+Fühlt sie sotaoii efti 0ei*ge»^ Jtieläni, 
+Afattde« Bie^di^'MkNAtt Ghpido)^ 
+
+J^. dbr* Pfeai dflit kleineitt G^ottei 
+Ist ihr dar^«. den! Belv g^MlitiDgeD, 
+Als sie: Ihm erbUekü: -^ O"* Himmel} • 
+Dem siff lieibt, devistteftti Menstflfl 
+
+Ist ein MeastltiiLiidtheiss^Sclxiniptdiahnski. 
+Auf dsti'gfeDssticBMiraddi 
+Kam er ihr TorbeigelatifeB: 
+Eines Mtogens iia QxhikffSi. 
+
+HeldennngMck rüilirtii diei W^boiv 
+und in: AdtlitBi Qiare»! Belden'J 
+Lag, wicnimanet^ dsrrEiiittkBmMhs 
+Blasse Wiefaniitli, düBtre; dcQrgei 
+
+
+
+96 
+
+Seine ganze Eriegeskasse, 
+Zwei und zwanzig Silbergroschen, 
+Die er mitgebracht nach Spanien, 
+Ward die Beute Espartero's. 
+
+Nicht einmal die ühr gerettet! 
+Blieb zurück zu Pampeluna 
+In dem Leihhaus. War ein Erbstück, 
+]ECostbaF und von achtem Silber. 
+
+Und er lief mit langen Beinen. 
+Aber unbewusst, im Laufen, 
+Hat er Besseres gewonnen 
+Als die beste Schlacht — ein Herz! 
+
+Ja, sie liebt ihn, ihn, den Erbfeind! 
+O, der Unglücksergen Bärin! 
+Wüsst* der Vater das Geheimniss 
+Ganz entsetzlich würd* er brummen. 
+
+Gleich dem alten Odoardo, 
+Der mit Bürgerstolz erdolchte 
+Die Emilia Galotti, 
+Würde auch der Atta Troll. 
+
+Seine Tochter lieber tödten, 
+Tödten mit den eignen Tatzen, 
+Als erlauben, dass sie sänke 
+In die Arme eines Prinzen! 
+
+
+
+97 
+
+Doch in diesem Augenblicke 
+Ist er weich gestimmt, hat keine 
+Last zu brechen eine Hose 
+Eh* der Sturmwind sie entblättert. 
+
+Weich gestimmt, liegt Atta Troll 
+In der Hohle bei den Seinen. 
+Ihn beschleicht, wie Todesahnung, 
+Trübe Sehnsucht nach dem Jenseits! 
+
+
+
+„Kinder!" —^ seufzt er und es triefen 
+Plötzlich seine grossen Augen -— 
+„Kinder! meine Erdenwallfahrt 
+Ist vollbracht, wir müssen scheiden. 
+
+„Heute Mittag kam im Schlafe 
+Mir ein Traum, der sehr bedeutsam. 
+Mein Gemüth genoss das süsse 
+Vorgefühl des baldigen Sterbens. 
+
+„Bin fürwahr nicht abergläubisch. 
+Bin kein Easelbär — doch giebt es 
+Dinge zwischen Erd' und Himmel, 
+Die dem Denker unerklärlich. 
+
+
+
+„Ueber Welt und Schicksal grübelnd, 
+
+War ich gähnend eingeschlafen. 
+
+Als mir träumte, dass ich läge 
+
+Unter einem grossen Baume. 
+Uiiirs*8 ÄUa Troll» 7 
+
+
+
+98 
+
+„Aus den Aesten dieses Baumes 
+Troff heniDter weisser Honig, 
+Glitt mir just in 's offene Maul, 
+Und ich fühlte süsse Wonne. 
+
+„Selig blinzelnd in die Höhe, 
+Sah' ich in des Baumes Wipfel 
+Etwa sieben kleine Bärchen, 
+Die dort auf und nieder rutschten. 
+
+,.Zarte, zierliche Geschöpfe, 
+Deren Pelz von rosenrother 
+Farbe war und an den Schultern 
+Seidig flockte wie zwey Fläglein. 
+
+„Ja, wie seidne Flüglein hatten 
+Diese rosenrothen Bärchen, 
+Und mit überirdisch feinen 
+Flötenstimmen sangen sie! 
+
+„Wie sie sangen, wurde eiskalt 
+Meine Haut, doch aus der Haut fuhr 
+Mir die SeeF, gleich einer Flamme; 
+Strahlend stieg sie in den Himmel." 
+
+Also sprach mit bebend weichem 
+Grunzton Atta Troll. Er schwieg 
+Eine Weile, wehmuthsvoll — 
+Aber seine Ohren plötzlich 
+
+
+
+99 
+
+Spitsten sich and zuckten seltsam, 
+Und empor vom Lager sprang er, 
+Freud ezittemd, freudebr&llend: 
+^Kinder, hört Ihr diese Laute? 
+
+„Ist das nicht die süsse Stimme 
+Eurer Mutter? 0, ich kenne 
+Das Gebrumme meiner Mummal 
+Mamma! meine schwarze Mumma!** 
+
+Atta Troll, mit diesen Worten 
+Stürzte wie'n Verrückter fort 
+Aus der Höhle, in*s Verderben! 
+Ach! er stürzte in sein Unglück! 
+
+
+
+C » p n I XXIV. 
+
+
+
+In dem Thal von Ronceval, 
+Auf demselben Platz, wo weiland 
+Des Caroli Magni Neffe 
+Seine Seele ansgeröchell, 
+
+Porten fiel auch Atta Troll, 
+Fiel durch Hinterhalt, wie jener, 
+Den der ritterliche Judas, 
+Ganelon von Mainz, vorrathen. 
+
+Ach! das Edelste im Bären, 
+Pas Gefühl der Gattenliebe, 
+Ward ein Fallstrick, den Uraka 
+Listig zu benutzen wusste. 
+
+Pas Gebrumm der schwarzen Mumma 
+Hat sie nachgeäfft so täuschend, 
+Dass der Atta Troll gelockt ward 
+Aus der sichern Bärenhöhle — 
+
+
+
+101 
+
+„Wie anf Sehasochtsfiägf In lief er 
+Dnrch das Thal, atand zärtlich schnoperad 
+Manchmal still vor einem Felsen, 
+Glaaht» die Mamma sei versteckt dort — 
+
+Achl versteckt war dort Laskaro 
+Mit der Flinte; dieser schoss ihn 
+Mitten durch das frohe Herz •— 
+Quoll heiTor ein rother Blatstrom. 
+
+Mit dem Kopfe wackelt* er 
+Einigemal, doch endlich stürzt er 
+Stöhnend nieder, zuckte gr'asslich — 
+„Mnmma!" war sein letzter Seufzer. 
+
+Also fiel der edle Held. 
+
+Also starb er. Doch unsterhlich 
+
+Nach dem Tode auferstehn 
+
+Wird er in dem Lied des Dichters. 
+
+Auferstehn wird er im Liede, 
+Und sein Ruhm wird kolossal 
+Auf yierfüssigen Trochäen 
+lieber diese Erde stelzen. 
+
+Der ♦♦**** setzt ihm 
+In Walhalla einst ein Denkmal 
+Und darauf, im ****** 
+Lapidarstyl, auch die Insohrifit: 
+
+
+
+102 
+
+„Atta Troll, Tendenzbär; sittlich 
+„Religiös; als Gatt« brünstig; 
+„Durch Yerfahrtseyn von dem Zeitgeist, 
+„WaldnrsprüBglich Sanskülotte; 
+
+„Sehr schlecht tanzend, doch Oesinnnng 
+„Tragend in der zott'gen Hochbmst; 
+„Manchmal auch gestanken habend; 
+„Kein Talent, doch ein Charakter! 
+
+
+
+Caput XW 
+
+
+
+Drei und dreiseig alte Weiber, 
+Auf dem Haupt die scharlachrothe 
+Altbaskesische Eaputze, 
+Standen an des Dorfes Eingang. 
+
+Eine drunter, wie Debora, 
+Schlug das Tamburin und tanzte, 
+Und sie sang dabei ein Loblied 
+
+Auf Laskaro BärentÖdter. 
+
+• 
+
+Vier gewaltige Männer trugen 
+Im Triumph den todten Bären; 
+Aufrecht sass er in dem Sessel, 
+Wie ein kranker Badegast 
+
+Hinterdrein, wie Anverwandte 
+Des Verstorb'nen, ging Laskaro 
+Mit Uraka; diese grüsste 
+Bechts und links» doch sehr verlegen. 
+
+
+
+104 
+
+Der Adjunkt des Maires hielt 
+Eine Rede vor dem Rathhaus, 
+Als der Zug dorthin gelangte, 
+Und er sprach von vielen Dingen — 
+
+Wie z. B. von dem Aufschwung 
+Der Marine, von der Presse, 
+Von der Runkelrübenfrage, 
+Von der Hyder der Parteisucht. 
+
+Die Verdienste Ludwig Philipps 
+Reichlich auseinandersetzend, 
+Ging er über zu dem Bären 
+Und der Grossthat des Laskaro. 
+
+„Du Laskaro I" rief der Redner, 
+Und er wischte sich den Schweifis ab 
+Mit der trikoloren Schärpe — 
+„Du Laskaro! du Laskaro! 
+
+r 
+
+„Der du Frankreich und Hispanien 
+Von dem Atta Troll befreit hast, 
+Du bist beider Länder Held, 
+Pyrenäen-Lafay ette I** 
+
+Als Laskaro solchermassen 
+Offiziell sich rühmen hörte, 
+Lachte er vergnügt im Barte 
+Und erröthete vor Freude. 
+
+
+
+105 
+
+Und in abgebrochenen Xianteq, 
+Die sich seltsam überstürzten. 
+Hat er seinen Dank gestottert 
+Für die grosse, grosse Ehre! 
+
+Mit Verwand'rnng blickte jeder 
+Auf das Tmerhörte Schanspiel, 
+Und geheimnissvoll und ängstlich 
+Murmelten die alten Weiber: 
+
+Der Laskaro hat gelacht! 
+Der Laskaro hat errothet! 
+Der Laskaro hat gesprochen! 
+Er, der todte Sohn der Hexe! — 
+
+Selb'gen Tags ward ausgebälgt 
+Atta Troll und ward versteigert 
+Seine Haut. Für hundert Franken 
+Hat ein Kürschner sie erstanden. 
+
+Wunderschön staffierte dieser, 
+Und verbrämte sie mit Scharlach, 
+Und verhandelte sie weiter 
+Für das Doppelte des Preises. 
+
+Erst aus dritter Hand bekam sie 
+Juliette, und in ihrem 
+Schlafgemache zu Paris 
+Liegt sie vor dem Bett als Fussdeck. 
+
+
+
+1 
+
+
+
+106 
+
+0, wie oft, mit blossen Füssen, 
+Stand ich Nachts auf dieser irdisch 
+Braunen Hülle meines Helden, 
+Anf der Haut des Atta Troll! 
+
+Und von Wehmuth tief ergriffen, 
+Dacht ich dann an Schiller's Worte; 
+Was im Lied soll ewig leben, 
+Muss Im Leben untergehn! 
+
+
+
+Caput XX¥I. 
+
+
+
+Und die Mamma? Ach, die Mamma 
+Ist ein Weib! Gebrechlichkeit 
+Ist ihr Name! Ach, die Weiber 
+Sind wie Porzellan gebrechlich. 
+
+Als des Schicksals Hand sie trennte 
+Von dem glorreich edlen Gatten, 
+Starb sie nicht des Eammertodes, 
+Ging sie nicht in Trübsinn unter — 
+
+Nein, im Gegentheil, sie setzte 
+Lustig fort ihr Leben, tanzte 
+Nach wie vor, beim Publike 
+Buhlend um den Tagesbeifall. 
+
+Eine feste Stellung, eine 
+Lebenslängliche Versorgung, 
+Hat sie endlich zu Paris 
+Im Jardin-des-Plantes gefunden. 
+
+
+
+108 
+
+Als ich dorten Tor'gen Sonntag 
+Mich erging mit Julietten, 
+Und ihr die Natur erklärte, 
+Die Gewächse und die Bestien, 
+
+Die Giraffe und die Ceder 
+Von dem Libanon, das grosse 
+Dromedar, die Goldfasanen, 
+Auch das Zebra '- — im Gespräche 
+
+Blieben wir am Ende stehen 
+An der Brüstung jener Grabe, 
+Wo die Bären residiren — 
+Heirger Herr, was sahn wir dort! 
+
+Ein gewalt*ger Wustenbär 
+Ans Siberien, schneeweisshaarigt, 
+Spielte dort ein überzartes 
+Liebesspiel mit einer Bärin. 
+
+Diese aber war die Mumma! 
+War die Gattin Atta Troirs! 
+Ich erkannte sie am zärtlich 
+Feuchten Glänze ihres Auges. 
+
+Ja, sie war es! Sie, des Südens 
+Schwarze Tochter! Sie, die Mumma, 
+Lebt mit einem Russen jetzt. 
+Einem nordischen Barbaren! 
+
+
+
+109 
+
+Schmunzelnd sprach zu mir ein Neger, 
+Der zu ubs herangetreten: 
+),Qiebt es wohl ein schöneres Schauspiel 
+Als zwei Liebende zu sehen?" 
+
+Ich entgegnete: Mit wem 
+Hab' ich hier die Ehr* zu sprechen? 
+Jener aber rief verwundert : 
+„Kennen sie mich gar nicht wieder? 
+
+„Ich bin ja der Mohrenfärst, 
+
+Der bei Freiligrath getrommelt. 
+
+Damals ging's mir schlecht, in Deutschland 
+
+Fand ich mich sehr isolirt. 
+
+„Aber hier, wo ich als Wärter 
+Angestellt, wo ich die Pflanzen 
+Meines Tropenvaterlandes 
+Und auch Low* und Tiger finde: 
+
+„Hier ist mir gemüthlich wohler 
+Als bei Euch auf deutschen Messen, 
+Wo ich täglich trommeln musste 
+Und so schlecht gefüttert wurde! 
+
+„HaV mich jüngst vermählt mit einer 
+Blonden Köchin aus dem Elsass. 
+Ganz und gar in ihren Armen, 
+Wird mir heimathlich zu Muthe! 
+
+
+
+110 
+
+^Ihre Füsse mahnen mich 
+
+An die holden Elephanten. 
+
+Wenn sie spricht französisch, klingt mir's 
+
+Wie die schwarze Muttersprache, 
+
+„Manchmal keift sie, und ich denke 
+An das Hasseln jener Trommel, 
+Die mit Schädeln war behangen; 
+Schlang* und Leu entflohn davor. 
+
+„Doch im Mondschein, sehr empfindsam 
+Weint sie wie ein Krokodil, 
+Das aus lauem Strom herrorblickt, 
+Um die Kühle zu gemessen* 
+
+„Und sie giebt mir gute Bissen! 
+Ich gedeih' I Mit meinem alten, 
+Afrikanischem App*tit, 
+Wie am Niger, fress' ich wieder! 
+
+„Hab* mir schon ein rundes Bäuchlein 
+Angemästet. Aus dem Hemde 
+Schaut's hervor, wie'n schwarzer Mond, 
+Der aus weissen Wolken tritt." 
+
+
+
+I 
+
+
+
+Caput XXVII. 
+
+
+
+(An Angast Vjirnliagen von Ense.) 
+
+Wo des Himmels, Meister Ludwig, 
+Habt Ihr all* das tolle Zeug 
+Aufgegabelt? Diese Worte 
+Rief der Kardinal yon Este, 
+
+Als er das Gedicht gelesen 
+Von des Boland's Rasereien, 
+Das Ariosto unterthanig 
+Seiner Eminenz gewidmet. 
+
+Ja, Vambagen» alter Freund, 
+Ja, ich seh' um deine Lippen 
+Fast dieselben Worte schweben. 
+Mit demselben feinen Lächeln. 
+
+Manchmal lachst du gar im Lesen! 
+Doch mitunter mag sich ernsthaft 
+Deine hohe Stime furchen, 
+Und Erinn'mng überschleicht dich: — 
+
+
+
+112 
+
+„Klang das uicht wie Jugendträame, 
+Die ich traamte mit Chamisso 
+Und Brentano und Fouqu€, 
+In den blauen Mondscheinnächten? 
+
+„Ist das nicht das fromme Läuten 
+Der verlornen Waldkapelle? 
+Klingelt schalkhaft nicht dazwischen 
+Die bekannte Schellenkappe? 
+
+„In die Nachtigallenchöre 
+Bricht herein der Bärenbrnmmbass, 
+Dumpf und grollend, dieser wechselt 
+Wieder ab mit Geisterlispeln ! 
+
+„Wahnsinn, der sich klug gebehrdet! 
+Weisheit, welche überschnappt! 
+Sterbeseufzer, welche plötzlich 
+Sich verwandeln in Gelächter!...'* 
+
+Ja, mein Freund, es sind die Klänge 
+Aus der längst verschoirnen Traumzeit; 
+Nur dass oft moderne Triller 
+Gaukeln durch den alten Grundton. 
+
+Trotz des Uebermuthes wirst du 
+Hie und dort Verzagniss spüren — 
+Deiner wohlerprobten Milde 
+Sei empfohlen dies Qedioht! 
+
+
+
+l • 1 
+
+
+
+113 
+
+Ach, es ist yielleicht das letzte 
+Freie Waldlied der Romantik! 
+In des Tages Brand- und Schlachtlärm 
+Wird es kümmerlich yerhallen. 
+
+Andre Zeiten, andre Vögel! 
+
+Andre Vögel, apdre Lieder! 
+
+Welch ein Schnattern, wie von Gänsen, 
+
+Die das Capitol gerettet! 
+
+Welch ein Zwitschern! Das sind Spatsen, 
+Pfennigslichtchen in den Krallen; 
+Sie gehehrden sich wie Jovis 
+Adler mit dem Donnerkeil! 
+
+Welch ein Gnrren! Turteltauben, 
+Liebesatt, sie wollen hassen, 
+Und hinfuhro statt der Venns 
+Nur Bellonas Wagen ziehen! 
+
+Welch ein Sammsei^ welterschütternd! 
+Das sind ja des Völkerfrühlings 
+Kolossale Majenkäfer, 
+Von Berserkerwuth ergriffen! 
+
+Andre Zeiten! andre Vögel! 
+Andre Vögel, andre Lieder! 
+Sie gefielen mir vielleicht. 
+Wenn ich andre Ohren hätte! 
+
+Hbihb's Atta D^oU, 8 
+
+
+
+B=- ^ ^- 
+
+
+
+> 
+
+
+
+y 
+
+
+
+' Ileinvich lU-uu' «ind tblgonde. 
+
+
+
+% orinisrlitc «flirilU'"- -^ TUeilc- 
+itin'li der UtMlcr. 
+I>«'r ««».-ilo.!. 4 Thoilc. 
+
+'«' fSoiti.-iiilisrlBi-^ ^elusle- 
+
+"«' €.;c^4lifli4f'. 
+
+^»«»B- I^ „ ,S ^v i s» I» « r II «". 
+
+^■**<^**»1 anil. l^.in W j n* <m imV» l;'< ^i»-*^ 
+
+-• «« ^^ «TO. 
+
+
+
+^vr»n 
+
+
+
+11 »C: 5* 
+
+
+
+
+3 2044 024 259 988 
+
+
+
+S 
+
+
+
+*•-. u# 
+
+
+
+THE BORROWER WILL BE CHARGED 
+THE COST OF OVERDUE NOTIFICATION 
+IF THFS BOOK IS NOT RETURNED TO 
+THE LIBRARY ON CR BEFORE THE LAST 
+DATE STAMPED BELOW. 
+
+
+
+
